@@ -1,0 +1,7 @@
+# Streamlit Community Cloud installs from this file (repo root).
+# Kept loose deliberately; dashboard/requirements-lock.txt has exact pins
+# from the working local environment if a version ever breaks the build.
+streamlit>=1.40
+plotly>=6.0
+pandas>=2.2
+numpy>=1.26

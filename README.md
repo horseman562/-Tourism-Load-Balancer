@@ -14,14 +14,22 @@ demand could realistically move — and to exactly where.
 
 | | Visitors 2024 | Residents | Visitors per resident |
 |---|---|---|---|
-| **Johor** | 17.1M | 4,184k | **4.1** |
+| **Sabah** | 20.6M | 3,742k | **5.5** |
 | **Melaka** | 19.1M | 1,047k | **18.3** |
+| **Johor** | 17.1M | 4,184k | **4.1** |
 
-Almost the same crowd. But Melaka is a quarter the size, so it carries **four times the
-load** — on roads, water, waste collection and housing built for one million people.
+Three states, roughly the same number of visitors. Sabah receives **more** visitors than
+Melaka and is still **three times calmer**, because Melaka is a quarter its size. Johor
+takes 17 million comfortably across 4.2 million residents.
+
+The load is not in the visitor count. It is in the ratio — and the ratio varies more than
+four-fold across states that look identical on a visitor-count ranking.
 
 Malaysia recorded **260.1 million domestic visitor arrivals in 2024, up 21.7%**. Counting
 visitors hides this problem entirely. Dividing by the people who live there reveals it.
+Across all 16 states and territories the range runs **4.1 to 21.3 visitors per resident**;
+these three are shown because their visitor counts are so close, not because they are the
+extremes.
 
 ---
 

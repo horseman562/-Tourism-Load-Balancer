@@ -1,0 +1,673 @@
+state,year,indicator,value
+Johor,2018,total_receipts_rm_million,6726.0
+Johor,2019,total_receipts_rm_million,7410.0
+Johor,2020,total_receipts_rm_million,2432.0
+Johor,2021,total_receipts_rm_million,1252.0
+Johor,2022,total_receipts_rm_million,4888.0
+Johor,2023,total_receipts_rm_million,6699.0
+Johor,2024,total_receipts_rm_million,7814.0
+Johor,2018,domestic_visitors_thousand,13487.0
+Johor,2019,domestic_visitors_thousand,14274.0
+Johor,2020,domestic_visitors_thousand,7243.0
+Johor,2021,domestic_visitors_thousand,3658.0
+Johor,2022,domestic_visitors_thousand,12376.0
+Johor,2023,domestic_visitors_thousand,15805.0
+Johor,2024,domestic_visitors_thousand,17138.0
+Johor,2018,domestic_trips_thousand,17646.0
+Johor,2019,domestic_trips_thousand,19136.0
+Johor,2020,domestic_trips_thousand,7915.0
+Johor,2021,domestic_trips_thousand,3797.0
+Johor,2022,domestic_trips_thousand,12965.0
+Johor,2023,domestic_trips_thousand,16494.0
+Johor,2024,domestic_trips_thousand,19204.0
+Johor,2018,avg_receipts_per_capita_rm,499.0
+Johor,2019,avg_receipts_per_capita_rm,519.0
+Johor,2020,avg_receipts_per_capita_rm,336.0
+Johor,2021,avg_receipts_per_capita_rm,342.0
+Johor,2022,avg_receipts_per_capita_rm,395.0
+Johor,2023,avg_receipts_per_capita_rm,424.0
+Johor,2024,avg_receipts_per_capita_rm,456.0
+Johor,2018,avg_receipts_per_trip_rm,381.0
+Johor,2019,avg_receipts_per_trip_rm,387.0
+Johor,2020,avg_receipts_per_trip_rm,307.0
+Johor,2021,avg_receipts_per_trip_rm,330.0
+Johor,2022,avg_receipts_per_trip_rm,377.0
+Johor,2023,avg_receipts_per_trip_rm,406.0
+Johor,2024,avg_receipts_per_trip_rm,407.0
+Johor,2018,avg_length_of_stay_nights,2.54
+Johor,2019,avg_length_of_stay_nights,2.54
+Johor,2020,avg_length_of_stay_nights,1.85
+Johor,2021,avg_length_of_stay_nights,2.06
+Johor,2022,avg_length_of_stay_nights,2.34
+Johor,2023,avg_length_of_stay_nights,2.18
+Johor,2024,avg_length_of_stay_nights,2.55
+Kedah,2018,total_receipts_rm_million,4724.0
+Kedah,2019,total_receipts_rm_million,5208.0
+Kedah,2020,total_receipts_rm_million,2273.0
+Kedah,2021,total_receipts_rm_million,842.0
+Kedah,2022,total_receipts_rm_million,3470.0
+Kedah,2023,total_receipts_rm_million,4207.0
+Kedah,2024,total_receipts_rm_million,4961.0
+Kedah,2018,domestic_visitors_thousand,14480.0
+Kedah,2019,domestic_visitors_thousand,14831.0
+Kedah,2020,domestic_visitors_thousand,10108.0
+Kedah,2021,domestic_visitors_thousand,4023.0
+Kedah,2022,domestic_visitors_thousand,11186.0
+Kedah,2023,domestic_visitors_thousand,13444.0
+Kedah,2024,domestic_visitors_thousand,14651.0
+Kedah,2018,domestic_trips_thousand,19648.0
+Kedah,2019,domestic_trips_thousand,19500.0
+Kedah,2020,domestic_trips_thousand,10362.0
+Kedah,2021,domestic_trips_thousand,4241.0
+Kedah,2022,domestic_trips_thousand,11894.0
+Kedah,2023,domestic_trips_thousand,13687.0
+Kedah,2024,domestic_trips_thousand,15984.0
+Kedah,2018,avg_receipts_per_capita_rm,326.0
+Kedah,2019,avg_receipts_per_capita_rm,351.0
+Kedah,2020,avg_receipts_per_capita_rm,225.0
+Kedah,2021,avg_receipts_per_capita_rm,209.0
+Kedah,2022,avg_receipts_per_capita_rm,310.0
+Kedah,2023,avg_receipts_per_capita_rm,313.0
+Kedah,2024,avg_receipts_per_capita_rm,339.0
+Kedah,2018,avg_receipts_per_trip_rm,240.0
+Kedah,2019,avg_receipts_per_trip_rm,267.0
+Kedah,2020,avg_receipts_per_trip_rm,219.0
+Kedah,2021,avg_receipts_per_trip_rm,199.0
+Kedah,2022,avg_receipts_per_trip_rm,292.0
+Kedah,2023,avg_receipts_per_trip_rm,307.0
+Kedah,2024,avg_receipts_per_trip_rm,310.0
+Kedah,2018,avg_length_of_stay_nights,2.29
+Kedah,2019,avg_length_of_stay_nights,2.31
+Kedah,2020,avg_length_of_stay_nights,1.97
+Kedah,2021,avg_length_of_stay_nights,1.96
+Kedah,2022,avg_length_of_stay_nights,2.11
+Kedah,2023,avg_length_of_stay_nights,2.03
+Kedah,2024,avg_length_of_stay_nights,2.77
+Kelantan,2018,total_receipts_rm_million,4001.0
+Kelantan,2019,total_receipts_rm_million,4800.0
+Kelantan,2020,total_receipts_rm_million,1555.0
+Kelantan,2021,total_receipts_rm_million,477.0
+Kelantan,2022,total_receipts_rm_million,2586.0
+Kelantan,2023,total_receipts_rm_million,3228.0
+Kelantan,2024,total_receipts_rm_million,4541.0
+Kelantan,2018,domestic_visitors_thousand,9846.0
+Kelantan,2019,domestic_visitors_thousand,10986.0
+Kelantan,2020,domestic_visitors_thousand,6058.0
+Kelantan,2021,domestic_visitors_thousand,1921.0
+Kelantan,2022,domestic_visitors_thousand,6627.0
+Kelantan,2023,domestic_visitors_thousand,7549.0
+Kelantan,2024,domestic_visitors_thousand,10514.0
+Kelantan,2018,domestic_trips_thousand,14238.0
+Kelantan,2019,domestic_trips_thousand,15911.0
+Kelantan,2020,domestic_trips_thousand,6568.0
+Kelantan,2021,domestic_trips_thousand,1972.0
+Kelantan,2022,domestic_trips_thousand,8784.0
+Kelantan,2023,domestic_trips_thousand,9300.0
+Kelantan,2024,domestic_trips_thousand,12464.0
+Kelantan,2018,avg_receipts_per_capita_rm,406.0
+Kelantan,2019,avg_receipts_per_capita_rm,437.0
+Kelantan,2020,avg_receipts_per_capita_rm,257.0
+Kelantan,2021,avg_receipts_per_capita_rm,248.0
+Kelantan,2022,avg_receipts_per_capita_rm,390.0
+Kelantan,2023,avg_receipts_per_capita_rm,428.0
+Kelantan,2024,avg_receipts_per_capita_rm,432.0
+Kelantan,2018,avg_receipts_per_trip_rm,281.0
+Kelantan,2019,avg_receipts_per_trip_rm,302.0
+Kelantan,2020,avg_receipts_per_trip_rm,237.0
+Kelantan,2021,avg_receipts_per_trip_rm,242.0
+Kelantan,2022,avg_receipts_per_trip_rm,294.0
+Kelantan,2023,avg_receipts_per_trip_rm,347.0
+Kelantan,2024,avg_receipts_per_trip_rm,364.0
+Kelantan,2018,avg_length_of_stay_nights,2.88
+Kelantan,2019,avg_length_of_stay_nights,3.01
+Kelantan,2020,avg_length_of_stay_nights,1.86
+Kelantan,2021,avg_length_of_stay_nights,3.14
+Kelantan,2022,avg_length_of_stay_nights,3.16
+Kelantan,2023,avg_length_of_stay_nights,3.07
+Kelantan,2024,avg_length_of_stay_nights,2.98
+Melaka,2018,total_receipts_rm_million,5564.0
+Melaka,2019,total_receipts_rm_million,6370.0
+Melaka,2020,total_receipts_rm_million,2373.0
+Melaka,2021,total_receipts_rm_million,1004.0
+Melaka,2022,total_receipts_rm_million,4843.0
+Melaka,2023,total_receipts_rm_million,6438.0
+Melaka,2024,total_receipts_rm_million,7933.0
+Melaka,2018,domestic_visitors_thousand,13123.0
+Melaka,2019,domestic_visitors_thousand,13979.0
+Melaka,2020,domestic_visitors_thousand,7275.0
+Melaka,2021,domestic_visitors_thousand,3878.0
+Melaka,2022,domestic_visitors_thousand,11757.0
+Melaka,2023,domestic_visitors_thousand,15559.0
+Melaka,2024,domestic_visitors_thousand,19128.0
+Melaka,2018,domestic_trips_thousand,21654.0
+Melaka,2019,domestic_trips_thousand,24043.0
+Melaka,2020,domestic_trips_thousand,9964.0
+Melaka,2021,domestic_trips_thousand,4364.0
+Melaka,2022,domestic_trips_thousand,16668.0
+Melaka,2023,domestic_trips_thousand,20094.0
+Melaka,2024,domestic_trips_thousand,24174.0
+Melaka,2018,avg_receipts_per_capita_rm,424.0
+Melaka,2019,avg_receipts_per_capita_rm,456.0
+Melaka,2020,avg_receipts_per_capita_rm,326.0
+Melaka,2021,avg_receipts_per_capita_rm,259.0
+Melaka,2022,avg_receipts_per_capita_rm,412.0
+Melaka,2023,avg_receipts_per_capita_rm,414.0
+Melaka,2024,avg_receipts_per_capita_rm,415.0
+Melaka,2018,avg_receipts_per_trip_rm,257.0
+Melaka,2019,avg_receipts_per_trip_rm,265.0
+Melaka,2020,avg_receipts_per_trip_rm,238.0
+Melaka,2021,avg_receipts_per_trip_rm,230.0
+Melaka,2022,avg_receipts_per_trip_rm,291.0
+Melaka,2023,avg_receipts_per_trip_rm,320.0
+Melaka,2024,avg_receipts_per_trip_rm,328.0
+Melaka,2018,avg_length_of_stay_nights,2.23
+Melaka,2019,avg_length_of_stay_nights,2.29
+Melaka,2020,avg_length_of_stay_nights,1.8
+Melaka,2021,avg_length_of_stay_nights,1.86
+Melaka,2022,avg_length_of_stay_nights,2.14
+Melaka,2023,avg_length_of_stay_nights,2.23
+Melaka,2024,avg_length_of_stay_nights,2.13
+Negeri Sembilan,2018,total_receipts_rm_million,4830.0
+Negeri Sembilan,2019,total_receipts_rm_million,5071.0
+Negeri Sembilan,2020,total_receipts_rm_million,2233.0
+Negeri Sembilan,2021,total_receipts_rm_million,1213.0
+Negeri Sembilan,2022,total_receipts_rm_million,3651.0
+Negeri Sembilan,2023,total_receipts_rm_million,4777.0
+Negeri Sembilan,2024,total_receipts_rm_million,5869.0
+Negeri Sembilan,2018,domestic_visitors_thousand,12802.0
+Negeri Sembilan,2019,domestic_visitors_thousand,13303.0
+Negeri Sembilan,2020,domestic_visitors_thousand,7918.0
+Negeri Sembilan,2021,domestic_visitors_thousand,5485.0
+Negeri Sembilan,2022,domestic_visitors_thousand,11490.0
+Negeri Sembilan,2023,domestic_visitors_thousand,14959.0
+Negeri Sembilan,2024,domestic_visitors_thousand,17785.0
+Negeri Sembilan,2018,domestic_trips_thousand,17541.0
+Negeri Sembilan,2019,domestic_trips_thousand,19414.0
+Negeri Sembilan,2020,domestic_trips_thousand,9567.0
+Negeri Sembilan,2021,domestic_trips_thousand,6555.0
+Negeri Sembilan,2022,domestic_trips_thousand,14279.0
+Negeri Sembilan,2023,domestic_trips_thousand,17801.0
+Negeri Sembilan,2024,domestic_trips_thousand,21817.0
+Negeri Sembilan,2018,avg_receipts_per_capita_rm,377.0
+Negeri Sembilan,2019,avg_receipts_per_capita_rm,381.0
+Negeri Sembilan,2020,avg_receipts_per_capita_rm,282.0
+Negeri Sembilan,2021,avg_receipts_per_capita_rm,221.0
+Negeri Sembilan,2022,avg_receipts_per_capita_rm,318.0
+Negeri Sembilan,2023,avg_receipts_per_capita_rm,319.0
+Negeri Sembilan,2024,avg_receipts_per_capita_rm,330.0
+Negeri Sembilan,2018,avg_receipts_per_trip_rm,275.0
+Negeri Sembilan,2019,avg_receipts_per_trip_rm,261.0
+Negeri Sembilan,2020,avg_receipts_per_trip_rm,233.0
+Negeri Sembilan,2021,avg_receipts_per_trip_rm,185.0
+Negeri Sembilan,2022,avg_receipts_per_trip_rm,256.0
+Negeri Sembilan,2023,avg_receipts_per_trip_rm,268.0
+Negeri Sembilan,2024,avg_receipts_per_trip_rm,269.0
+Negeri Sembilan,2018,avg_length_of_stay_nights,2.46
+Negeri Sembilan,2019,avg_length_of_stay_nights,2.46
+Negeri Sembilan,2020,avg_length_of_stay_nights,1.9
+Negeri Sembilan,2021,avg_length_of_stay_nights,1.72
+Negeri Sembilan,2022,avg_length_of_stay_nights,2.48
+Negeri Sembilan,2023,avg_length_of_stay_nights,2.42
+Negeri Sembilan,2024,avg_length_of_stay_nights,2.25
+Pahang,2018,total_receipts_rm_million,7405.0
+Pahang,2019,total_receipts_rm_million,7601.0
+Pahang,2020,total_receipts_rm_million,2748.0
+Pahang,2021,total_receipts_rm_million,914.0
+Pahang,2022,total_receipts_rm_million,5317.0
+Pahang,2023,total_receipts_rm_million,6733.0
+Pahang,2024,total_receipts_rm_million,8710.0
+Pahang,2018,domestic_visitors_thousand,18111.0
+Pahang,2019,domestic_visitors_thousand,18498.0
+Pahang,2020,domestic_visitors_thousand,9905.0
+Pahang,2021,domestic_visitors_thousand,3405.0
+Pahang,2022,domestic_visitors_thousand,13189.0
+Pahang,2023,domestic_visitors_thousand,16456.0
+Pahang,2024,domestic_visitors_thousand,20174.0
+Pahang,2018,domestic_trips_thousand,21896.0
+Pahang,2019,domestic_trips_thousand,22745.0
+Pahang,2020,domestic_trips_thousand,10380.0
+Pahang,2021,domestic_trips_thousand,3505.0
+Pahang,2022,domestic_trips_thousand,14994.0
+Pahang,2023,domestic_trips_thousand,17633.0
+Pahang,2024,domestic_trips_thousand,22665.0
+Pahang,2018,avg_receipts_per_capita_rm,409.0
+Pahang,2019,avg_receipts_per_capita_rm,411.0
+Pahang,2020,avg_receipts_per_capita_rm,277.0
+Pahang,2021,avg_receipts_per_capita_rm,269.0
+Pahang,2022,avg_receipts_per_capita_rm,403.0
+Pahang,2023,avg_receipts_per_capita_rm,409.0
+Pahang,2024,avg_receipts_per_capita_rm,432.0
+Pahang,2018,avg_receipts_per_trip_rm,338.0
+Pahang,2019,avg_receipts_per_trip_rm,334.0
+Pahang,2020,avg_receipts_per_trip_rm,265.0
+Pahang,2021,avg_receipts_per_trip_rm,261.0
+Pahang,2022,avg_receipts_per_trip_rm,355.0
+Pahang,2023,avg_receipts_per_trip_rm,382.0
+Pahang,2024,avg_receipts_per_trip_rm,384.0
+Pahang,2018,avg_length_of_stay_nights,2.46
+Pahang,2019,avg_length_of_stay_nights,2.49
+Pahang,2020,avg_length_of_stay_nights,1.93
+Pahang,2021,avg_length_of_stay_nights,1.92
+Pahang,2022,avg_length_of_stay_nights,2.11
+Pahang,2023,avg_length_of_stay_nights,2.13
+Pahang,2024,avg_length_of_stay_nights,2.17
+Perak,2018,total_receipts_rm_million,6469.0
+Perak,2019,total_receipts_rm_million,7824.0
+Perak,2020,total_receipts_rm_million,3317.0
+Perak,2021,total_receipts_rm_million,1160.0
+Perak,2022,total_receipts_rm_million,4541.0
+Perak,2023,total_receipts_rm_million,5641.0
+Perak,2024,total_receipts_rm_million,7224.0
+Perak,2018,domestic_visitors_thousand,17553.0
+Perak,2019,domestic_visitors_thousand,21071.0
+Perak,2020,domestic_visitors_thousand,13173.0
+Perak,2021,domestic_visitors_thousand,4489.0
+Perak,2022,domestic_visitors_thousand,14567.0
+Perak,2023,domestic_visitors_thousand,17108.0
+Perak,2024,domestic_visitors_thousand,21776.0
+Perak,2018,domestic_trips_thousand,23651.0
+Perak,2019,domestic_trips_thousand,28471.0
+Perak,2020,domestic_trips_thousand,14046.0
+Perak,2021,domestic_trips_thousand,4674.0
+Perak,2022,domestic_trips_thousand,17680.0
+Perak,2023,domestic_trips_thousand,18831.0
+Perak,2024,domestic_trips_thousand,23904.0
+Perak,2018,avg_receipts_per_capita_rm,369.0
+Perak,2019,avg_receipts_per_capita_rm,371.0
+Perak,2020,avg_receipts_per_capita_rm,252.0
+Perak,2021,avg_receipts_per_capita_rm,258.0
+Perak,2022,avg_receipts_per_capita_rm,312.0
+Perak,2023,avg_receipts_per_capita_rm,330.0
+Perak,2024,avg_receipts_per_capita_rm,332.0
+Perak,2018,avg_receipts_per_trip_rm,273.0
+Perak,2019,avg_receipts_per_trip_rm,275.0
+Perak,2020,avg_receipts_per_trip_rm,236.0
+Perak,2021,avg_receipts_per_trip_rm,248.0
+Perak,2022,avg_receipts_per_trip_rm,257.0
+Perak,2023,avg_receipts_per_trip_rm,300.0
+Perak,2024,avg_receipts_per_trip_rm,302.0
+Perak,2018,avg_length_of_stay_nights,1.85
+Perak,2019,avg_length_of_stay_nights,2.21
+Perak,2020,avg_length_of_stay_nights,1.85
+Perak,2021,avg_length_of_stay_nights,2.29
+Perak,2022,avg_length_of_stay_nights,2.43
+Perak,2023,avg_length_of_stay_nights,2.35
+Perak,2024,avg_length_of_stay_nights,2.35
+Perlis,2018,total_receipts_rm_million,617.0
+Perlis,2019,total_receipts_rm_million,579.0
+Perlis,2020,total_receipts_rm_million,224.0
+Perlis,2021,total_receipts_rm_million,78.0
+Perlis,2022,total_receipts_rm_million,456.0
+Perlis,2023,total_receipts_rm_million,584.0
+Perlis,2024,total_receipts_rm_million,1003.0
+Perlis,2018,domestic_visitors_thousand,2156.0
+Perlis,2019,domestic_visitors_thousand,2087.0
+Perlis,2020,domestic_visitors_thousand,1193.0
+Perlis,2021,domestic_visitors_thousand,407.0
+Perlis,2022,domestic_visitors_thousand,1669.0
+Perlis,2023,domestic_visitors_thousand,1951.0
+Perlis,2024,domestic_visitors_thousand,3225.0
+Perlis,2018,domestic_trips_thousand,2816.0
+Perlis,2019,domestic_trips_thousand,2695.0
+Perlis,2020,domestic_trips_thousand,1247.0
+Perlis,2021,domestic_trips_thousand,427.0
+Perlis,2022,domestic_trips_thousand,1800.0
+Perlis,2023,domestic_trips_thousand,2139.0
+Perlis,2024,domestic_trips_thousand,3660.0
+Perlis,2018,avg_receipts_per_capita_rm,286.0
+Perlis,2019,avg_receipts_per_capita_rm,277.0
+Perlis,2020,avg_receipts_per_capita_rm,188.0
+Perlis,2021,avg_receipts_per_capita_rm,192.0
+Perlis,2022,avg_receipts_per_capita_rm,273.0
+Perlis,2023,avg_receipts_per_capita_rm,299.0
+Perlis,2024,avg_receipts_per_capita_rm,311.0
+Perlis,2018,avg_receipts_per_trip_rm,219.0
+Perlis,2019,avg_receipts_per_trip_rm,215.0
+Perlis,2020,avg_receipts_per_trip_rm,180.0
+Perlis,2021,avg_receipts_per_trip_rm,183.0
+Perlis,2022,avg_receipts_per_trip_rm,253.0
+Perlis,2023,avg_receipts_per_trip_rm,273.0
+Perlis,2024,avg_receipts_per_trip_rm,274.0
+Perlis,2018,avg_length_of_stay_nights,2.32
+Perlis,2019,avg_length_of_stay_nights,2.55
+Perlis,2020,avg_length_of_stay_nights,2.45
+Perlis,2021,avg_length_of_stay_nights,2.21
+Perlis,2022,avg_length_of_stay_nights,2.35
+Perlis,2023,avg_length_of_stay_nights,2.21
+Perlis,2024,avg_length_of_stay_nights,2.49
+Pulau Pinang,2018,total_receipts_rm_million,6165.0
+Pulau Pinang,2019,total_receipts_rm_million,6654.0
+Pulau Pinang,2020,total_receipts_rm_million,2427.0
+Pulau Pinang,2021,total_receipts_rm_million,1159.0
+Pulau Pinang,2022,total_receipts_rm_million,3648.0
+Pulau Pinang,2023,total_receipts_rm_million,5815.0
+Pulau Pinang,2024,total_receipts_rm_million,7424.0
+Pulau Pinang,2018,domestic_visitors_thousand,14450.0
+Pulau Pinang,2019,domestic_visitors_thousand,15411.0
+Pulau Pinang,2020,domestic_visitors_thousand,8930.0
+Pulau Pinang,2021,domestic_visitors_thousand,5061.0
+Pulau Pinang,2022,domestic_visitors_thousand,10003.0
+Pulau Pinang,2023,domestic_visitors_thousand,13128.0
+Pulau Pinang,2024,domestic_visitors_thousand,16605.0
+Pulau Pinang,2018,domestic_trips_thousand,19370.0
+Pulau Pinang,2019,domestic_trips_thousand,21074.0
+Pulau Pinang,2020,domestic_trips_thousand,9231.0
+Pulau Pinang,2021,domestic_trips_thousand,5160.0
+Pulau Pinang,2022,domestic_trips_thousand,11706.0
+Pulau Pinang,2023,domestic_trips_thousand,15351.0
+Pulau Pinang,2024,domestic_trips_thousand,19160.0
+Pulau Pinang,2018,avg_receipts_per_capita_rm,427.0
+Pulau Pinang,2019,avg_receipts_per_capita_rm,432.0
+Pulau Pinang,2020,avg_receipts_per_capita_rm,272.0
+Pulau Pinang,2021,avg_receipts_per_capita_rm,229.0
+Pulau Pinang,2022,avg_receipts_per_capita_rm,365.0
+Pulau Pinang,2023,avg_receipts_per_capita_rm,443.0
+Pulau Pinang,2024,avg_receipts_per_capita_rm,447.0
+Pulau Pinang,2018,avg_receipts_per_trip_rm,318.0
+Pulau Pinang,2019,avg_receipts_per_trip_rm,316.0
+Pulau Pinang,2020,avg_receipts_per_trip_rm,263.0
+Pulau Pinang,2021,avg_receipts_per_trip_rm,225.0
+Pulau Pinang,2022,avg_receipts_per_trip_rm,312.0
+Pulau Pinang,2023,avg_receipts_per_trip_rm,379.0
+Pulau Pinang,2024,avg_receipts_per_trip_rm,387.0
+Pulau Pinang,2018,avg_length_of_stay_nights,2.51
+Pulau Pinang,2019,avg_length_of_stay_nights,2.5
+Pulau Pinang,2020,avg_length_of_stay_nights,2.03
+Pulau Pinang,2021,avg_length_of_stay_nights,2.14
+Pulau Pinang,2022,avg_length_of_stay_nights,2.59
+Pulau Pinang,2023,avg_length_of_stay_nights,2.4
+Pulau Pinang,2024,avg_length_of_stay_nights,2.58
+Sabah,2018,total_receipts_rm_million,7508.0
+Sabah,2019,total_receipts_rm_million,8081.0
+Sabah,2020,total_receipts_rm_million,2677.0
+Sabah,2021,total_receipts_rm_million,1052.0
+Sabah,2022,total_receipts_rm_million,4826.0
+Sabah,2023,total_receipts_rm_million,6713.0
+Sabah,2024,total_receipts_rm_million,8634.0
+Sabah,2018,domestic_visitors_thousand,20360.0
+Sabah,2019,domestic_visitors_thousand,22035.0
+Sabah,2020,domestic_visitors_thousand,10337.0
+Sabah,2021,domestic_visitors_thousand,3815.0
+Sabah,2022,domestic_visitors_thousand,12589.0
+Sabah,2023,domestic_visitors_thousand,16080.0
+Sabah,2024,domestic_visitors_thousand,20592.0
+Sabah,2018,domestic_trips_thousand,28299.0
+Sabah,2019,domestic_trips_thousand,31438.0
+Sabah,2020,domestic_trips_thousand,10861.0
+Sabah,2021,domestic_trips_thousand,4006.0
+Sabah,2022,domestic_trips_thousand,17255.0
+Sabah,2023,domestic_trips_thousand,19900.0
+Sabah,2024,domestic_trips_thousand,24106.0
+Sabah,2018,avg_receipts_per_capita_rm,369.0
+Sabah,2019,avg_receipts_per_capita_rm,367.0
+Sabah,2020,avg_receipts_per_capita_rm,259.0
+Sabah,2021,avg_receipts_per_capita_rm,276.0
+Sabah,2022,avg_receipts_per_capita_rm,383.0
+Sabah,2023,avg_receipts_per_capita_rm,417.0
+Sabah,2024,avg_receipts_per_capita_rm,419.0
+Sabah,2018,avg_receipts_per_trip_rm,265.0
+Sabah,2019,avg_receipts_per_trip_rm,257.0
+Sabah,2020,avg_receipts_per_trip_rm,246.0
+Sabah,2021,avg_receipts_per_trip_rm,263.0
+Sabah,2022,avg_receipts_per_trip_rm,280.0
+Sabah,2023,avg_receipts_per_trip_rm,337.0
+Sabah,2024,avg_receipts_per_trip_rm,358.0
+Sabah,2018,avg_length_of_stay_nights,2.68
+Sabah,2019,avg_length_of_stay_nights,2.79
+Sabah,2020,avg_length_of_stay_nights,1.96
+Sabah,2021,avg_length_of_stay_nights,2.31
+Sabah,2022,avg_length_of_stay_nights,3.06
+Sabah,2023,avg_length_of_stay_nights,2.67
+Sabah,2024,avg_length_of_stay_nights,3.01
+Sarawak,2018,total_receipts_rm_million,8145.0
+Sarawak,2019,total_receipts_rm_million,8671.0
+Sarawak,2020,total_receipts_rm_million,3385.0
+Sarawak,2021,total_receipts_rm_million,1935.0
+Sarawak,2022,total_receipts_rm_million,5431.0
+Sarawak,2023,total_receipts_rm_million,6943.0
+Sarawak,2024,total_receipts_rm_million,7957.0
+Sarawak,2018,domestic_visitors_thousand,19380.0
+Sarawak,2019,domestic_visitors_thousand,19793.0
+Sarawak,2020,domestic_visitors_thousand,9393.0
+Sarawak,2021,domestic_visitors_thousand,6511.0
+Sarawak,2022,domestic_visitors_thousand,15465.0
+Sarawak,2023,domestic_visitors_thousand,17901.0
+Sarawak,2024,domestic_visitors_thousand,19626.0
+Sarawak,2018,domestic_trips_thousand,23617.0
+Sarawak,2019,domestic_trips_thousand,24880.0
+Sarawak,2020,domestic_trips_thousand,11077.0
+Sarawak,2021,domestic_trips_thousand,7137.0
+Sarawak,2022,domestic_trips_thousand,19291.0
+Sarawak,2023,domestic_trips_thousand,21077.0
+Sarawak,2024,domestic_trips_thousand,23362.0
+Sarawak,2018,avg_receipts_per_capita_rm,420.0
+Sarawak,2019,avg_receipts_per_capita_rm,438.0
+Sarawak,2020,avg_receipts_per_capita_rm,360.0
+Sarawak,2021,avg_receipts_per_capita_rm,297.0
+Sarawak,2022,avg_receipts_per_capita_rm,351.0
+Sarawak,2023,avg_receipts_per_capita_rm,388.0
+Sarawak,2024,avg_receipts_per_capita_rm,405.0
+Sarawak,2018,avg_receipts_per_trip_rm,345.0
+Sarawak,2019,avg_receipts_per_trip_rm,349.0
+Sarawak,2020,avg_receipts_per_trip_rm,306.0
+Sarawak,2021,avg_receipts_per_trip_rm,271.0
+Sarawak,2022,avg_receipts_per_trip_rm,282.0
+Sarawak,2023,avg_receipts_per_trip_rm,329.0
+Sarawak,2024,avg_receipts_per_trip_rm,341.0
+Sarawak,2018,avg_length_of_stay_nights,3.39
+Sarawak,2019,avg_length_of_stay_nights,3.43
+Sarawak,2020,avg_length_of_stay_nights,2.55
+Sarawak,2021,avg_length_of_stay_nights,3.03
+Sarawak,2022,avg_length_of_stay_nights,3.52
+Sarawak,2023,avg_length_of_stay_nights,3.48
+Sarawak,2024,avg_length_of_stay_nights,3.09
+Selangor,2018,total_receipts_rm_million,13189.0
+Selangor,2019,total_receipts_rm_million,15544.0
+Selangor,2020,total_receipts_rm_million,7051.0
+Selangor,2021,total_receipts_rm_million,3159.0
+Selangor,2022,total_receipts_rm_million,8735.0
+Selangor,2023,total_receipts_rm_million,11103.0
+Selangor,2024,total_receipts_rm_million,14226.0
+Selangor,2018,domestic_visitors_thousand,30179.0
+Selangor,2019,domestic_visitors_thousand,33589.0
+Selangor,2020,domestic_visitors_thousand,19715.0
+Selangor,2021,domestic_visitors_thousand,10212.0
+Selangor,2022,domestic_visitors_thousand,21990.0
+Selangor,2023,domestic_visitors_thousand,27579.0
+Selangor,2024,domestic_visitors_thousand,34461.0
+Selangor,2018,domestic_trips_thousand,41388.0
+Selangor,2019,domestic_trips_thousand,45766.0
+Selangor,2020,domestic_trips_thousand,21898.0
+Selangor,2021,domestic_trips_thousand,11319.0
+Selangor,2022,domestic_trips_thousand,25988.0
+Selangor,2023,domestic_trips_thousand,28949.0
+Selangor,2024,domestic_trips_thousand,37023.0
+Selangor,2018,avg_receipts_per_capita_rm,437.0
+Selangor,2019,avg_receipts_per_capita_rm,463.0
+Selangor,2020,avg_receipts_per_capita_rm,358.0
+Selangor,2021,avg_receipts_per_capita_rm,309.0
+Selangor,2022,avg_receipts_per_capita_rm,397.0
+Selangor,2023,avg_receipts_per_capita_rm,403.0
+Selangor,2024,avg_receipts_per_capita_rm,413.0
+Selangor,2018,avg_receipts_per_trip_rm,319.0
+Selangor,2019,avg_receipts_per_trip_rm,340.0
+Selangor,2020,avg_receipts_per_trip_rm,322.0
+Selangor,2021,avg_receipts_per_trip_rm,279.0
+Selangor,2022,avg_receipts_per_trip_rm,336.0
+Selangor,2023,avg_receipts_per_trip_rm,384.0
+Selangor,2024,avg_receipts_per_trip_rm,384.0
+Selangor,2018,avg_length_of_stay_nights,1.87
+Selangor,2019,avg_length_of_stay_nights,2.24
+Selangor,2020,avg_length_of_stay_nights,1.64
+Selangor,2021,avg_length_of_stay_nights,1.83
+Selangor,2022,avg_length_of_stay_nights,2.32
+Selangor,2023,avg_length_of_stay_nights,2.24
+Selangor,2024,avg_length_of_stay_nights,2.24
+Terengganu,2018,total_receipts_rm_million,5585.0
+Terengganu,2019,total_receipts_rm_million,5990.0
+Terengganu,2020,total_receipts_rm_million,2255.0
+Terengganu,2021,total_receipts_rm_million,984.0
+Terengganu,2022,total_receipts_rm_million,3363.0
+Terengganu,2023,total_receipts_rm_million,4192.0
+Terengganu,2024,total_receipts_rm_million,5170.0
+Terengganu,2018,domestic_visitors_thousand,13742.0
+Terengganu,2019,domestic_visitors_thousand,14158.0
+Terengganu,2020,domestic_visitors_thousand,7420.0
+Terengganu,2021,domestic_visitors_thousand,3719.0
+Terengganu,2022,domestic_visitors_thousand,10233.0
+Terengganu,2023,domestic_visitors_thousand,11761.0
+Terengganu,2024,domestic_visitors_thousand,14461.0
+Terengganu,2018,domestic_trips_thousand,22651.0
+Terengganu,2019,domestic_trips_thousand,24902.0
+Terengganu,2020,domestic_trips_thousand,10084.0
+Terengganu,2021,domestic_trips_thousand,4129.0
+Terengganu,2022,domestic_trips_thousand,12791.0
+Terengganu,2023,domestic_trips_thousand,13869.0
+Terengganu,2024,domestic_trips_thousand,16499.0
+Terengganu,2018,avg_receipts_per_capita_rm,406.0
+Terengganu,2019,avg_receipts_per_capita_rm,423.0
+Terengganu,2020,avg_receipts_per_capita_rm,304.0
+Terengganu,2021,avg_receipts_per_capita_rm,265.0
+Terengganu,2022,avg_receipts_per_capita_rm,329.0
+Terengganu,2023,avg_receipts_per_capita_rm,356.0
+Terengganu,2024,avg_receipts_per_capita_rm,358.0
+Terengganu,2018,avg_receipts_per_trip_rm,247.0
+Terengganu,2019,avg_receipts_per_trip_rm,241.0
+Terengganu,2020,avg_receipts_per_trip_rm,224.0
+Terengganu,2021,avg_receipts_per_trip_rm,238.0
+Terengganu,2022,avg_receipts_per_trip_rm,263.0
+Terengganu,2023,avg_receipts_per_trip_rm,302.0
+Terengganu,2024,avg_receipts_per_trip_rm,313.0
+Terengganu,2018,avg_length_of_stay_nights,2.6
+Terengganu,2019,avg_length_of_stay_nights,2.58
+Terengganu,2020,avg_length_of_stay_nights,2.06
+Terengganu,2021,avg_length_of_stay_nights,2.2
+Terengganu,2022,avg_length_of_stay_nights,2.69
+Terengganu,2023,avg_length_of_stay_nights,2.59
+Terengganu,2024,avg_length_of_stay_nights,2.5
+W.P. Kuala Lumpur,2018,total_receipts_rm_million,10235.0
+W.P. Kuala Lumpur,2019,total_receipts_rm_million,12141.0
+W.P. Kuala Lumpur,2020,total_receipts_rm_million,5273.0
+W.P. Kuala Lumpur,2021,total_receipts_rm_million,3084.0
+W.P. Kuala Lumpur,2022,total_receipts_rm_million,7733.0
+W.P. Kuala Lumpur,2023,total_receipts_rm_million,10995.0
+W.P. Kuala Lumpur,2024,total_receipts_rm_million,14078.0
+W.P. Kuala Lumpur,2018,domestic_visitors_thousand,19165.0
+W.P. Kuala Lumpur,2019,domestic_visitors_thousand,22633.0
+W.P. Kuala Lumpur,2020,domestic_visitors_thousand,12435.0
+W.P. Kuala Lumpur,2021,domestic_visitors_thousand,9116.0
+W.P. Kuala Lumpur,2022,domestic_visitors_thousand,16913.0
+W.P. Kuala Lumpur,2023,domestic_visitors_thousand,22233.0
+W.P. Kuala Lumpur,2024,domestic_visitors_thousand,26983.0
+W.P. Kuala Lumpur,2018,domestic_trips_thousand,24682.0
+W.P. Kuala Lumpur,2019,domestic_trips_thousand,28991.0
+W.P. Kuala Lumpur,2020,domestic_trips_thousand,13223.0
+W.P. Kuala Lumpur,2021,domestic_trips_thousand,10824.0
+W.P. Kuala Lumpur,2022,domestic_trips_thousand,19878.0
+W.P. Kuala Lumpur,2023,domestic_trips_thousand,24012.0
+W.P. Kuala Lumpur,2024,domestic_trips_thousand,30640.0
+W.P. Kuala Lumpur,2018,avg_receipts_per_capita_rm,534.0
+W.P. Kuala Lumpur,2019,avg_receipts_per_capita_rm,536.0
+W.P. Kuala Lumpur,2020,avg_receipts_per_capita_rm,424.0
+W.P. Kuala Lumpur,2021,avg_receipts_per_capita_rm,338.0
+W.P. Kuala Lumpur,2022,avg_receipts_per_capita_rm,457.0
+W.P. Kuala Lumpur,2023,avg_receipts_per_capita_rm,495.0
+W.P. Kuala Lumpur,2024,avg_receipts_per_capita_rm,522.0
+W.P. Kuala Lumpur,2018,avg_receipts_per_trip_rm,415.0
+W.P. Kuala Lumpur,2019,avg_receipts_per_trip_rm,419.0
+W.P. Kuala Lumpur,2020,avg_receipts_per_trip_rm,399.0
+W.P. Kuala Lumpur,2021,avg_receipts_per_trip_rm,285.0
+W.P. Kuala Lumpur,2022,avg_receipts_per_trip_rm,389.0
+W.P. Kuala Lumpur,2023,avg_receipts_per_trip_rm,458.0
+W.P. Kuala Lumpur,2024,avg_receipts_per_trip_rm,459.0
+W.P. Kuala Lumpur,2018,avg_length_of_stay_nights,2.57
+W.P. Kuala Lumpur,2019,avg_length_of_stay_nights,2.39
+W.P. Kuala Lumpur,2020,avg_length_of_stay_nights,1.83
+W.P. Kuala Lumpur,2021,avg_length_of_stay_nights,2.18
+W.P. Kuala Lumpur,2022,avg_length_of_stay_nights,3.09
+W.P. Kuala Lumpur,2023,avg_length_of_stay_nights,2.7
+W.P. Kuala Lumpur,2024,avg_length_of_stay_nights,2.23
+W.P. Labuan,2018,total_receipts_rm_million,391.0
+W.P. Labuan,2019,total_receipts_rm_million,392.0
+W.P. Labuan,2020,total_receipts_rm_million,60.0
+W.P. Labuan,2021,total_receipts_rm_million,29.0
+W.P. Labuan,2022,total_receipts_rm_million,136.0
+W.P. Labuan,2023,total_receipts_rm_million,194.0
+W.P. Labuan,2024,total_receipts_rm_million,265.0
+W.P. Labuan,2018,domestic_visitors_thousand,545.0
+W.P. Labuan,2019,domestic_visitors_thousand,524.0
+W.P. Labuan,2020,domestic_visitors_thousand,108.0
+W.P. Labuan,2021,domestic_visitors_thousand,54.0
+W.P. Labuan,2022,domestic_visitors_thousand,244.0
+W.P. Labuan,2023,domestic_visitors_thousand,331.0
+W.P. Labuan,2024,domestic_visitors_thousand,450.0
+W.P. Labuan,2018,domestic_trips_thousand,725.0
+W.P. Labuan,2019,domestic_trips_thousand,774.0
+W.P. Labuan,2020,domestic_trips_thousand,109.0
+W.P. Labuan,2021,domestic_trips_thousand,54.0
+W.P. Labuan,2022,domestic_trips_thousand,263.0
+W.P. Labuan,2023,domestic_trips_thousand,373.0
+W.P. Labuan,2024,domestic_trips_thousand,482.0
+W.P. Labuan,2018,avg_receipts_per_capita_rm,718.0
+W.P. Labuan,2019,avg_receipts_per_capita_rm,748.0
+W.P. Labuan,2020,avg_receipts_per_capita_rm,562.0
+W.P. Labuan,2021,avg_receipts_per_capita_rm,545.0
+W.P. Labuan,2022,avg_receipts_per_capita_rm,559.0
+W.P. Labuan,2023,avg_receipts_per_capita_rm,586.0
+W.P. Labuan,2024,avg_receipts_per_capita_rm,588.0
+W.P. Labuan,2018,avg_receipts_per_trip_rm,539.0
+W.P. Labuan,2019,avg_receipts_per_trip_rm,506.0
+W.P. Labuan,2020,avg_receipts_per_trip_rm,553.0
+W.P. Labuan,2021,avg_receipts_per_trip_rm,545.0
+W.P. Labuan,2022,avg_receipts_per_trip_rm,518.0
+W.P. Labuan,2023,avg_receipts_per_trip_rm,521.0
+W.P. Labuan,2024,avg_receipts_per_trip_rm,549.0
+W.P. Labuan,2018,avg_length_of_stay_nights,3.28
+W.P. Labuan,2019,avg_length_of_stay_nights,3.05
+W.P. Labuan,2020,avg_length_of_stay_nights,1.57
+W.P. Labuan,2021,avg_length_of_stay_nights,2.52
+W.P. Labuan,2022,avg_length_of_stay_nights,3.67
+W.P. Labuan,2023,avg_length_of_stay_nights,2.89
+W.P. Labuan,2024,avg_length_of_stay_nights,2.84
+W.P. Putrajaya,2018,total_receipts_rm_million,1008.0
+W.P. Putrajaya,2019,total_receipts_rm_million,849.0
+W.P. Putrajaya,2020,total_receipts_rm_million,142.0
+W.P. Putrajaya,2021,total_receipts_rm_million,68.0
+W.P. Putrajaya,2022,total_receipts_rm_million,456.0
+W.P. Putrajaya,2023,total_receipts_rm_million,670.0
+W.P. Putrajaya,2024,total_receipts_rm_million,937.0
+W.P. Putrajaya,2018,domestic_visitors_thousand,1892.0
+W.P. Putrajaya,2019,domestic_visitors_thousand,1949.0
+W.P. Putrajaya,2020,domestic_visitors_thousand,451.0
+W.P. Putrajaya,2021,domestic_visitors_thousand,223.0
+W.P. Putrajaya,2022,domestic_visitors_thousand,1306.0
+W.P. Putrajaya,2023,domestic_visitors_thousand,1900.0
+W.P. Putrajaya,2024,domestic_visitors_thousand,2557.0
+W.P. Putrajaya,2018,domestic_trips_thousand,2592.0
+W.P. Putrajaya,2019,domestic_trips_thousand,2637.0
+W.P. Putrajaya,2020,domestic_trips_thousand,456.0
+W.P. Putrajaya,2021,domestic_trips_thousand,234.0
+W.P. Putrajaya,2022,domestic_trips_thousand,1551.0
+W.P. Putrajaya,2023,domestic_trips_thousand,1965.0
+W.P. Putrajaya,2024,domestic_trips_thousand,2711.0
+W.P. Putrajaya,2018,avg_receipts_per_capita_rm,533.0
+W.P. Putrajaya,2019,avg_receipts_per_capita_rm,435.0
+W.P. Putrajaya,2020,avg_receipts_per_capita_rm,315.0
+W.P. Putrajaya,2021,avg_receipts_per_capita_rm,304.0
+W.P. Putrajaya,2022,avg_receipts_per_capita_rm,349.0
+W.P. Putrajaya,2023,avg_receipts_per_capita_rm,352.0
+W.P. Putrajaya,2024,avg_receipts_per_capita_rm,366.0
+W.P. Putrajaya,2018,avg_receipts_per_trip_rm,389.0
+W.P. Putrajaya,2019,avg_receipts_per_trip_rm,322.0
+W.P. Putrajaya,2020,avg_receipts_per_trip_rm,311.0
+W.P. Putrajaya,2021,avg_receipts_per_trip_rm,290.0
+W.P. Putrajaya,2022,avg_receipts_per_trip_rm,294.0
+W.P. Putrajaya,2023,avg_receipts_per_trip_rm,341.0
+W.P. Putrajaya,2024,avg_receipts_per_trip_rm,346.0
+W.P. Putrajaya,2018,avg_length_of_stay_nights,2.68
+W.P. Putrajaya,2019,avg_length_of_stay_nights,3.04
+W.P. Putrajaya,2020,avg_length_of_stay_nights,1.98
+W.P. Putrajaya,2021,avg_length_of_stay_nights,2.23
+W.P. Putrajaya,2022,avg_length_of_stay_nights,2.68
+W.P. Putrajaya,2023,avg_length_of_stay_nights,2.08
+W.P. Putrajaya,2024,avg_length_of_stay_nights,2.14

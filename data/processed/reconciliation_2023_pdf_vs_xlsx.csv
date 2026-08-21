@@ -1,0 +1,593 @@
+state,table,field,pdf_parser_value,xlsx_published_value,compared_at_dp,agree
+Johor,table_1,total_receipts_rm_million,6699.0,6699.11884569231,0,True
+Johor,table_1,domestic_visitors_thousand,15805.0,15804.89,0,True
+Johor,table_1,domestic_trips_thousand,16494.0,16493.661,0,True
+Johor,table_1,avg_receipts_per_capita_rm,424.0,423.863680524971,0,True
+Johor,table_1,avg_receipts_per_trip_rm,406.0,406.163243302521,0,True
+Johor,table_1,avg_length_of_stay_nights,2.18,2.17607397828371,2,True
+Johor,table_7,expenditure_by_visitors:receipts,6087464.0,6087463.90604678,0,True
+Johor,table_7,expenditure_by_visitors:share,90.9,90.8696210093535,1,True
+Johor,table_7,shopping:receipts,2112096.0,2112096.1504808,0,True
+Johor,table_7,shopping:share,31.5,31.527969560339,1,True
+Johor,table_7,automotive_fuel:receipts,976142.0,976142.473505885,0,True
+Johor,table_7,automotive_fuel:share,14.6,14.5712069899098,1,True
+Johor,table_7,transportation:receipts,532169.0,532169.095130181,0,True
+Johor,table_7,transportation:share,7.9,7.94386705756651,1,True
+Johor,table_7,food_and_beverage:receipts,1017258.0,1017258.17874921,0,True
+Johor,table_7,food_and_beverage:share,15.2,15.1849549497593,1,True
+Johor,table_7,accommodation:receipts,967492.0,967492.246183618,0,True
+Johor,table_7,accommodation:share,14.4,14.4420821374999,1,True
+Johor,table_7,pre_trip_package_entrance_tickets:receipts,250643.0,250642.859232764,0,True
+Johor,table_7,pre_trip_package_entrance_tickets:share,3.7,3.74143025383008,1,True
+Johor,table_7,other_activities:receipts,231663.0,231662.902764318,0,True
+Johor,table_7,other_activities:share,3.5,3.45811006044896,1,True
+Johor,table_7,expenditure_by_visited_households:receipts,611655.0,611654.939645529,0,True
+Johor,table_7,expenditure_by_visited_households:share,9.1,9.13037899064648,1,True
+Johor,table_7,total_receipts:receipts,6699119.0,6699118.8456923,0,True
+Johor,table_7,total_receipts:share,100.0,100,1,True
+Johor,table_13_income,"≤RM1,000",2.1,2.1,1,True
+Johor,table_13_income,"RM1,001-3,000",20.9,20.9,1,True
+Johor,table_13_income,"RM3,001-5,000",23.1,23.1,1,True
+Johor,table_13_income,"RM5,001-10,000",37.2,37.2,1,True
+Johor,table_13_income,"≥RM10,001",16.7,16.7,1,True
+Johor,table_12_accom,relatives_friends_house,70.2,70.2,1,True
+Johor,table_12_accom,hotel,16.8,16.8,1,True
+Johor,table_12_accom,chalet,2.6,2.6,1,True
+Johor,table_12_accom,apartment,2.4,2.4,1,True
+Johor,table_12_accom,homestay_vacation_home,5.5,5.5,1,True
+Johor,table_12_accom,rest_house,2.5,2.5,1,True
+Kedah,table_1,total_receipts_rm_million,4207.0,4206.61948328264,0,True
+Kedah,table_1,domestic_visitors_thousand,13444.0,13444.055,0,True
+Kedah,table_1,domestic_trips_thousand,13687.0,13687.381,0,True
+Kedah,table_1,avg_receipts_per_capita_rm,313.0,312.898116177198,0,True
+Kedah,table_1,avg_receipts_per_trip_rm,307.0,307.335602280863,0,True
+Kedah,table_1,avg_length_of_stay_nights,2.03,2.02721858973257,2,True
+Kedah,table_7,expenditure_by_visitors:receipts,3826890.0,3826890.27698827,0,True
+Kedah,table_7,expenditure_by_visitors:share,91.0,90.9730554949541,1,True
+Kedah,table_7,shopping:receipts,1239688.0,1239687.80519443,0,True
+Kedah,table_7,shopping:share,29.5,29.4699297172236,1,True
+Kedah,table_7,automotive_fuel:receipts,590600.0,590600.113326828,0,True
+Kedah,table_7,automotive_fuel:share,14.0,14.0397798202074,1,True
+Kedah,table_7,transportation:receipts,414830.0,414829.660844075,0,True
+Kedah,table_7,transportation:share,9.9,9.8613545268982,1,True
+Kedah,table_7,food_and_beverage:receipts,793909.0,793908.901055623,0,True
+Kedah,table_7,food_and_beverage:share,18.9,18.8728480008868,1,True
+Kedah,table_7,accommodation:receipts,497519.0,497519.145804423,0,True
+Kedah,table_7,accommodation:share,11.8,11.827053713358,1,True
+Kedah,table_7,pre_trip_package_entrance_tickets:receipts,164249.0,164249.306156422,0,True
+Kedah,table_7,pre_trip_package_entrance_tickets:share,3.9,3.90454394102339,1,True
+Kedah,table_7,other_activities:receipts,126095.0,126095.344606474,0,True
+Kedah,table_7,other_activities:share,3.0,2.99754577535678,1,True
+Kedah,table_7,expenditure_by_visited_households:receipts,379729.0,379729.206294372,0,True
+Kedah,table_7,expenditure_by_visited_households:share,9.0,9.02694450504587,1,True
+Kedah,table_7,total_receipts:receipts,4206619.0,4206619.48328265,0,True
+Kedah,table_7,total_receipts:share,100.0,100,1,True
+Kedah,table_13_income,"≤RM1,000",5.5,5.5,1,True
+Kedah,table_13_income,"RM1,001-3,000",28.8,28.8,1,True
+Kedah,table_13_income,"RM3,001-5,000",28.5,28.5,1,True
+Kedah,table_13_income,"RM5,001-10,000",26.6,26.6,1,True
+Kedah,table_13_income,"≥RM10,001",10.6,10.6,1,True
+Kedah,table_12_accom,relatives_friends_house,70.1,70.1,1,True
+Kedah,table_12_accom,hotel,15.2,15.2,1,True
+Kedah,table_12_accom,chalet,1.7,1.7,1,True
+Kedah,table_12_accom,apartment,2.2,2.2,1,True
+Kedah,table_12_accom,homestay_vacation_home,8.4,8.4,1,True
+Kedah,table_12_accom,rest_house,2.4,2.4,1,True
+Kelantan,table_1,total_receipts_rm_million,3228.0,3228.385093431,0,True
+Kelantan,table_1,domestic_visitors_thousand,7549.0,7549.37,0,True
+Kelantan,table_1,domestic_trips_thousand,9300.0,9299.793,0,True
+Kelantan,table_1,avg_receipts_per_capita_rm,428.0,427.636358190286,0,True
+Kelantan,table_1,avg_receipts_per_trip_rm,347.0,347.145908885391,0,True
+Kelantan,table_1,avg_length_of_stay_nights,3.07,3.07348440786154,2,True
+Kelantan,table_7,expenditure_by_visitors:receipts,2789747.0,2789747.45790799,0,True
+Kelantan,table_7,expenditure_by_visitors:share,86.4,86.4130943853158,1,True
+Kelantan,table_7,shopping:receipts,1003376.0,1003375.53048698,0,True
+Kelantan,table_7,shopping:share,31.1,31.0797969092539,1,True
+Kelantan,table_7,automotive_fuel:receipts,604358.0,604358.191997612,0,True
+Kelantan,table_7,automotive_fuel:share,18.7,18.7201394662408,1,True
+Kelantan,table_7,transportation:receipts,211088.0,211088.228827605,0,True
+Kelantan,table_7,transportation:share,6.5,6.53850834762928,1,True
+Kelantan,table_7,food_and_beverage:receipts,531883.0,531882.658089821,0,True
+Kelantan,table_7,food_and_beverage:share,16.5,16.4751924784957,1,True
+Kelantan,table_7,accommodation:receipts,316649.0,316649.27514187,0,True
+Kelantan,table_7,accommodation:share,9.8,9.80828699110825,1,True
+Kelantan,table_7,pre_trip_package_entrance_tickets:receipts,23127.0,23127.304706161,0,True
+Kelantan,table_7,pre_trip_package_entrance_tickets:share,0.7,0.716373791751784,1,True
+Kelantan,table_7,other_activities:receipts,99266.0,99266.2686579418,0,True
+Kelantan,table_7,other_activities:share,3.1,3.07479640083599,1,True
+Kelantan,table_7,expenditure_by_visited_households:receipts,438638.0,438637.635523004,0,True
+Kelantan,table_7,expenditure_by_visited_households:share,13.6,13.5869056146842,1,True
+Kelantan,table_7,total_receipts:receipts,3228385.0,3228385.09343099,0,True
+Kelantan,table_7,total_receipts:share,100.0,100,1,True
+Kelantan,table_13_income,"≤RM1,000",3.7,3.7,1,True
+Kelantan,table_13_income,"RM1,001-3,000",36.5,36.5,1,True
+Kelantan,table_13_income,"RM3,001-5,000",28.8,28.8,1,True
+Kelantan,table_13_income,"RM5,001-10,000",24.4,24.4,1,True
+Kelantan,table_13_income,"≥RM10,001",6.6,6.6,1,True
+Kelantan,table_12_accom,relatives_friends_house,73.7,73.7,1,True
+Kelantan,table_12_accom,hotel,9.9,9.9,1,True
+Kelantan,table_12_accom,chalet,2.0,2,1,True
+Kelantan,table_12_accom,apartment,1.8,1.8,1,True
+Kelantan,table_12_accom,homestay_vacation_home,7.6,7.6,1,True
+Kelantan,table_12_accom,rest_house,5.0,5,1,True
+Melaka,table_1,total_receipts_rm_million,6438.0,6438.41105660878,0,True
+Melaka,table_1,domestic_visitors_thousand,15559.0,15558.661,0,True
+Melaka,table_1,domestic_trips_thousand,20094.0,20093.758,0,True
+Melaka,table_1,avg_receipts_per_capita_rm,414.0,413.815241337849,0,True
+Melaka,table_1,avg_receipts_per_trip_rm,320.0,320.418463117192,0,True
+Melaka,table_1,avg_length_of_stay_nights,2.23,2.23400775634919,2,True
+Melaka,table_7,expenditure_by_visitors:receipts,5875763.0,5875762.59786994,0,True
+Melaka,table_7,expenditure_by_visitors:share,91.3,91.2610665303623,1,True
+Melaka,table_7,shopping:receipts,2422343.0,2422342.82384923,0,True
+Melaka,table_7,shopping:share,37.6,37.623301813928,1,True
+Melaka,table_7,automotive_fuel:receipts,880013.0,880012.679756614,0,True
+Melaka,table_7,automotive_fuel:share,13.7,13.6681655150507,1,True
+Melaka,table_7,transportation:receipts,313382.0,313381.580716204,0,True
+Melaka,table_7,transportation:share,4.9,4.86737454258267,1,True
+Melaka,table_7,food_and_beverage:receipts,1043776.0,1043775.58229676,0,True
+Melaka,table_7,food_and_beverage:share,16.2,16.2116952943749,1,True
+Melaka,table_7,accommodation:receipts,691100.0,691099.994382137,0,True
+Melaka,table_7,accommodation:share,10.7,10.7340147795122,1,True
+Melaka,table_7,pre_trip_package_entrance_tickets:receipts,252793.0,252793.143896257,0,True
+Melaka,table_7,pre_trip_package_entrance_tickets:share,3.9,3.92632812154444,1,True
+Melaka,table_7,other_activities:receipts,272357.0,272356.792972742,0,True
+Melaka,table_7,other_activities:share,4.2,4.23018646336938,1,True
+Melaka,table_7,expenditure_by_visited_households:receipts,562648.0,562648.458738839,0,True
+Melaka,table_7,expenditure_by_visited_households:share,8.7,8.7389334696377,1,True
+Melaka,table_7,total_receipts:receipts,6438411.0,6438411.05660878,0,True
+Melaka,table_7,total_receipts:share,100.0,100,1,True
+Melaka,table_13_income,"≤RM1,000",2.9,2.9,1,True
+Melaka,table_13_income,"RM1,001-3,000",26.1,26.1,1,True
+Melaka,table_13_income,"RM3,001-5,000",24.6,24.6,1,True
+Melaka,table_13_income,"RM5,001-10,000",33.4,33.4,1,True
+Melaka,table_13_income,"≥RM10,001",13.0,13,1,True
+Melaka,table_12_accom,relatives_friends_house,43.7,43.7,1,True
+Melaka,table_12_accom,hotel,29.2,29.2,1,True
+Melaka,table_12_accom,chalet,4.4,4.4,1,True
+Melaka,table_12_accom,apartment,8.1,8.1,1,True
+Melaka,table_12_accom,homestay_vacation_home,12.7,12.7,1,True
+Melaka,table_12_accom,rest_house,1.9,1.9,1,True
+Negeri Sembilan,table_1,total_receipts_rm_million,4777.0,4777.28125500884,0,True
+Negeri Sembilan,table_1,domestic_visitors_thousand,14959.0,14959.47,0,True
+Negeri Sembilan,table_1,domestic_trips_thousand,17801.0,17800.523,0,True
+Negeri Sembilan,table_1,avg_receipts_per_capita_rm,319.0,319.348296096642,0,True
+Negeri Sembilan,table_1,avg_receipts_per_trip_rm,268.0,268.378701850998,0,True
+Negeri Sembilan,table_1,avg_length_of_stay_nights,2.42,2.41840105295885,2,True
+Negeri Sembilan,table_7,expenditure_by_visitors:receipts,4415922.0,4415922.22183873,0,True
+Negeri Sembilan,table_7,expenditure_by_visitors:share,92.4,92.4358853104737,1,True
+Negeri Sembilan,table_7,shopping:receipts,1803079.0,1803078.59468273,0,True
+Negeri Sembilan,table_7,shopping:share,37.7,37.7427766638662,1,True
+Negeri Sembilan,table_7,automotive_fuel:receipts,681417.0,681417.39301596,0,True
+Negeri Sembilan,table_7,automotive_fuel:share,14.3,14.2637068374719,1,True
+Negeri Sembilan,table_7,transportation:receipts,248823.0,248823.472023445,0,True
+Negeri Sembilan,table_7,transportation:share,5.2,5.20847441758973,1,True
+Negeri Sembilan,table_7,food_and_beverage:receipts,797144.0,797144.355932956,0,True
+Negeri Sembilan,table_7,food_and_beverage:share,16.7,16.6861508331161,1,True
+Negeri Sembilan,table_7,accommodation:receipts,521773.0,521772.56854223,0,True
+Negeri Sembilan,table_7,accommodation:share,10.9,10.9219562485497,1,True
+Negeri Sembilan,table_7,pre_trip_package_entrance_tickets:receipts,236613.0,236612.535776023,0,True
+Negeri Sembilan,table_7,pre_trip_package_entrance_tickets:share,5.0,4.9528701189184,1,True
+Negeri Sembilan,table_7,other_activities:receipts,127073.0,127073.301865389,0,True
+Negeri Sembilan,table_7,other_activities:share,2.7,2.65995019096178,1,True
+Negeri Sembilan,table_7,expenditure_by_visited_households:receipts,361359.0,361359.033170109,0,True
+Negeri Sembilan,table_7,expenditure_by_visited_households:share,7.6,7.56411468952627,1,True
+Negeri Sembilan,table_7,total_receipts:receipts,4777281.0,4777281.25500884,0,True
+Negeri Sembilan,table_7,total_receipts:share,100.0,100,1,True
+Negeri Sembilan,table_13_income,"≤RM1,000",3.2,3.2,1,True
+Negeri Sembilan,table_13_income,"RM1,001-3,000",25.1,25.1,1,True
+Negeri Sembilan,table_13_income,"RM3,001-5,000",25.4,25.4,1,True
+Negeri Sembilan,table_13_income,"RM5,001-10,000",34.2,34.2,1,True
+Negeri Sembilan,table_13_income,"≥RM10,001",12.1,12.1,1,True
+Negeri Sembilan,table_12_accom,relatives_friends_house,66.0,66,1,True
+Negeri Sembilan,table_12_accom,hotel,22.9,22.9,1,True
+Negeri Sembilan,table_12_accom,chalet,1.4,1.4,1,True
+Negeri Sembilan,table_12_accom,apartment,4.5,4.5,1,True
+Negeri Sembilan,table_12_accom,homestay_vacation_home,3.2,3.2,1,True
+Negeri Sembilan,table_12_accom,rest_house,2.0,2,1,True
+Pahang,table_1,total_receipts_rm_million,6733.0,6733.34364809185,0,True
+Pahang,table_1,domestic_visitors_thousand,16456.0,16455.567,0,True
+Pahang,table_1,domestic_trips_thousand,17633.0,17632.756,0,True
+Pahang,table_1,avg_receipts_per_capita_rm,409.0,409.183326718055,0,True
+Pahang,table_1,avg_receipts_per_trip_rm,382.0,381.865639613674,0,True
+Pahang,table_1,avg_length_of_stay_nights,2.13,2.12715370546925,2,True
+Pahang,table_7,expenditure_by_visitors:receipts,6012923.0,6012922.92668198,0,True
+Pahang,table_7,expenditure_by_visitors:share,89.3,89.3006987455033,1,True
+Pahang,table_7,shopping:receipts,1943890.0,1943889.89991263,0,True
+Pahang,table_7,shopping:share,28.9,28.8696077536976,1,True
+Pahang,table_7,automotive_fuel:receipts,949299.0,949299.473327736,0,True
+Pahang,table_7,automotive_fuel:share,14.1,14.0984854322229,1,True
+Pahang,table_7,transportation:receipts,384026.0,384025.507392681,0,True
+Pahang,table_7,transportation:share,5.7,5.70334038277564,1,True
+Pahang,table_7,food_and_beverage:receipts,989218.0,989217.543457992,0,True
+Pahang,table_7,food_and_beverage:share,14.7,14.6913271497486,1,True
+Pahang,table_7,accommodation:receipts,1000261.0,1000261.10033221,0,True
+Pahang,table_7,accommodation:share,14.9,14.8553401194022,1,True
+Pahang,table_7,pre_trip_package_entrance_tickets:receipts,366394.0,366394.410327847,0,True
+Pahang,table_7,pre_trip_package_entrance_tickets:share,5.4,5.44149280768818,1,True
+Pahang,table_7,other_activities:receipts,379835.0,379834.991930887,0,True
+Pahang,table_7,other_activities:share,5.6,5.64110509996809,1,True
+Pahang,table_7,expenditure_by_visited_households:receipts,720421.0,720420.721409866,0,True
+Pahang,table_7,expenditure_by_visited_households:share,10.7,10.6993012544967,1,True
+Pahang,table_7,total_receipts:receipts,6733344.0,6733343.64809185,0,True
+Pahang,table_7,total_receipts:share,100.0,100,1,True
+Pahang,table_13_income,"≤RM1,000",3.5,3.5,1,True
+Pahang,table_13_income,"RM1,001-3,000",22.4,22.4,1,True
+Pahang,table_13_income,"RM3,001-5,000",27.5,27.5,1,True
+Pahang,table_13_income,"RM5,001-10,000",33.6,33.6,1,True
+Pahang,table_13_income,"≥RM10,001",13.0,13,1,True
+Pahang,table_12_accom,relatives_friends_house,54.8,54.8,1,True
+Pahang,table_12_accom,hotel,27.3,27.3,1,True
+Pahang,table_12_accom,chalet,2.6,2.6,1,True
+Pahang,table_12_accom,apartment,7.3,7.3,1,True
+Pahang,table_12_accom,homestay_vacation_home,6.7,6.7,1,True
+Pahang,table_12_accom,rest_house,1.3,1.3,1,True
+Perak,table_1,total_receipts_rm_million,5641.0,5641.02361320425,0,True
+Perak,table_1,domestic_visitors_thousand,17108.0,17107.518,0,True
+Perak,table_1,domestic_trips_thousand,18831.0,18831.264,0,True
+Perak,table_1,avg_receipts_per_capita_rm,330.0,329.739452163911,0,True
+Perak,table_1,avg_receipts_per_trip_rm,300.0,299.556291771187,0,True
+Perak,table_1,avg_length_of_stay_nights,2.35,2.3457677558445,2,True
+Perak,table_7,expenditure_by_visitors:receipts,5060248.0,5060248.10049208,0,True
+Perak,table_7,expenditure_by_visitors:share,89.7,89.7044303918048,1,True
+Perak,table_7,shopping:receipts,1660659.0,1660658.87334551,0,True
+Perak,table_7,shopping:share,29.4,29.4389633374041,1,True
+Perak,table_7,automotive_fuel:receipts,936541.0,936540.808873401,0,True
+Perak,table_7,automotive_fuel:share,16.6,16.6023203072788,1,True
+Perak,table_7,transportation:receipts,349674.0,349673.882914509,0,True
+Perak,table_7,transportation:share,6.2,6.19876651634658,1,True
+Perak,table_7,food_and_beverage:receipts,1089592.0,1089591.99085944,0,True
+Perak,table_7,food_and_beverage:share,19.3,19.3155013269041,1,True
+Perak,table_7,accommodation:receipts,659307.0,659306.842306806,0,True
+Perak,table_7,accommodation:share,11.7,11.687716406,1,True
+Perak,table_7,pre_trip_package_entrance_tickets:receipts,174448.0,174448.146076146,0,True
+Perak,table_7,pre_trip_package_entrance_tickets:share,3.1,3.09249097393965,1,True
+Perak,table_7,other_activities:receipts,190028.0,190027.556116268,0,True
+Perak,table_7,other_activities:share,3.4,3.36867152393158,1,True
+Perak,table_7,expenditure_by_visited_households:receipts,580776.0,580775.512712171,0,True
+Perak,table_7,expenditure_by_visited_households:share,10.3,10.2955696081952,1,True
+Perak,table_7,total_receipts:receipts,5641024.0,5641023.61320425,0,True
+Perak,table_7,total_receipts:share,100.0,100,1,True
+Perak,table_13_income,"≤RM1,000",4.9,4.9,1,True
+Perak,table_13_income,"RM1,001-3,000",32.5,32.5,1,True
+Perak,table_13_income,"RM3,001-5,000",26.0,26,1,True
+Perak,table_13_income,"RM5,001-10,000",29.5,29.5,1,True
+Perak,table_13_income,"≥RM10,001",7.1,7.1,1,True
+Perak,table_12_accom,relatives_friends_house,71.1,71.1,1,True
+Perak,table_12_accom,hotel,16.5,16.5,1,True
+Perak,table_12_accom,chalet,3.3,3.3,1,True
+Perak,table_12_accom,apartment,2.2,2.2,1,True
+Perak,table_12_accom,homestay_vacation_home,6.0,6,1,True
+Perak,table_12_accom,rest_house,0.9,0.9,1,True
+Perlis,table_1,total_receipts_rm_million,584.0,583.870113407444,0,True
+Perlis,table_1,domestic_visitors_thousand,1951.0,1950.771,0,True
+Perlis,table_1,domestic_trips_thousand,2139.0,2139.229,0,True
+Perlis,table_1,avg_receipts_per_capita_rm,299.0,299.302231480499,0,True
+Perlis,table_1,avg_receipts_per_trip_rm,273.0,272.934834656525,0,True
+Perlis,table_1,avg_length_of_stay_nights,2.21,2.20641466269676,2,True
+Perlis,table_7,expenditure_by_visitors:receipts,516473.0,516472.780718456,0,True
+Perlis,table_7,expenditure_by_visitors:share,88.5,88.4567935331269,1,True
+Perlis,table_7,shopping:receipts,159277.0,159277.385935329,0,True
+Perlis,table_7,shopping:share,27.3,27.2795922034427,1,True
+Perlis,table_7,automotive_fuel:receipts,104736.0,104735.704010926,0,True
+Perlis,table_7,automotive_fuel:share,17.9,17.9381854980883,1,True
+Perlis,table_7,transportation:receipts,43644.0,43644.3533100298,0,True
+Perlis,table_7,transportation:share,7.5,7.47501067580305,1,True
+Perlis,table_7,food_and_beverage:receipts,104970.0,104970.113421612,0,True
+Perlis,table_7,food_and_beverage:share,18.0,17.9783330249617,1,True
+Perlis,table_7,accommodation:receipts,72931.0,72931.1498448316,0,True
+Perlis,table_7,accommodation:share,12.5,12.4909886925378,1,True
+Perlis,table_7,pre_trip_package_entrance_tickets:receipts,8131.0,8131.40199518186,0,True
+Perlis,table_7,pre_trip_package_entrance_tickets:share,1.4,1.39267309774212,1,True
+Perlis,table_7,other_activities:receipts,22783.0,22782.6722005461,0,True
+Perlis,table_7,other_activities:share,3.9,3.90201034055114,1,True
+Perlis,table_7,expenditure_by_visited_households:receipts,67397.0,67397.3326889874,0,True
+Perlis,table_7,expenditure_by_visited_households:share,11.5,11.5432064668731,1,True
+Perlis,table_7,total_receipts:receipts,583870.0,583870.113407444,0,True
+Perlis,table_7,total_receipts:share,100.0,100,1,True
+Perlis,table_13_income,"≤RM1,000",4.3,4.3,1,True
+Perlis,table_13_income,"RM1,001-3,000",31.0,31,1,True
+Perlis,table_13_income,"RM3,001-5,000",27.6,27.6,1,True
+Perlis,table_13_income,"RM5,001-10,000",28.5,28.5,1,True
+Perlis,table_13_income,"≥RM10,001",8.6,8.6,1,True
+Perlis,table_12_accom,relatives_friends_house,67.2,67.2,1,True
+Perlis,table_12_accom,hotel,12.8,12.8,1,True
+Perlis,table_12_accom,chalet,0.9,0.9,1,True
+Perlis,table_12_accom,apartment,0.4,0.4,1,True
+Perlis,table_12_accom,homestay_vacation_home,15.0,15,1,True
+Perlis,table_12_accom,rest_house,3.7,3.7,1,True
+Pulau Pinang,table_1,total_receipts_rm_million,5815.0,5814.73535455749,0,True
+Pulau Pinang,table_1,domestic_visitors_thousand,13128.0,13127.587,0,True
+Pulau Pinang,table_1,domestic_trips_thousand,15351.0,15350.976,0,True
+Pulau Pinang,table_1,avg_receipts_per_capita_rm,443.0,442.940149972534,0,True
+Pulau Pinang,table_1,avg_receipts_per_trip_rm,379.0,378.78603644208,0,True
+Pulau Pinang,table_1,avg_length_of_stay_nights,2.4,2.40032874269824,2,True
+Pulau Pinang,table_7,expenditure_by_visitors:receipts,5576867.0,5576866.78168176,0,True
+Pulau Pinang,table_7,expenditure_by_visitors:share,95.9,95.9092106799102,1,True
+Pulau Pinang,table_7,shopping:receipts,2431318.0,2431317.84631172,0,True
+Pulau Pinang,table_7,shopping:share,41.8,41.8130438972789,1,True
+Pulau Pinang,table_7,automotive_fuel:receipts,599680.0,599680.311549777,0,True
+Pulau Pinang,table_7,automotive_fuel:share,10.3,10.3131144408792,1,True
+Pulau Pinang,table_7,transportation:receipts,355326.0,355325.529703793,0,True
+Pulau Pinang,table_7,transportation:share,6.1,6.11077732755791,1,True
+Pulau Pinang,table_7,food_and_beverage:receipts,983682.0,983682.4234367,0,True
+Pulau Pinang,table_7,food_and_beverage:share,16.9,16.9170626598802,1,True
+Pulau Pinang,table_7,accommodation:receipts,714831.0,714830.950219477,0,True
+Pulau Pinang,table_7,accommodation:share,12.3,12.2934391099881,1,True
+Pulau Pinang,table_7,pre_trip_package_entrance_tickets:receipts,242333.0,242332.697872591,0,True
+Pulau Pinang,table_7,pre_trip_package_entrance_tickets:share,4.2,4.16756194557771,1,True
+Pulau Pinang,table_7,other_activities:receipts,249697.0,249697.022587706,0,True
+Pulau Pinang,table_7,other_activities:share,4.3,4.29421129874807,1,True
+Pulau Pinang,table_7,expenditure_by_visited_households:receipts,237869.0,237868.572875722,0,True
+Pulau Pinang,table_7,expenditure_by_visited_households:share,4.1,4.09078932008978,1,True
+Pulau Pinang,table_7,total_receipts:receipts,5814735.0,5814735.35455749,0,True
+Pulau Pinang,table_7,total_receipts:share,100.0,100,1,True
+Pulau Pinang,table_13_income,"≤RM1,000",4.6,4.6,1,True
+Pulau Pinang,table_13_income,"RM1,001-3,000",21.6,21.6,1,True
+Pulau Pinang,table_13_income,"RM3,001-5,000",24.6,24.6,1,True
+Pulau Pinang,table_13_income,"RM5,001-10,000",35.3,35.3,1,True
+Pulau Pinang,table_13_income,"≥RM10,001",13.9,13.9,1,True
+Pulau Pinang,table_12_accom,relatives_friends_house,41.7,41.7,1,True
+Pulau Pinang,table_12_accom,hotel,43.7,43.7,1,True
+Pulau Pinang,table_12_accom,chalet,0.4,0.4,1,True
+Pulau Pinang,table_12_accom,apartment,8.0,8,1,True
+Pulau Pinang,table_12_accom,homestay_vacation_home,4.4,4.4,1,True
+Pulau Pinang,table_12_accom,rest_house,1.8,1.8,1,True
+Sabah,table_1,total_receipts_rm_million,6713.0,6712.51460553787,0,True
+Sabah,table_1,domestic_visitors_thousand,16080.0,16080.074,0,True
+Sabah,table_1,domestic_trips_thousand,19900.0,19900.312,0,True
+Sabah,table_1,avg_receipts_per_capita_rm,417.0,417.443017086729,0,True
+Sabah,table_1,avg_receipts_per_trip_rm,337.0,337.307003304163,0,True
+Sabah,table_1,avg_length_of_stay_nights,2.67,2.67140939347793,2,True
+Sabah,table_7,expenditure_by_visitors:receipts,6362023.0,6362022.67717255,0,True
+Sabah,table_7,expenditure_by_visitors:share,94.8,94.7785301193063,1,True
+Sabah,table_7,shopping:receipts,2461886.0,2461885.56074914,0,True
+Sabah,table_7,shopping:share,36.7,36.6760551808418,1,True
+Sabah,table_7,automotive_fuel:receipts,798981.0,798980.854136689,0,True
+Sabah,table_7,automotive_fuel:share,11.9,11.9028546094711,1,True
+Sabah,table_7,transportation:receipts,547792.0,547792.252266946,0,True
+Sabah,table_7,transportation:share,8.2,8.16076067551515,1,True
+Sabah,table_7,food_and_beverage:receipts,1093929.0,1093929.17767236,0,True
+Sabah,table_7,food_and_beverage:share,16.3,16.2968610417601,1,True
+Sabah,table_7,accommodation:receipts,1008654.0,1008653.7045432,0,True
+Sabah,table_7,accommodation:share,15.0,15.0264656960456,1,True
+Sabah,table_7,pre_trip_package_entrance_tickets:receipts,274259.0,274258.823608274,0,True
+Sabah,table_7,pre_trip_package_entrance_tickets:share,4.1,4.08578364033664,1,True
+Sabah,table_7,other_activities:receipts,176522.0,176522.304195945,0,True
+Sabah,table_7,other_activities:share,2.6,2.62974927533584,1,True
+Sabah,table_7,expenditure_by_visited_households:receipts,350492.0,350491.928365324,0,True
+Sabah,table_7,expenditure_by_visited_households:share,5.2,5.22146988069367,1,True
+Sabah,table_7,total_receipts:receipts,6712515.0,6712514.60553788,0,True
+Sabah,table_7,total_receipts:share,100.0,100,1,True
+Sabah,table_13_income,"≤RM1,000",2.6,2.6,1,True
+Sabah,table_13_income,"RM1,001-3,000",38.6,38.6,1,True
+Sabah,table_13_income,"RM3,001-5,000",28.7,28.7,1,True
+Sabah,table_13_income,"RM5,001-10,000",22.3,22.3,1,True
+Sabah,table_13_income,"≥RM10,001",7.8,7.8,1,True
+Sabah,table_12_accom,relatives_friends_house,55.9,55.9073442785988,1,True
+Sabah,table_12_accom,hotel,20.3,20.2910212205007,1,True
+Sabah,table_12_accom,chalet,7.7,7.69079656037366,1,True
+Sabah,table_12_accom,apartment,3.6,3.62905391085541,1,True
+Sabah,table_12_accom,homestay_vacation_home,7.6,7.57363527726234,1,True
+Sabah,table_12_accom,rest_house,4.9,4.90814875240909,1,True
+Sarawak,table_1,total_receipts_rm_million,6943.0,6942.67318117489,0,True
+Sarawak,table_1,domestic_visitors_thousand,17901.0,17901.19,0,True
+Sarawak,table_1,domestic_trips_thousand,21077.0,21076.631,0,True
+Sarawak,table_1,avg_receipts_per_capita_rm,388.0,387.833053622407,0,True
+Sarawak,table_1,avg_receipts_per_trip_rm,329.0,329.401467491407,0,True
+Sarawak,table_1,avg_length_of_stay_nights,3.48,3.4815000820848,2,True
+Sarawak,table_7,expenditure_by_visitors:receipts,6440169.0,6440169.03679111,0,True
+Sarawak,table_7,expenditure_by_visitors:share,92.8,92.7620942067917,1,True
+Sarawak,table_7,shopping:receipts,2655605.0,2655605.36945717,0,True
+Sarawak,table_7,shopping:share,38.3,38.2504735590588,1,True
+Sarawak,table_7,automotive_fuel:receipts,989487.0,989486.90130362,0,True
+Sarawak,table_7,automotive_fuel:share,14.3,14.2522465840193,1,True
+Sarawak,table_7,transportation:receipts,569398.0,569397.90130783,0,True
+Sarawak,table_7,transportation:share,8.2,8.20142164910998,1,True
+Sarawak,table_7,food_and_beverage:receipts,981635.0,981635.295199864,0,True
+Sarawak,table_7,food_and_beverage:share,14.1,14.1391546106704,1,True
+Sarawak,table_7,accommodation:receipts,779551.0,779550.52543099,0,True
+Sarawak,table_7,accommodation:share,11.2,11.2283915011979,1,True
+Sarawak,table_7,pre_trip_package_entrance_tickets:receipts,225768.0,225768.083218257,0,True
+Sarawak,table_7,pre_trip_package_entrance_tickets:share,3.3,3.25188983157711,1,True
+Sarawak,table_7,other_activities:receipts,238725.0,238724.960873379,0,True
+Sarawak,table_7,other_activities:share,3.4,3.43851647115816,1,True
+Sarawak,table_7,expenditure_by_visited_households:receipts,502504.0,502504.144383777,0,True
+Sarawak,table_7,expenditure_by_visited_households:share,7.2,7.23790579320831,1,True
+Sarawak,table_7,total_receipts:receipts,6942673.0,6942673.18117489,0,True
+Sarawak,table_7,total_receipts:share,100.0,100,1,True
+Sarawak,table_13_income,"≤RM1,000",3.5,3.5,1,True
+Sarawak,table_13_income,"RM1,001-3,000",38.8,38.8,1,True
+Sarawak,table_13_income,"RM3,001-5,000",22.7,22.7,1,True
+Sarawak,table_13_income,"RM5,001-10,000",24.1,24.1,1,True
+Sarawak,table_13_income,"≥RM10,001",10.9,10.9,1,True
+Sarawak,table_12_accom,relatives_friends_house,69.6,69.6226264847801,1,True
+Sarawak,table_12_accom,hotel,18.2,18.1920995004124,1,True
+Sarawak,table_12_accom,chalet,1.3,1.30268184705224,1,True
+Sarawak,table_12_accom,apartment,3.8,3.78640021993231,1,True
+Sarawak,table_12_accom,homestay_vacation_home,3.2,3.20043228075497,1,True
+Sarawak,table_12_accom,rest_house,3.9,3.89575966706798,1,True
+Selangor,table_1,total_receipts_rm_million,11103.0,11102.7131520834,0,True
+Selangor,table_1,domestic_visitors_thousand,27579.0,27579.478,0,True
+Selangor,table_1,domestic_trips_thousand,28949.0,28949.304,0,True
+Selangor,table_1,avg_receipts_per_capita_rm,403.0,402.571548021446,0,True
+Selangor,table_1,avg_receipts_per_trip_rm,384.0,383.52262811166,0,True
+Selangor,table_1,avg_length_of_stay_nights,2.24,2.24207367577779,2,True
+Selangor,table_7,expenditure_by_visitors:receipts,10382143.0,10382143.1280022,0,True
+Selangor,table_7,expenditure_by_visitors:share,93.5,93.5099645085761,1,True
+Selangor,table_7,shopping:receipts,4144811.0,4144811.14430366,0,True
+Selangor,table_7,shopping:share,37.3,37.3315160675469,1,True
+Selangor,table_7,automotive_fuel:receipts,1562916.0,1562915.82306411,0,True
+Selangor,table_7,automotive_fuel:share,14.1,14.0768819445797,1,True
+Selangor,table_7,transportation:receipts,769174.0,769174.444388264,0,True
+Selangor,table_7,transportation:share,6.9,6.92780614839111,1,True
+Selangor,table_7,food_and_beverage:receipts,1847020.0,1847019.95726213,0,True
+Selangor,table_7,food_and_beverage:share,16.6,16.63575318899,1,True
+Selangor,table_7,accommodation:receipts,1299080.0,1299079.69307383,0,True
+Selangor,table_7,accommodation:share,11.7,11.7005607123161,1,True
+Selangor,table_7,pre_trip_package_entrance_tickets:receipts,351236.0,351235.88827046,0,True
+Selangor,table_7,pre_trip_package_entrance_tickets:share,3.2,3.16351402994277,1,True
+Selangor,table_7,other_activities:receipts,407906.0,407906.17763977,0,True
+Selangor,table_7,other_activities:share,3.7,3.67393241680955,1,True
+Selangor,table_7,expenditure_by_visited_households:receipts,720570.0,720570.024081199,0,True
+Selangor,table_7,expenditure_by_visited_households:share,6.5,6.49003549142386,1,True
+Selangor,table_7,total_receipts:receipts,11102713.0,11102713.1520834,0,True
+Selangor,table_7,total_receipts:share,100.0,100,1,True
+Selangor,table_13_income,"≤RM1,000",3.2,3.2,1,True
+Selangor,table_13_income,"RM1,001-3,000",16.4,16.4,1,True
+Selangor,table_13_income,"RM3,001-5,000",27.3,27.3,1,True
+Selangor,table_13_income,"RM5,001-10,000",38.2,38.2,1,True
+Selangor,table_13_income,"≥RM10,001",14.9,14.9,1,True
+Selangor,table_12_accom,relatives_friends_house,59.1,59.1,1,True
+Selangor,table_12_accom,hotel,26.2,26.2,1,True
+Selangor,table_12_accom,chalet,2.4,2.4,1,True
+Selangor,table_12_accom,apartment,2.7,2.7,1,True
+Selangor,table_12_accom,homestay_vacation_home,6.4,6.4,1,True
+Selangor,table_12_accom,rest_house,3.2,3.2,1,True
+Terengganu,table_1,total_receipts_rm_million,4192.0,4192.31725641659,0,True
+Terengganu,table_1,domestic_visitors_thousand,11761.0,11760.516,0,True
+Terengganu,table_1,domestic_trips_thousand,13869.0,13868.81,0,True
+Terengganu,table_1,avg_receipts_per_capita_rm,356.0,356.473921417784,0,True
+Terengganu,table_1,avg_receipts_per_trip_rm,302.0,302.283848175625,0,True
+Terengganu,table_1,avg_length_of_stay_nights,2.59,2.59412179953652,2,True
+Terengganu,table_7,expenditure_by_visitors:receipts,3897474.0,3897473.61283775,0,True
+Terengganu,table_7,expenditure_by_visitors:share,93.0,92.9670483996037,1,True
+Terengganu,table_7,shopping:receipts,1650481.0,1650481.13945378,0,True
+Terengganu,table_7,shopping:share,39.4,39.3691850712782,1,True
+Terengganu,table_7,automotive_fuel:receipts,582975.0,582974.662903737,0,True
+Terengganu,table_7,automotive_fuel:share,13.9,13.905785923321,1,True
+Terengganu,table_7,transportation:receipts,248973.0,248972.970969031,0,True
+Terengganu,table_7,transportation:share,5.9,5.93879126366124,1,True
+Terengganu,table_7,food_and_beverage:receipts,791250.0,791249.682350257,0,True
+Terengganu,table_7,food_and_beverage:share,18.9,18.8738025763485,1,True
+Terengganu,table_7,accommodation:receipts,359323.0,359323.045764351,0,True
+Terengganu,table_7,accommodation:share,8.6,8.57098887767584,1,True
+Terengganu,table_7,pre_trip_package_entrance_tickets:receipts,98603.0,98602.9159637428,0,True
+Terengganu,table_7,pre_trip_package_entrance_tickets:share,2.4,2.35199079489572,1,True
+Terengganu,table_7,other_activities:receipts,165869.0,165869.195432849,0,True
+Terengganu,table_7,other_activities:share,4.0,3.95650389242313,1,True
+Terengganu,table_7,expenditure_by_visited_households:receipts,294844.0,294843.643578842,0,True
+Terengganu,table_7,expenditure_by_visited_households:share,7.0,7.03295160039633,1,True
+Terengganu,table_7,total_receipts:receipts,4192317.0,4192317.25641659,0,True
+Terengganu,table_7,total_receipts:share,100.0,100,1,True
+Terengganu,table_13_income,"≤RM1,000",5.8,5.8,1,True
+Terengganu,table_13_income,"RM1,001-3,000",38.7,38.7,1,True
+Terengganu,table_13_income,"RM3,001-5,000",26.3,26.3,1,True
+Terengganu,table_13_income,"RM5,001-10,000",22.1,22.1,1,True
+Terengganu,table_13_income,"≥RM10,001",7.1,7.1,1,True
+Terengganu,table_12_accom,relatives_friends_house,64.1,64.077208678429,1,True
+Terengganu,table_12_accom,hotel,19.8,19.8414739794697,1,True
+Terengganu,table_12_accom,chalet,3.5,3.47770412356519,1,True
+Terengganu,table_12_accom,apartment,1.3,1.3294468640284,1,True
+Terengganu,table_12_accom,homestay_vacation_home,8.6,8.60681957986426,1,True
+Terengganu,table_12_accom,rest_house,2.7,2.66734677464347,1,True
+W.P. Kuala Lumpur,table_1,total_receipts_rm_million,10995.0,10995.3241427932,0,True
+W.P. Kuala Lumpur,table_1,domestic_visitors_thousand,22233.0,22232.643,0,True
+W.P. Kuala Lumpur,table_1,domestic_trips_thousand,24012.0,24012.311,0,True
+W.P. Kuala Lumpur,table_1,avg_receipts_per_capita_rm,495.0,494.557671024234,0,True
+W.P. Kuala Lumpur,table_1,avg_receipts_per_trip_rm,458.0,457.903620471732,0,True
+W.P. Kuala Lumpur,table_1,avg_length_of_stay_nights,2.7,2.69627870015068,2,True
+W.P. Kuala Lumpur,table_7,expenditure_by_visitors:receipts,10615475.0,10615475.081743,0,True
+W.P. Kuala Lumpur,table_7,expenditure_by_visitors:share,96.5,96.5453582257578,1,True
+W.P. Kuala Lumpur,table_7,shopping:receipts,4850552.0,4850551.76216382,0,True
+W.P. Kuala Lumpur,table_7,shopping:share,44.1,44.1146772861904,1,True
+W.P. Kuala Lumpur,table_7,automotive_fuel:receipts,851337.0,851337.130293778,0,True
+W.P. Kuala Lumpur,table_7,automotive_fuel:share,7.7,7.74271971646945,1,True
+W.P. Kuala Lumpur,table_7,transportation:receipts,615285.0,615285.370454704,0,True
+W.P. Kuala Lumpur,table_7,transportation:share,5.6,5.59588205371813,1,True
+W.P. Kuala Lumpur,table_7,food_and_beverage:receipts,1594886.0,1594886.06564261,0,True
+W.P. Kuala Lumpur,table_7,food_and_beverage:share,14.5,14.5051300437374,1,True
+W.P. Kuala Lumpur,table_7,accommodation:receipts,1673791.0,1673791.37661972,0,True
+W.P. Kuala Lumpur,table_7,accommodation:share,15.2,15.222756099617,1,True
+W.P. Kuala Lumpur,table_7,pre_trip_package_entrance_tickets:receipts,419556.0,419556.097324231,0,True
+W.P. Kuala Lumpur,table_7,pre_trip_package_entrance_tickets:share,3.8,3.81576833820969,1,True
+W.P. Kuala Lumpur,table_7,other_activities:receipts,610067.0,610067.279244107,0,True
+W.P. Kuala Lumpur,table_7,other_activities:share,5.5,5.54842468781576,1,True
+W.P. Kuala Lumpur,table_7,expenditure_by_visited_households:receipts,379849.0,379849.061050269,0,True
+W.P. Kuala Lumpur,table_7,expenditure_by_visited_households:share,3.5,3.45464177424216,1,True
+W.P. Kuala Lumpur,table_7,total_receipts:receipts,10995324.0,10995324.1427932,0,True
+W.P. Kuala Lumpur,table_7,total_receipts:share,100.0,100,1,True
+W.P. Kuala Lumpur,table_13_income,"≤RM1,000",4.6,4.6,1,True
+W.P. Kuala Lumpur,table_13_income,"RM1,001-3,000",15.0,15,1,True
+W.P. Kuala Lumpur,table_13_income,"RM3,001-5,000",25.0,25,1,True
+W.P. Kuala Lumpur,table_13_income,"RM5,001-10,000",36.8,36.8,1,True
+W.P. Kuala Lumpur,table_13_income,"≥RM10,001",18.6,18.6,1,True
+W.P. Kuala Lumpur,table_12_accom,relatives_friends_house,50.8,50.8,1,True
+W.P. Kuala Lumpur,table_12_accom,hotel,31.0,31,1,True
+W.P. Kuala Lumpur,table_12_accom,chalet,5.4,5.4,1,True
+W.P. Kuala Lumpur,table_12_accom,apartment,3.9,3.9,1,True
+W.P. Kuala Lumpur,table_12_accom,homestay_vacation_home,5.3,5.3,1,True
+W.P. Kuala Lumpur,table_12_accom,rest_house,3.6,3.6,1,True
+W.P. Labuan,table_1,total_receipts_rm_million,194.0,194.064160299471,0,True
+W.P. Labuan,table_1,domestic_visitors_thousand,331.0,331.36,0,True
+W.P. Labuan,table_1,domestic_trips_thousand,373.0,372.829,0,True
+W.P. Labuan,table_1,avg_receipts_per_capita_rm,586.0,585.659585645433,0,True
+W.P. Labuan,table_1,avg_receipts_per_trip_rm,521.0,520.517878972588,0,True
+W.P. Labuan,table_1,avg_length_of_stay_nights,2.89,2.88632094615376,2,True
+W.P. Labuan,table_7,expenditure_by_visitors:receipts,182509.0,182508.895906294,0,True
+W.P. Labuan,table_7,expenditure_by_visitors:share,94.0,94.0456473903551,1,True
+W.P. Labuan,table_7,shopping:receipts,65358.0,65357.5542889655,0,True
+W.P. Labuan,table_7,shopping:share,33.7,33.6783227712468,1,True
+W.P. Labuan,table_7,automotive_fuel:receipts,17533.0,17533.1979432338,0,True
+W.P. Labuan,table_7,automotive_fuel:share,9.0,9.03474289955311,1,True
+W.P. Labuan,table_7,transportation:receipts,20017.0,20017.0933263807,0,True
+W.P. Labuan,table_7,transportation:share,10.3,10.3146780402374,1,True
+W.P. Labuan,table_7,food_and_beverage:receipts,30999.0,30999.1989169333,0,True
+W.P. Labuan,table_7,food_and_beverage:share,16.0,15.9736856455601,1,True
+W.P. Labuan,table_7,accommodation:receipts,37054.0,37053.7049626698,0,True
+W.P. Labuan,table_7,accommodation:share,19.1,19.0935332446188,1,True
+W.P. Labuan,table_7,pre_trip_package_entrance_tickets:receipts,7204.0,7204.01972564804,0,True
+W.P. Labuan,table_7,pre_trip_package_entrance_tickets:share,3.7,3.71218452419609,1,True
+W.P. Labuan,table_7,other_activities:receipts,4344.0,4344.12674246274,0,True
+W.P. Labuan,table_7,other_activities:share,2.2,2.23850026494283,1,True
+W.P. Labuan,table_7,expenditure_by_visited_households:receipts,11555.0,11555.2643931769,0,True
+W.P. Labuan,table_7,expenditure_by_visited_households:share,6.0,5.95435260964485,1,True
+W.P. Labuan,table_7,total_receipts:receipts,194064.0,194064.160299471,0,True
+W.P. Labuan,table_7,total_receipts:share,100.0,100,1,True
+W.P. Labuan,table_13_income,"≤RM1,000",2.5,2.5,1,True
+W.P. Labuan,table_13_income,"RM1,001-3,000",10.9,10.9,1,True
+W.P. Labuan,table_13_income,"RM3,001-5,000",18.9,18.9,1,True
+W.P. Labuan,table_13_income,"RM5,001-10,000",52.3,52.3,1,True
+W.P. Labuan,table_13_income,"≥RM10,001",15.4,15.4,1,True
+W.P. Labuan,table_12_accom,relatives_friends_house,39.4,39.4,1,True
+W.P. Labuan,table_12_accom,hotel,45.3,45.3,1,True
+W.P. Labuan,table_12_accom,chalet,3.9,3.9,1,True
+W.P. Labuan,table_12_accom,apartment,3.7,3.7,1,True
+W.P. Labuan,table_12_accom,homestay_vacation_home,3.2,3.2,1,True
+W.P. Labuan,table_12_accom,rest_house,4.5,4.5,1,True
+W.P. Putrajaya,table_1,total_receipts_rm_million,670.0,669.729015248793,0,True
+W.P. Putrajaya,table_1,domestic_visitors_thousand,1900.0,1900.379,0,True
+W.P. Putrajaya,table_1,domestic_trips_thousand,1965.0,1964.587,0,True
+W.P. Putrajaya,table_1,avg_receipts_per_capita_rm,352.0,352.418657146176,0,True
+W.P. Putrajaya,table_1,avg_receipts_per_trip_rm,341.0,340.900665253711,0,True
+W.P. Putrajaya,table_1,avg_length_of_stay_nights,2.08,2.07967253905832,2,True
+W.P. Putrajaya,table_7,expenditure_by_visitors:receipts,634332.0,634331.900113948,0,True
+W.P. Putrajaya,table_7,expenditure_by_visitors:share,94.7,94.7147108264833,1,True
+W.P. Putrajaya,table_7,shopping:receipts,238298.0,238297.764254898,0,True
+W.P. Putrajaya,table_7,shopping:share,35.6,35.5812214834943,1,True
+W.P. Putrajaya,table_7,automotive_fuel:receipts,100711.0,100710.788771617,0,True
+W.P. Putrajaya,table_7,automotive_fuel:share,15.0,15.0375430179331,1,True
+W.P. Putrajaya,table_7,transportation:receipts,67480.0,67480.0610023623,0,True
+W.P. Putrajaya,table_7,transportation:share,10.1,10.0757260721778,1,True
+W.P. Putrajaya,table_7,food_and_beverage:receipts,111623.0,111622.852483227,0,True
+W.P. Putrajaya,table_7,food_and_beverage:share,16.7,16.6668682320358,1,True
+W.P. Putrajaya,table_7,accommodation:receipts,54150.0,54150.1811970078,0,True
+W.P. Putrajaya,table_7,accommodation:share,8.1,8.08538677048238,1,True
+W.P. Putrajaya,table_7,pre_trip_package_entrance_tickets:receipts,31076.0,31075.9383493871,0,True
+W.P. Putrajaya,table_7,pre_trip_package_entrance_tickets:share,4.6,4.64007645507832,1,True
+W.P. Putrajaya,table_7,other_activities:receipts,30994.0,30994.3140554489,0,True
+W.P. Putrajaya,table_7,other_activities:share,4.6,4.62788879528163,1,True
+W.P. Putrajaya,table_7,expenditure_by_visited_households:receipts,35397.0,35397.1151348447,0,True
+W.P. Putrajaya,table_7,expenditure_by_visited_households:share,5.3,5.28528917351674,1,True
+W.P. Putrajaya,table_7,total_receipts:receipts,669729.0,669729.015248793,0,True
+W.P. Putrajaya,table_7,total_receipts:share,100.0,100,1,True
+W.P. Putrajaya,table_13_income,"≤RM1,000",4.0,4,1,True
+W.P. Putrajaya,table_13_income,"RM1,001-3,000",18.3,18.3,1,True
+W.P. Putrajaya,table_13_income,"RM3,001-5,000",18.7,18.7,1,True
+W.P. Putrajaya,table_13_income,"RM5,001-10,000",36.4,36.4,1,True
+W.P. Putrajaya,table_13_income,"≥RM10,001",22.6,22.6,1,True
+W.P. Putrajaya,table_12_accom,relatives_friends_house,50.8,50.8,1,True
+W.P. Putrajaya,table_12_accom,hotel,37.9,37.9,1,True
+W.P. Putrajaya,table_12_accom,chalet,0.2,0.2,1,True
+W.P. Putrajaya,table_12_accom,apartment,2.1,2.1,1,True
+W.P. Putrajaya,table_12_accom,homestay_vacation_home,3.3,3.3,1,True
+W.P. Putrajaya,table_12_accom,rest_house,5.7,5.7,1,True

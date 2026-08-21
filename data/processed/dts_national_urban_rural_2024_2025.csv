@@ -1,0 +1,31 @@
+measure,unit,year,strata,value,geography
+domestic_visitors,'000,2024,total,260125.842,Malaysia
+domestic_visitors,'000,2024,urban,213531.422,Malaysia
+domestic_visitors,'000,2024,rural,46594.42,Malaysia
+domestic_visitors,'000,2025,total,290064.704,Malaysia
+domestic_visitors,'000,2025,urban,232856.67,Malaysia
+domestic_visitors,'000,2025,rural,57208.034,Malaysia
+domestic_trips,'000,2024,total,297853.174,Malaysia
+domestic_trips,'000,2024,urban,243775.46,Malaysia
+domestic_trips,'000,2024,rural,54077.714,Malaysia
+domestic_trips,'000,2025,total,332215.028,Malaysia
+domestic_trips,'000,2025,urban,266606.999,Malaysia
+domestic_trips,'000,2025,rural,65608.029,Malaysia
+tourism_expenditure,RM million,2024,total,106746.111,Malaysia
+tourism_expenditure,RM million,2024,urban,87338.254,Malaysia
+tourism_expenditure,RM million,2024,rural,19407.857,Malaysia
+tourism_expenditure,RM million,2025,total,121280.623,Malaysia
+tourism_expenditure,RM million,2025,urban,96050.81,Malaysia
+tourism_expenditure,RM million,2025,rural,25229.813,Malaysia
+avg_length_of_stay,nights,2024,total,2.492,Malaysia
+avg_length_of_stay,nights,2024,urban,2.464,Malaysia
+avg_length_of_stay,nights,2024,rural,2.664,Malaysia
+avg_length_of_stay,nights,2025,total,2.555,Malaysia
+avg_length_of_stay,nights,2025,urban,2.497,Malaysia
+avg_length_of_stay,nights,2025,rural,2.831,Malaysia
+avg_overnight_spend_per_trip,RM,2024,total,636.568,Malaysia
+avg_overnight_spend_per_trip,RM,2024,urban,600.263,Malaysia
+avg_overnight_spend_per_trip,RM,2024,rural,857.727,Malaysia
+avg_overnight_spend_per_trip,RM,2025,total,658.218,Malaysia
+avg_overnight_spend_per_trip,RM,2025,urban,614.423,Malaysia
+avg_overnight_spend_per_trip,RM,2025,rural,864.064,Malaysia

@@ -1,0 +1,517 @@
+state,district,level,year,homestay_clusters,homestay_clusters_flag,accommodation_premises,accommodation_premises_flag
+Johor,,state,2020,27,reported,463,reported
+Johor,,state,2021,27,reported,551,reported
+Johor,,state,2022,25,reported,,not_available
+Johor,Batu Pahat,district,2020,1,reported,22,reported
+Johor,Batu Pahat,district,2021,1,reported,35,reported
+Johor,Batu Pahat,district,2022,1,reported,,not_available
+Johor,Johor Bahru,district,2020,2,reported,278,reported
+Johor,Johor Bahru,district,2021,2,reported,299,reported
+Johor,Johor Bahru,district,2022,1,reported,,not_available
+Johor,Kluang,district,2020,3,reported,17,reported
+Johor,Kluang,district,2021,3,reported,30,reported
+Johor,Kluang,district,2022,3,reported,,not_available
+Johor,Kota Tinggi,district,2020,6,reported,35,reported
+Johor,Kota Tinggi,district,2021,6,reported,37,reported
+Johor,Kota Tinggi,district,2022,6,reported,,not_available
+Johor,Mersing,district,2020,2,reported,36,reported
+Johor,Mersing,district,2021,2,reported,65,reported
+Johor,Mersing,district,2022,2,reported,,not_available
+Johor,Muar,district,2020,4,reported,19,reported
+Johor,Muar,district,2021,4,reported,23,reported
+Johor,Muar,district,2022,3,reported,,not_available
+Johor,Pontian,district,2020,5,reported,9,reported
+Johor,Pontian,district,2021,5,reported,14,reported
+Johor,Pontian,district,2022,5,reported,,not_available
+Johor,Segamat,district,2020,1,reported,15,reported
+Johor,Segamat,district,2021,1,reported,22,reported
+Johor,Segamat,district,2022,1,reported,,not_available
+Johor,Kulai,district,2020,2,reported,29,reported
+Johor,Kulai,district,2021,2,reported,20,reported
+Johor,Kulai,district,2022,2,reported,,not_available
+Johor,Tangkak,district,2020,1,reported,3,reported
+Johor,Tangkak,district,2021,1,reported,6,reported
+Johor,Tangkak,district,2022,1,reported,,not_available
+Kedah,,state,2020,17,reported,214,reported
+Kedah,,state,2021,17,reported,339,reported
+Kedah,,state,2022,15,reported,,not_available
+Kedah,Baling,district,2020,2,reported,1,reported
+Kedah,Baling,district,2021,2,reported,6,reported
+Kedah,Baling,district,2022,2,reported,,not_available
+Kedah,Bandar Baharu,district,2020,1,reported,0,nil
+Kedah,Bandar Baharu,district,2021,1,reported,0,nil
+Kedah,Bandar Baharu,district,2022,0,nil,,not_available
+Kedah,Kota Setar,district,2020,2,reported,37,reported
+Kedah,Kota Setar,district,2021,1,reported,43,reported
+Kedah,Kota Setar,district,2022,1,reported,,not_available
+Kedah,Kuala Muda,district,2020,1,reported,25,reported
+Kedah,Kuala Muda,district,2021,1,reported,33,reported
+Kedah,Kuala Muda,district,2022,1,reported,,not_available
+Kedah,Kubang Pasu,district,2020,2,reported,10,reported
+Kedah,Kubang Pasu,district,2021,1,reported,14,reported
+Kedah,Kubang Pasu,district,2022,2,reported,,not_available
+Kedah,Kulim,district,2020,1,reported,4,reported
+Kedah,Kulim,district,2021,1,reported,12,reported
+Kedah,Kulim,district,2022,2,reported,,not_available
+Kedah,Langkawi,district,2020,6,reported,130,reported
+Kedah,Langkawi,district,2021,5,reported,220,reported
+Kedah,Langkawi,district,2022,4,reported,,not_available
+Kedah,Padang Terap,district,2020,1,reported,1,reported
+Kedah,Padang Terap,district,2021,1,reported,3,reported
+Kedah,Padang Terap,district,2022,1,reported,,not_available
+Kedah,Sik,district,2020,0,nil,5,reported
+Kedah,Sik,district,2021,1,reported,7,reported
+Kedah,Sik,district,2022,0,nil,,not_available
+Kedah,Yan,district,2020,1,reported,0,nil
+Kedah,Yan,district,2021,1,reported,0,nil
+Kedah,Yan,district,2022,1,reported,,not_available
+Kedah,Pendang,district,2020,0,nil,1,reported
+Kedah,Pendang,district,2021,1,reported,1,reported
+Kedah,Pendang,district,2022,1,reported,,not_available
+Kedah,Pokok Sena,district,2020,0,nil,0,nil
+Kedah,Pokok Sena,district,2021,1,reported,0,nil
+Kedah,Pokok Sena,district,2022,0,nil,,not_available
+Kelantan,,state,2020,8,reported,162,reported
+Kelantan,,state,2021,8,reported,160,reported
+Kelantan,,state,2022,8,reported,,not_available
+Kelantan,Bachok,district,2020,1,reported,13,reported
+Kelantan,Bachok,district,2021,1,reported,14,reported
+Kelantan,Bachok,district,2022,1,reported,,not_available
+Kelantan,Kota Bharu,district,2020,1,reported,93,reported
+Kelantan,Kota Bharu,district,2021,1,reported,105,reported
+Kelantan,Kota Bharu,district,2022,1,reported,,not_available
+Kelantan,Machang,district,2020,1,reported,4,reported
+Kelantan,Machang,district,2021,1,reported,1,reported
+Kelantan,Machang,district,2022,1,reported,,not_available
+Kelantan,Pasir Mas,district,2020,0,nil,6,reported
+Kelantan,Pasir Mas,district,2021,0,nil,5,reported
+Kelantan,Pasir Mas,district,2022,0,nil,,not_available
+Kelantan,Pasir Puteh,district,2020,0,nil,9,reported
+Kelantan,Pasir Puteh,district,2021,0,nil,5,reported
+Kelantan,Pasir Puteh,district,2022,0,nil,,not_available
+Kelantan,Tanah Merah,district,2020,0,nil,12,reported
+Kelantan,Tanah Merah,district,2021,0,nil,7,reported
+Kelantan,Tanah Merah,district,2022,0,nil,,not_available
+Kelantan,Tumpat,district,2020,1,reported,7,reported
+Kelantan,Tumpat,district,2021,1,reported,3,reported
+Kelantan,Tumpat,district,2022,1,reported,,not_available
+Kelantan,Gua Musang,district,2020,2,reported,16,reported
+Kelantan,Gua Musang,district,2021,2,reported,14,reported
+Kelantan,Gua Musang,district,2022,2,reported,,not_available
+Kelantan,Kuala Krai,district,2020,1,reported,0,nil
+Kelantan,Kuala Krai,district,2021,1,reported,5,reported
+Kelantan,Kuala Krai,district,2022,1,reported,,not_available
+Kelantan,Jeli,district,2020,1,reported,2,reported
+Kelantan,Jeli,district,2021,1,reported,1,reported
+Kelantan,Jeli,district,2022,1,reported,,not_available
+Kelantan,Kecil Lojing,district,2020,0,nil,0,nil
+Kelantan,Kecil Lojing,district,2021,0,nil,0,nil
+Kelantan,Kecil Lojing,district,2022,0,nil,,not_available
+Melaka,,state,2020,9,reported,347,reported
+Melaka,,state,2021,9,reported,343,reported
+Melaka,,state,2022,9,reported,,not_available
+Melaka,Alor Gajah,district,2020,4,reported,37,reported
+Melaka,Alor Gajah,district,2021,4,reported,52,reported
+Melaka,Alor Gajah,district,2022,4,reported,,not_available
+Melaka,Jasin,district,2020,2,reported,6,reported
+Melaka,Jasin,district,2021,2,reported,5,reported
+Melaka,Jasin,district,2022,2,reported,,not_available
+Melaka,Melaka Tengah,district,2020,3,reported,304,reported
+Melaka,Melaka Tengah,district,2021,3,reported,286,reported
+Melaka,Melaka Tengah,district,2022,3,reported,,not_available
+Negeri Sembilan,,state,2020,13,reported,167,reported
+Negeri Sembilan,,state,2021,13,reported,177,reported
+Negeri Sembilan,,state,2022,8,reported,,not_available
+Negeri Sembilan,Jelebu,district,2020,2,reported,7,reported
+Negeri Sembilan,Jelebu,district,2021,2,reported,5,reported
+Negeri Sembilan,Jelebu,district,2022,2,reported,,not_available
+Negeri Sembilan,Kuala Pilah,district,2020,1,reported,5,reported
+Negeri Sembilan,Kuala Pilah,district,2021,2,reported,6,reported
+Negeri Sembilan,Kuala Pilah,district,2022,0,nil,,not_available
+Negeri Sembilan,Port Dickson,district,2020,3,reported,68,reported
+Negeri Sembilan,Port Dickson,district,2021,2,reported,59,reported
+Negeri Sembilan,Port Dickson,district,2022,2,reported,,not_available
+Negeri Sembilan,Rembau,district,2020,1,reported,3,reported
+Negeri Sembilan,Rembau,district,2021,1,reported,4,reported
+Negeri Sembilan,Rembau,district,2022,0,nil,,not_available
+Negeri Sembilan,Seremban,district,2020,4,reported,56,reported
+Negeri Sembilan,Seremban,district,2021,3,reported,81,reported
+Negeri Sembilan,Seremban,district,2022,2,reported,,not_available
+Negeri Sembilan,Tampin,district,2020,1,reported,16,reported
+Negeri Sembilan,Tampin,district,2021,1,reported,11,reported
+Negeri Sembilan,Tampin,district,2022,1,reported,,not_available
+Negeri Sembilan,Jempol,district,2020,1,reported,12,reported
+Negeri Sembilan,Jempol,district,2021,2,reported,11,reported
+Negeri Sembilan,Jempol,district,2022,1,reported,,not_available
+Pahang,,state,2020,16,reported,338,reported
+Pahang,,state,2021,16,reported,484,reported
+Pahang,,state,2022,16,reported,,not_available
+Pahang,Bentong,district,2020,2,reported,32,reported
+Pahang,Bentong,district,2021,2,reported,66,reported
+Pahang,Bentong,district,2022,2,reported,,not_available
+Pahang,Cameron Highlands,district,2020,1,reported,49,reported
+Pahang,Cameron Highlands,district,2021,1,reported,69,reported
+Pahang,Cameron Highlands,district,2022,1,reported,,not_available
+Pahang,Jerantut,district,2020,1,reported,13,reported
+Pahang,Jerantut,district,2021,1,reported,29,reported
+Pahang,Jerantut,district,2022,1,reported,,not_available
+Pahang,Kuantan,district,2020,3,reported,123,reported
+Pahang,Kuantan,district,2021,2,reported,164,reported
+Pahang,Kuantan,district,2022,2,reported,,not_available
+Pahang,Lipis,district,2020,1,reported,16,reported
+Pahang,Lipis,district,2021,1,reported,17,reported
+Pahang,Lipis,district,2022,1,reported,,not_available
+Pahang,Pekan,district,2020,1,reported,6,reported
+Pahang,Pekan,district,2021,2,reported,10,reported
+Pahang,Pekan,district,2022,2,reported,,not_available
+Pahang,Raub,district,2020,3,reported,16,reported
+Pahang,Raub,district,2021,3,reported,23,reported
+Pahang,Raub,district,2022,3,reported,,not_available
+Pahang,Temerloh,district,2020,3,reported,30,reported
+Pahang,Temerloh,district,2021,3,reported,36,reported
+Pahang,Temerloh,district,2022,3,reported,,not_available
+Pahang,Rompin,district,2020,1,reported,47,reported
+Pahang,Rompin,district,2021,1,reported,61,reported
+Pahang,Rompin,district,2022,1,reported,,not_available
+Pahang,Maran,district,2020,0,nil,3,reported
+Pahang,Maran,district,2021,0,nil,6,reported
+Pahang,Maran,district,2022,0,nil,,not_available
+Pahang,Bera,district,2020,0,nil,3,reported
+Pahang,Bera,district,2021,0,nil,3,reported
+Pahang,Bera,district,2022,0,nil,,not_available
+Pulau Pinang,,state,2020,11,reported,284,reported
+Pulau Pinang,,state,2021,11,reported,300,reported
+Pulau Pinang,,state,2022,10,reported,,not_available
+Pulau Pinang,Seberang Perai Tengah,district,2020,2,reported,44,reported
+Pulau Pinang,Seberang Perai Tengah,district,2021,2,reported,55,reported
+Pulau Pinang,Seberang Perai Tengah,district,2022,2,reported,,not_available
+Pulau Pinang,Seberang Perai Utara,district,2020,2,reported,18,reported
+Pulau Pinang,Seberang Perai Utara,district,2021,2,reported,21,reported
+Pulau Pinang,Seberang Perai Utara,district,2022,2,reported,,not_available
+Pulau Pinang,Seberang Perai Selatan,district,2020,4,reported,12,reported
+Pulau Pinang,Seberang Perai Selatan,district,2021,4,reported,1,reported
+Pulau Pinang,Seberang Perai Selatan,district,2022,4,reported,,not_available
+Pulau Pinang,Timur Laut,district,2020,0,nil,187,reported
+Pulau Pinang,Timur Laut,district,2021,0,nil,199,reported
+Pulau Pinang,Timur Laut,district,2022,0,nil,,not_available
+Pulau Pinang,Barat Daya,district,2020,3,reported,23,reported
+Pulau Pinang,Barat Daya,district,2021,3,reported,24,reported
+Pulau Pinang,Barat Daya,district,2022,2,reported,,not_available
+Perak,,state,2020,11,reported,469,reported
+Perak,,state,2021,11,reported,530,reported
+Perak,,state,2022,11,reported,,not_available
+Perak,Batang Padang,district,2020,1,reported,20,reported
+Perak,Batang Padang,district,2021,1,reported,22,reported
+Perak,Batang Padang,district,2022,1,reported,,not_available
+Perak,Manjung,district,2020,0,nil,140,reported
+Perak,Manjung,district,2021,1,reported,131,reported
+Perak,Manjung,district,2022,0,nil,,not_available
+Perak,Kinta,district,2020,0,nil,144,reported
+Perak,Kinta,district,2021,1,reported,169,reported
+Perak,Kinta,district,2022,0,nil,,not_available
+Perak,Kerian,district,2020,0,nil,10,reported
+Perak,Kerian,district,2021,1,reported,10,reported
+Perak,Kerian,district,2022,0,nil,,not_available
+Perak,Kuala Kangsar,district,2020,2,reported,20,reported
+Perak,Kuala Kangsar,district,2021,1,reported,17,reported
+Perak,Kuala Kangsar,district,2022,2,reported,,not_available
+Perak,Larut dan Matang,district,2020,2,reported,36,reported
+Perak,Larut dan Matang,district,2021,2,reported,49,reported
+Perak,Larut dan Matang,district,2022,2,reported,,not_available
+Perak,Hilir Perak,district,2020,2,reported,36,reported
+Perak,Hilir Perak,district,2021,1,reported,73,reported
+Perak,Hilir Perak,district,2022,2,reported,,not_available
+Perak,Hulu Perak,district,2020,1,reported,22,reported
+Perak,Hulu Perak,district,2021,1,reported,21,reported
+Perak,Hulu Perak,district,2022,1,reported,,not_available
+Perak,Perak Tengah,district,2020,2,reported,7,reported
+Perak,Perak Tengah,district,2021,1,reported,6,reported
+Perak,Perak Tengah,district,2022,2,reported,,not_available
+Perak,Kampar,district,2020,1,reported,19,reported
+Perak,Kampar,district,2021,1,reported,16,reported
+Perak,Kampar,district,2022,1,reported,,not_available
+Perak,Muallim,district,2020,0,nil,15,reported
+Perak,Muallim,district,2021,0,nil,13,reported
+Perak,Muallim,district,2022,0,nil,,not_available
+Perak,Bagan Datuk,district,2020,0,nil,0,nil
+Perak,Bagan Datuk,district,2021,0,nil,0,nil
+Perak,Bagan Datuk,district,2022,0,nil,,not_available
+Perak,Selama,district,2020,0,nil,0,nil
+Perak,Selama,district,2021,0,nil,3,reported
+Perak,Selama,district,2022,0,nil,,not_available
+Perlis,,state,2020,3,reported,53,reported
+Perlis,,state,2021,3,reported,42,reported
+Perlis,,state,2022,3,reported,,not_available
+Selangor,,state,2020,16,reported,395,reported
+Selangor,,state,2021,16,reported,436,reported
+Selangor,,state,2022,16,reported,,not_available
+Selangor,Gombak,district,2020,1,reported,14,reported
+Selangor,Gombak,district,2021,1,reported,50,reported
+Selangor,Gombak,district,2022,1,reported,,not_available
+Selangor,Klang,district,2020,0,nil,63,reported
+Selangor,Klang,district,2021,1,reported,48,reported
+Selangor,Klang,district,2022,1,reported,,not_available
+Selangor,Kuala Langat,district,2020,5,reported,19,reported
+Selangor,Kuala Langat,district,2021,5,reported,18,reported
+Selangor,Kuala Langat,district,2022,6,reported,,not_available
+Selangor,Kuala Selangor,district,2020,2,reported,9,reported
+Selangor,Kuala Selangor,district,2021,2,reported,11,reported
+Selangor,Kuala Selangor,district,2022,1,reported,,not_available
+Selangor,Petaling,district,2020,0,nil,188,reported
+Selangor,Petaling,district,2021,0,nil,194,reported
+Selangor,Petaling,district,2022,0,nil,,not_available
+Selangor,Sabak Bernam,district,2020,6,reported,7,reported
+Selangor,Sabak Bernam,district,2021,5,reported,18,reported
+Selangor,Sabak Bernam,district,2022,5,reported,,not_available
+Selangor,Sepang,district,2020,1,reported,45,reported
+Selangor,Sepang,district,2021,1,reported,46,reported
+Selangor,Sepang,district,2022,1,reported,,not_available
+Selangor,Ulu Langat,district,2020,0,nil,46,reported
+Selangor,Ulu Langat,district,2021,0,nil,42,reported
+Selangor,Ulu Langat,district,2022,1,reported,,not_available
+Selangor,Ulu Selangor,district,2020,1,reported,4,reported
+Selangor,Ulu Selangor,district,2021,1,reported,9,reported
+Selangor,Ulu Selangor,district,2022,0,nil,,not_available
+Terengganu,,state,2020,11,reported,161,reported
+Terengganu,,state,2021,11,reported,235,reported
+Terengganu,,state,2022,7,reported,,not_available
+Terengganu,Besut,district,2020,4,reported,33,reported
+Terengganu,Besut,district,2021,4,reported,58,reported
+Terengganu,Besut,district,2022,4,reported,,not_available
+Terengganu,Dungun,district,2020,2,reported,19,reported
+Terengganu,Dungun,district,2021,2,reported,29,reported
+Terengganu,Dungun,district,2022,1,reported,,not_available
+Terengganu,Kemaman,district,2020,1,reported,26,reported
+Terengganu,Kemaman,district,2021,1,reported,32,reported
+Terengganu,Kemaman,district,2022,0,nil,,not_available
+Terengganu,Kuala Terengganu,district,2020,2,reported,62,reported
+Terengganu,Kuala Terengganu,district,2021,2,reported,58,reported
+Terengganu,Kuala Terengganu,district,2022,1,reported,,not_available
+Terengganu,Marang,district,2020,0,nil,9,reported
+Terengganu,Marang,district,2021,0,nil,24,reported
+Terengganu,Marang,district,2022,0,nil,,not_available
+Terengganu,Hulu Terengganu,district,2020,1,reported,4,reported
+Terengganu,Hulu Terengganu,district,2021,1,reported,6,reported
+Terengganu,Hulu Terengganu,district,2022,0,nil,,not_available
+Terengganu,Setiu,district,2020,1,reported,8,reported
+Terengganu,Setiu,district,2021,1,reported,7,reported
+Terengganu,Setiu,district,2022,1,reported,,not_available
+Terengganu,Kuala Nerus,district,2020,0,nil,0,nil
+Terengganu,Kuala Nerus,district,2021,0,nil,21,reported
+Terengganu,Kuala Nerus,district,2022,0,nil,,not_available
+Sabah,,state,2020,30,reported,465,reported
+Sabah,,state,2021,32,reported,585,reported
+Sabah,,state,2022,31,reported,,not_available
+Sabah,Tawau,district,2020,0,nil,28,reported
+Sabah,Tawau,district,2021,0,nil,50,reported
+Sabah,Tawau,district,2022,0,nil,,not_available
+Sabah,Lahad Datu,district,2020,2,reported,21,reported
+Sabah,Lahad Datu,district,2021,2,reported,32,reported
+Sabah,Lahad Datu,district,2022,2,reported,,not_available
+Sabah,Semporna,district,2020,0,nil,45,reported
+Sabah,Semporna,district,2021,0,nil,42,reported
+Sabah,Semporna,district,2022,0,nil,,not_available
+Sabah,Sandakan,district,2020,0,nil,83,reported
+Sabah,Sandakan,district,2021,0,nil,67,reported
+Sabah,Sandakan,district,2022,0,nil,,not_available
+Sabah,Kinabatangan,district,2020,4,reported,10,reported
+Sabah,Kinabatangan,district,2021,4,reported,21,reported
+Sabah,Kinabatangan,district,2022,4,reported,,not_available
+Sabah,Beluran,district,2020,0,nil,2,reported
+Sabah,Beluran,district,2021,0,nil,1,reported
+Sabah,Beluran,district,2022,0,nil,,not_available
+Sabah,Kota Kinabalu,district,2020,1,reported,195,reported
+Sabah,Kota Kinabalu,district,2021,2,reported,184,reported
+Sabah,Kota Kinabalu,district,2022,2,reported,,not_available
+Sabah,Ranau,district,2020,2,reported,20,reported
+Sabah,Ranau,district,2021,2,reported,48,reported
+Sabah,Ranau,district,2022,2,reported,,not_available
+Sabah,Kota Belud,district,2020,8,reported,4,reported
+Sabah,Kota Belud,district,2021,9,reported,7,reported
+Sabah,Kota Belud,district,2022,10,reported,,not_available
+Sabah,Tuaran,district,2020,2,reported,3,reported
+Sabah,Tuaran,district,2021,2,reported,5,reported
+Sabah,Tuaran,district,2022,1,reported,,not_available
+Sabah,Penampang,district,2020,1,reported,8,reported
+Sabah,Penampang,district,2021,1,reported,18,reported
+Sabah,Penampang,district,2022,1,reported,,not_available
+Sabah,Papar,district,2020,2,reported,8,reported
+Sabah,Papar,district,2021,2,reported,11,reported
+Sabah,Papar,district,2022,1,reported,,not_available
+Sabah,Kudat,district,2020,1,reported,12,reported
+Sabah,Kudat,district,2021,1,reported,23,reported
+Sabah,Kudat,district,2022,1,reported,,not_available
+Sabah,Kota Marudu,district,2020,1,reported,4,reported
+Sabah,Kota Marudu,district,2021,1,reported,11,reported
+Sabah,Kota Marudu,district,2022,1,reported,,not_available
+Sabah,Pitas,district,2020,0,nil,0,nil
+Sabah,Pitas,district,2021,0,nil,3,reported
+Sabah,Pitas,district,2022,0,nil,,not_available
+Sabah,Beaufort,district,2020,2,reported,6,reported
+Sabah,Beaufort,district,2021,2,reported,8,reported
+Sabah,Beaufort,district,2022,2,reported,,not_available
+Sabah,Kuala Penyu,district,2020,1,reported,2,reported
+Sabah,Kuala Penyu,district,2021,1,reported,2,reported
+Sabah,Kuala Penyu,district,2022,1,reported,,not_available
+Sabah,Sipitang,district,2020,1,reported,1,reported
+Sabah,Sipitang,district,2021,1,reported,10,reported
+Sabah,Sipitang,district,2022,1,reported,,not_available
+Sabah,Tenom,district,2020,0,nil,4,reported
+Sabah,Tenom,district,2021,0,nil,3,reported
+Sabah,Tenom,district,2022,0,nil,,not_available
+Sabah,Nabawan,district,2020,0,nil,0,nil
+Sabah,Nabawan,district,2021,0,nil,0,nil
+Sabah,Nabawan,district,2022,0,nil,,not_available
+Sabah,Keningau,district,2020,0,nil,4,reported
+Sabah,Keningau,district,2021,0,nil,22,reported
+Sabah,Keningau,district,2022,0,nil,,not_available
+Sabah,Tambunan,district,2020,2,reported,2,reported
+Sabah,Tambunan,district,2021,2,reported,8,reported
+Sabah,Tambunan,district,2022,2,reported,,not_available
+Sabah,Kunak,district,2020,0,nil,0,nil
+Sabah,Kunak,district,2021,0,nil,2,reported
+Sabah,Kunak,district,2022,0,nil,,not_available
+Sabah,Tongod,district,2020,0,nil,0,nil
+Sabah,Tongod,district,2021,0,nil,0,nil
+Sabah,Tongod,district,2022,0,nil,,not_available
+Sabah,Putatan,district,2020,0,nil,3,reported
+Sabah,Putatan,district,2021,0,nil,7,reported
+Sabah,Putatan,district,2022,0,nil,,not_available
+Sabah,Telupid,district,2020,0,nil,0,nil
+Sabah,Telupid,district,2021,0,nil,0,nil
+Sabah,Telupid,district,2022,0,nil,,not_available
+Sabah,Kalabakan,district,2020,0,nil,0,nil
+Sabah,Kalabakan,district,2021,0,nil,0,nil
+Sabah,Kalabakan,district,2022,0,nil,,not_available
+Sarawak,,state,2020,43,reported,484,reported
+Sarawak,,state,2021,46,reported,567,reported
+Sarawak,,state,2022,46,reported,,not_available
+Sarawak,Kuching,district,2020,10,reported,141,reported
+Sarawak,Kuching,district,2021,10,reported,157,reported
+Sarawak,Kuching,district,2022,10,reported,,not_available
+Sarawak,Bau,district,2020,2,reported,2,reported
+Sarawak,Bau,district,2021,3,reported,3,reported
+Sarawak,Bau,district,2022,5,reported,,not_available
+Sarawak,Lundu,district,2020,3,reported,6,reported
+Sarawak,Lundu,district,2021,3,reported,8,reported
+Sarawak,Lundu,district,2022,3,reported,,not_available
+Sarawak,Samarahan,district,2020,1,reported,2,reported
+Sarawak,Samarahan,district,2021,1,reported,0,nil
+Sarawak,Samarahan,district,2022,1,reported,,not_available
+Sarawak,Serian,district,2020,4,reported,3,reported
+Sarawak,Serian,district,2021,4,reported,2,reported
+Sarawak,Serian,district,2022,4,reported,,not_available
+Sarawak,Simunjan,district,2020,0,nil,0,nil
+Sarawak,Simunjan,district,2021,0,nil,1,reported
+Sarawak,Simunjan,district,2022,0,nil,,not_available
+Sarawak,Sri Aman,district,2020,1,reported,10,reported
+Sarawak,Sri Aman,district,2021,1,reported,10,reported
+Sarawak,Sri Aman,district,2022,1,reported,,not_available
+Sarawak,Lubok Antu,district,2020,0,nil,1,reported
+Sarawak,Lubok Antu,district,2021,0,nil,1,reported
+Sarawak,Lubok Antu,district,2022,0,nil,,not_available
+Sarawak,Betong,district,2020,2,reported,6,reported
+Sarawak,Betong,district,2021,2,reported,6,reported
+Sarawak,Betong,district,2022,2,reported,,not_available
+Sarawak,Saratok,district,2020,0,nil,5,reported
+Sarawak,Saratok,district,2021,0,nil,4,reported
+Sarawak,Saratok,district,2022,0,nil,,not_available
+Sarawak,Sarikei,district,2020,2,reported,17,reported
+Sarawak,Sarikei,district,2021,2,reported,18,reported
+Sarawak,Sarikei,district,2022,2,reported,,not_available
+Sarawak,Maradong,district,2020,0,nil,0,nil
+Sarawak,Maradong,district,2021,0,nil,2,reported
+Sarawak,Maradong,district,2022,0,nil,,not_available
+Sarawak,Daro,district,2020,0,nil,0,nil
+Sarawak,Daro,district,2021,0,nil,2,reported
+Sarawak,Daro,district,2022,0,nil,,not_available
+Sarawak,Julau,district,2020,0,nil,0,nil
+Sarawak,Julau,district,2021,0,nil,0,nil
+Sarawak,Julau,district,2022,0,nil,,not_available
+Sarawak,Sibu,district,2020,3,reported,62,reported
+Sarawak,Sibu,district,2021,3,reported,67,reported
+Sarawak,Sibu,district,2022,3,reported,,not_available
+Sarawak,Dalat,district,2020,0,nil,1,reported
+Sarawak,Dalat,district,2021,0,nil,1,reported
+Sarawak,Dalat,district,2022,0,nil,,not_available
+Sarawak,Mukah,district,2020,2,reported,19,reported
+Sarawak,Mukah,district,2021,2,reported,13,reported
+Sarawak,Mukah,district,2022,2,reported,,not_available
+Sarawak,Kanowit,district,2020,0,nil,0,nil
+Sarawak,Kanowit,district,2021,0,nil,1,reported
+Sarawak,Kanowit,district,2022,0,nil,,not_available
+Sarawak,Bintulu,district,2020,0,nil,76,reported
+Sarawak,Bintulu,district,2021,0,nil,113,reported
+Sarawak,Bintulu,district,2022,0,nil,,not_available
+Sarawak,Tatau,district,2020,0,nil,0,nil
+Sarawak,Tatau,district,2021,0,nil,0,nil
+Sarawak,Tatau,district,2022,0,nil,,not_available
+Sarawak,Kapit,district,2020,,not_available,20,reported
+Sarawak,Kapit,district,2021,1,reported,12,reported
+Sarawak,Kapit,district,2022,1,reported,,not_available
+Sarawak,Song,district,2020,0,nil,0,nil
+Sarawak,Song,district,2021,0,nil,0,nil
+Sarawak,Song,district,2022,0,nil,,not_available
+Sarawak,Belaga,district,2020,0,nil,0,nil
+Sarawak,Belaga,district,2021,0,nil,2,reported
+Sarawak,Belaga,district,2022,0,nil,,not_available
+Sarawak,Miri,district,2020,7,reported,87,reported
+Sarawak,Miri,district,2021,10,reported,114,reported
+Sarawak,Miri,district,2022,8,reported,,not_available
+Sarawak,Marudi,district,2020,3,reported,5,reported
+Sarawak,Marudi,district,2021,0,nil,8,reported
+Sarawak,Marudi,district,2022,0,nil,,not_available
+Sarawak,Limbang,district,2020,1,reported,10,reported
+Sarawak,Limbang,district,2021,1,reported,11,reported
+Sarawak,Limbang,district,2022,1,reported,,not_available
+Sarawak,Lawas,district,2020,2,reported,11,reported
+Sarawak,Lawas,district,2021,3,reported,11,reported
+Sarawak,Lawas,district,2022,3,reported,,not_available
+Sarawak,Matu,district,2020,0,nil,0,nil
+Sarawak,Matu,district,2021,0,nil,0,nil
+Sarawak,Matu,district,2022,0,nil,0,nil
+Sarawak,Asajaya,district,2020,0,nil,0,nil
+Sarawak,Asajaya,district,2021,0,nil,0,nil
+Sarawak,Asajaya,district,2022,0,nil,0,nil
+Sarawak,Pakan,district,2020,0,nil,0,nil
+Sarawak,Pakan,district,2021,0,nil,0,nil
+Sarawak,Pakan,district,2022,0,nil,0,nil
+Sarawak,Selangau,district,2020,0,nil,0,nil
+Sarawak,Selangau,district,2021,0,nil,0,nil
+Sarawak,Selangau,district,2022,0,nil,0,nil
+Sarawak,Tebedu,district,2020,0,nil,0,nil
+Sarawak,Tebedu,district,2021,0,nil,0,nil
+Sarawak,Tebedu,district,2022,0,nil,0,nil
+Sarawak,Pusa,district,2020,0,nil,0,nil
+Sarawak,Pusa,district,2021,0,nil,0,nil
+Sarawak,Pusa,district,2022,0,nil,0,nil
+Sarawak,Kabong,district,2020,0,nil,0,nil
+Sarawak,Kabong,district,2021,0,nil,0,nil
+Sarawak,Kabong,district,2022,0,nil,0,nil
+Sarawak,Tanjung Manis,district,2020,0,nil,0,nil
+Sarawak,Tanjung Manis,district,2021,0,nil,0,nil
+Sarawak,Tanjung Manis,district,2022,0,nil,0,nil
+Sarawak,Sebauh,district,2020,0,nil,0,nil
+Sarawak,Sebauh,district,2021,0,nil,0,nil
+Sarawak,Sebauh,district,2022,0,nil,0,nil
+Sarawak,Bukit Mabong,district,2020,0,nil,0,nil
+Sarawak,Bukit Mabong,district,2021,0,nil,0,nil
+Sarawak,Bukit Mabong,district,2022,0,nil,0,nil
+Sarawak,Subis,district,2020,0,nil,0,nil
+Sarawak,Subis,district,2021,0,nil,0,nil
+Sarawak,Subis,district,2022,0,nil,0,nil
+Sarawak,Beluru,district,2020,0,nil,0,nil
+Sarawak,Beluru,district,2021,0,nil,0,nil
+Sarawak,Beluru,district,2022,0,nil,0,nil
+Sarawak,Telang Usan,district,2020,0,nil,0,nil
+Sarawak,Telang Usan,district,2021,0,nil,0,nil
+Sarawak,Telang Usan,district,2022,0,nil,0,nil
+W.P. Kuala Lumpur,,state,2020,0,nil,395,reported
+W.P. Kuala Lumpur,,state,2021,0,nil,448,reported
+W.P. Kuala Lumpur,,state,2022,0,nil,,not_available
+W.P. Labuan,,state,2020,3,reported,49,reported
+W.P. Labuan,,state,2021,3,reported,47,reported
+W.P. Labuan,,state,2022,3,reported,,not_available
+W.P. Putrajaya,,state,2020,0,nil,10,reported
+W.P. Putrajaya,,state,2021,0,nil,9,reported
+W.P. Putrajaya,,state,2022,0,nil,,not_available

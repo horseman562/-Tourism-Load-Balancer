@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+
+# Ref-1 palette: soft neutral ground, forest green primary, gold accent
+primaryColor = "#4d9a68"
+backgroundColor = "#f5f7f8"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1f2933"
+
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

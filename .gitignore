@@ -1,0 +1,30 @@
+# Raw DOSM downloads — 321 MB. Shipped as a GitHub Release asset instead.
+# Every file's source URL, SHA-256 and retrieval time is in data/manifest.json,
+# so the raw set is fully reproducible without living in the repo.
+data/raw/
+data/_tmp/
+dosm-tourism-data/
+
+# Environments
+.venv/
+__pycache__/
+*.pyc
+
+# Scratch
+*.bak
+st.log
+catalogue.html
+dgm.html
+arch.html
+a23.html
+tree.json
+pub.tmp
+t2.tmp
+smap.tmp
+q12026.pdf
+geo_state.json.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+dosm-raw-data.zip

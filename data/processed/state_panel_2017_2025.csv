@@ -1,0 +1,785 @@
+state,year,indicator,value,source,precision
+Johor,2017,total_receipts_rm_million,6036.4303,DTS 2023 state XLSX (Table 1),exact
+Johor,2018,total_receipts_rm_million,6726.4114,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2019,total_receipts_rm_million,7409.6779,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2020,total_receipts_rm_million,2431.6199,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2021,total_receipts_rm_million,1251.8493,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2022,total_receipts_rm_million,4888.3515,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2023,total_receipts_rm_million,6699.1188,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2024,total_receipts_rm_million,7814.0,DTS 2024 state PDF (Table 1),as printed
+Johor,2017,domestic_visitors_thousand,13140.6397,DTS 2023 state XLSX (Table 1),exact
+Johor,2018,domestic_visitors_thousand,13487.2379,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2019,domestic_visitors_thousand,14274.3643,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2020,domestic_visitors_thousand,7242.508,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2021,domestic_visitors_thousand,3657.55,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2022,domestic_visitors_thousand,12376.202,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2023,domestic_visitors_thousand,15804.89,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2024,domestic_visitors_thousand,17138.0,DTS 2024 state PDF (Table 1),as printed
+Johor,2017,domestic_trips_thousand,18769.8524,DTS 2023 state XLSX (Table 1),exact
+Johor,2018,domestic_trips_thousand,17645.832,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2019,domestic_trips_thousand,19135.5102,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2020,domestic_trips_thousand,7915.18,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2021,domestic_trips_thousand,3797.419,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2022,domestic_trips_thousand,12964.945,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2023,domestic_trips_thousand,16493.661,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2024,domestic_trips_thousand,19204.0,DTS 2024 state PDF (Table 1),as printed
+Johor,2017,avg_receipts_per_capita_rm,459.3711,DTS 2023 state XLSX (Table 1),exact
+Johor,2018,avg_receipts_per_capita_rm,498.7242,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2019,avg_receipts_per_capita_rm,519.0899,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2020,avg_receipts_per_capita_rm,335.7428,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2021,avg_receipts_per_capita_rm,342.2644,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2022,avg_receipts_per_capita_rm,394.9799,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2023,avg_receipts_per_capita_rm,423.8637,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2024,avg_receipts_per_capita_rm,456.0,DTS 2024 state PDF (Table 1),as printed
+Johor,2017,avg_receipts_per_trip_rm,321.6024,DTS 2023 state XLSX (Table 1),exact
+Johor,2018,avg_receipts_per_trip_rm,381.1898,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2019,avg_receipts_per_trip_rm,387.2213,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2020,avg_receipts_per_trip_rm,307.2097,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2021,avg_receipts_per_trip_rm,329.6579,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2022,avg_receipts_per_trip_rm,377.0437,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2023,avg_receipts_per_trip_rm,406.1632,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2024,avg_receipts_per_trip_rm,407.0,DTS 2024 state PDF (Table 1),as printed
+Johor,2017,avg_length_of_stay_nights,2.1883,DTS 2023 state XLSX (Table 1),exact
+Johor,2018,avg_length_of_stay_nights,2.5405,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2019,avg_length_of_stay_nights,2.5416,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2020,avg_length_of_stay_nights,1.8513,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2021,avg_length_of_stay_nights,2.0602,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2022,avg_length_of_stay_nights,2.3378,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2023,avg_length_of_stay_nights,2.1761,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Johor,2024,avg_length_of_stay_nights,2.55,DTS 2024 state PDF (Table 1),as printed
+Johor,2025,domestic_visitors_thousand,18197.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Kedah,2017,total_receipts_rm_million,4471.3648,DTS 2023 state XLSX (Table 1),exact
+Kedah,2018,total_receipts_rm_million,4724.4604,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2019,total_receipts_rm_million,5208.1319,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2020,total_receipts_rm_million,2272.6921,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2021,total_receipts_rm_million,842.2054,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2022,total_receipts_rm_million,3469.8227,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2023,total_receipts_rm_million,4206.6195,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2024,total_receipts_rm_million,4961.0,DTS 2024 state PDF (Table 1),as printed
+Kedah,2017,domestic_visitors_thousand,13304.5349,DTS 2023 state XLSX (Table 1),exact
+Kedah,2018,domestic_visitors_thousand,14480.0184,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2019,domestic_visitors_thousand,14831.1555,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2020,domestic_visitors_thousand,10108.084,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2021,domestic_visitors_thousand,4023.002,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2022,domestic_visitors_thousand,11186.197,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2023,domestic_visitors_thousand,13444.055,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2024,domestic_visitors_thousand,14651.0,DTS 2024 state PDF (Table 1),as printed
+Kedah,2017,domestic_trips_thousand,17169.5704,DTS 2023 state XLSX (Table 1),exact
+Kedah,2018,domestic_trips_thousand,19648.2034,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2019,domestic_trips_thousand,19500.3707,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2020,domestic_trips_thousand,10362.011,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2021,domestic_trips_thousand,4240.773,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2022,domestic_trips_thousand,11894.479,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2023,domestic_trips_thousand,13687.381,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2024,domestic_trips_thousand,15984.0,DTS 2024 state PDF (Table 1),as printed
+Kedah,2017,avg_receipts_per_capita_rm,336.0782,DTS 2023 state XLSX (Table 1),exact
+Kedah,2018,avg_receipts_per_capita_rm,326.2745,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2019,avg_receipts_per_capita_rm,351.1616,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2020,avg_receipts_per_capita_rm,224.8391,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2021,avg_receipts_per_capita_rm,209.3475,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2022,avg_receipts_per_capita_rm,310.1879,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2023,avg_receipts_per_capita_rm,312.8981,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2024,avg_receipts_per_capita_rm,339.0,DTS 2024 state PDF (Table 1),as printed
+Kedah,2017,avg_receipts_per_trip_rm,260.4238,DTS 2023 state XLSX (Table 1),exact
+Kedah,2018,avg_receipts_per_trip_rm,240.4525,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2019,avg_receipts_per_trip_rm,267.0786,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2020,avg_receipts_per_trip_rm,219.3293,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2021,avg_receipts_per_trip_rm,198.5971,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2022,avg_receipts_per_trip_rm,291.7171,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2023,avg_receipts_per_trip_rm,307.3356,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2024,avg_receipts_per_trip_rm,310.0,DTS 2024 state PDF (Table 1),as printed
+Kedah,2017,avg_length_of_stay_nights,2.1289,DTS 2023 state XLSX (Table 1),exact
+Kedah,2018,avg_length_of_stay_nights,2.2856,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2019,avg_length_of_stay_nights,2.3055,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2020,avg_length_of_stay_nights,1.9701,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2021,avg_length_of_stay_nights,1.9623,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2022,avg_length_of_stay_nights,2.1121,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2023,avg_length_of_stay_nights,2.0272,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kedah,2024,avg_length_of_stay_nights,2.77,DTS 2024 state PDF (Table 1),as printed
+Kedah,2025,domestic_visitors_thousand,15608.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Kelantan,2017,total_receipts_rm_million,3633.6642,DTS 2023 state XLSX (Table 1),exact
+Kelantan,2018,total_receipts_rm_million,4001.3952,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2019,total_receipts_rm_million,4800.041,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2020,total_receipts_rm_million,1555.1226,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2021,total_receipts_rm_million,477.2221,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2022,total_receipts_rm_million,2586.2241,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2023,total_receipts_rm_million,3228.3851,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2024,total_receipts_rm_million,4541.0,DTS 2024 state PDF (Table 1),as printed
+Kelantan,2017,domestic_visitors_thousand,9623.6638,DTS 2023 state XLSX (Table 1),exact
+Kelantan,2018,domestic_visitors_thousand,9846.1234,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2019,domestic_visitors_thousand,10985.652,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2020,domestic_visitors_thousand,6058.183,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2021,domestic_visitors_thousand,1920.93,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2022,domestic_visitors_thousand,6627.155,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2023,domestic_visitors_thousand,7549.37,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2024,domestic_visitors_thousand,10514.0,DTS 2024 state PDF (Table 1),as printed
+Kelantan,2017,domestic_trips_thousand,12901.0315,DTS 2023 state XLSX (Table 1),exact
+Kelantan,2018,domestic_trips_thousand,14237.5239,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2019,domestic_trips_thousand,15911.2788,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2020,domestic_trips_thousand,6568.194,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2021,domestic_trips_thousand,1971.69,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2022,domestic_trips_thousand,8783.75,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2023,domestic_trips_thousand,9299.793,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2024,domestic_trips_thousand,12464.0,DTS 2024 state PDF (Table 1),as printed
+Kelantan,2017,avg_receipts_per_capita_rm,377.576,DTS 2023 state XLSX (Table 1),exact
+Kelantan,2018,avg_receipts_per_capita_rm,406.393,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2019,avg_receipts_per_capita_rm,436.9373,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2020,avg_receipts_per_capita_rm,256.6979,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2021,avg_receipts_per_capita_rm,248.4329,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2022,avg_receipts_per_capita_rm,390.2465,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2023,avg_receipts_per_capita_rm,427.6364,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2024,avg_receipts_per_capita_rm,432.0,DTS 2024 state PDF (Table 1),as printed
+Kelantan,2017,avg_receipts_per_trip_rm,281.6569,DTS 2023 state XLSX (Table 1),exact
+Kelantan,2018,avg_receipts_per_trip_rm,281.0457,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2019,avg_receipts_per_trip_rm,301.6754,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2020,avg_receipts_per_trip_rm,236.7656,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2021,avg_receipts_per_trip_rm,242.0371,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2022,avg_receipts_per_trip_rm,294.4328,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2023,avg_receipts_per_trip_rm,347.1459,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2024,avg_receipts_per_trip_rm,364.0,DTS 2024 state PDF (Table 1),as printed
+Kelantan,2017,avg_length_of_stay_nights,2.9416,DTS 2023 state XLSX (Table 1),exact
+Kelantan,2018,avg_length_of_stay_nights,2.8805,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2019,avg_length_of_stay_nights,3.01,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2020,avg_length_of_stay_nights,1.8586,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2021,avg_length_of_stay_nights,3.1385,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2022,avg_length_of_stay_nights,3.1584,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2023,avg_length_of_stay_nights,3.0735,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Kelantan,2024,avg_length_of_stay_nights,2.98,DTS 2024 state PDF (Table 1),as printed
+Kelantan,2025,domestic_visitors_thousand,12062.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Melaka,2017,total_receipts_rm_million,4969.2213,DTS 2023 state XLSX (Table 1),exact
+Melaka,2018,total_receipts_rm_million,5563.5362,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2019,total_receipts_rm_million,6369.8928,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2020,total_receipts_rm_million,2372.6251,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2021,total_receipts_rm_million,1004.1127,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2022,total_receipts_rm_million,4842.5936,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2023,total_receipts_rm_million,6438.4111,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2024,total_receipts_rm_million,7933.0,DTS 2024 state PDF (Table 1),as printed
+Melaka,2017,domestic_visitors_thousand,12624.9848,DTS 2023 state XLSX (Table 1),exact
+Melaka,2018,domestic_visitors_thousand,13122.6042,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2019,domestic_visitors_thousand,13978.9742,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2020,domestic_visitors_thousand,7274.547,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2021,domestic_visitors_thousand,3878.14,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2022,domestic_visitors_thousand,11757.166,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2023,domestic_visitors_thousand,15558.661,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2024,domestic_visitors_thousand,19128.0,DTS 2024 state PDF (Table 1),as printed
+Melaka,2017,domestic_trips_thousand,20063.7799,DTS 2023 state XLSX (Table 1),exact
+Melaka,2018,domestic_trips_thousand,21654.2933,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2019,domestic_trips_thousand,24042.6304,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2020,domestic_trips_thousand,9964.031,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2021,domestic_trips_thousand,4364.264,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2022,domestic_trips_thousand,16667.987,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2023,domestic_trips_thousand,20093.758,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2024,domestic_trips_thousand,24174.0,DTS 2024 state PDF (Table 1),as printed
+Melaka,2017,avg_receipts_per_capita_rm,393.6022,DTS 2023 state XLSX (Table 1),exact
+Melaka,2018,avg_receipts_per_capita_rm,423.9659,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2019,avg_receipts_per_capita_rm,455.6767,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2020,avg_receipts_per_capita_rm,326.1543,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2021,avg_receipts_per_capita_rm,258.9161,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2022,avg_receipts_per_capita_rm,411.8844,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2023,avg_receipts_per_capita_rm,413.8152,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2024,avg_receipts_per_capita_rm,415.0,DTS 2024 state PDF (Table 1),as printed
+Melaka,2017,avg_receipts_per_trip_rm,247.6712,DTS 2023 state XLSX (Table 1),exact
+Melaka,2018,avg_receipts_per_trip_rm,256.9253,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2019,avg_receipts_per_trip_rm,264.9416,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2020,avg_receipts_per_trip_rm,238.119,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2021,avg_receipts_per_trip_rm,230.0761,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2022,avg_receipts_per_trip_rm,290.5326,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2023,avg_receipts_per_trip_rm,320.4185,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2024,avg_receipts_per_trip_rm,328.0,DTS 2024 state PDF (Table 1),as printed
+Melaka,2017,avg_length_of_stay_nights,2.6928,DTS 2023 state XLSX (Table 1),exact
+Melaka,2018,avg_length_of_stay_nights,2.2328,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2019,avg_length_of_stay_nights,2.2897,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2020,avg_length_of_stay_nights,1.8018,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2021,avg_length_of_stay_nights,1.8643,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2022,avg_length_of_stay_nights,2.1384,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2023,avg_length_of_stay_nights,2.234,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Melaka,2024,avg_length_of_stay_nights,2.13,DTS 2024 state PDF (Table 1),as printed
+Melaka,2025,domestic_visitors_thousand,20832.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Negeri Sembilan,2017,total_receipts_rm_million,4382.3264,DTS 2023 state XLSX (Table 1),exact
+Negeri Sembilan,2018,total_receipts_rm_million,4830.0489,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2019,total_receipts_rm_million,5071.0304,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2020,total_receipts_rm_million,2232.9801,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2021,total_receipts_rm_million,1213.3851,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2022,total_receipts_rm_million,3651.3406,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2023,total_receipts_rm_million,4777.2813,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2024,total_receipts_rm_million,5869.0,DTS 2024 state PDF (Table 1),as printed
+Negeri Sembilan,2017,domestic_visitors_thousand,10822.3206,DTS 2023 state XLSX (Table 1),exact
+Negeri Sembilan,2018,domestic_visitors_thousand,12802.1189,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2019,domestic_visitors_thousand,13303.0418,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2020,domestic_visitors_thousand,7917.736,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2021,domestic_visitors_thousand,5485.17,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2022,domestic_visitors_thousand,11490.144,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2023,domestic_visitors_thousand,14959.47,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2024,domestic_visitors_thousand,17785.0,DTS 2024 state PDF (Table 1),as printed
+Negeri Sembilan,2017,domestic_trips_thousand,13832.278,DTS 2023 state XLSX (Table 1),exact
+Negeri Sembilan,2018,domestic_trips_thousand,17540.675,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2019,domestic_trips_thousand,19414.2057,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2020,domestic_trips_thousand,9567.142,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2021,domestic_trips_thousand,6554.829,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2022,domestic_trips_thousand,14278.615,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2023,domestic_trips_thousand,17800.523,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2024,domestic_trips_thousand,21817.0,DTS 2024 state PDF (Table 1),as printed
+Negeri Sembilan,2017,avg_receipts_per_capita_rm,404.9341,DTS 2023 state XLSX (Table 1),exact
+Negeri Sembilan,2018,avg_receipts_per_capita_rm,377.2851,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2019,avg_receipts_per_capita_rm,381.1933,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2020,avg_receipts_per_capita_rm,282.0225,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2021,avg_receipts_per_capita_rm,221.2119,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2022,avg_receipts_per_capita_rm,317.7802,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2023,avg_receipts_per_capita_rm,319.3483,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2024,avg_receipts_per_capita_rm,330.0,DTS 2024 state PDF (Table 1),as printed
+Negeri Sembilan,2017,avg_receipts_per_trip_rm,316.8189,DTS 2023 state XLSX (Table 1),exact
+Negeri Sembilan,2018,avg_receipts_per_trip_rm,275.3628,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2019,avg_receipts_per_trip_rm,261.2021,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2020,avg_receipts_per_trip_rm,233.401,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2021,avg_receipts_per_trip_rm,185.1132,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2022,avg_receipts_per_trip_rm,255.7209,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2023,avg_receipts_per_trip_rm,268.3787,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2024,avg_receipts_per_trip_rm,269.0,DTS 2024 state PDF (Table 1),as printed
+Negeri Sembilan,2017,avg_length_of_stay_nights,2.3062,DTS 2023 state XLSX (Table 1),exact
+Negeri Sembilan,2018,avg_length_of_stay_nights,2.4589,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2019,avg_length_of_stay_nights,2.4569,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2020,avg_length_of_stay_nights,1.8951,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2021,avg_length_of_stay_nights,1.7222,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2022,avg_length_of_stay_nights,2.4776,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2023,avg_length_of_stay_nights,2.4184,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Negeri Sembilan,2024,avg_length_of_stay_nights,2.25,DTS 2024 state PDF (Table 1),as printed
+Negeri Sembilan,2025,domestic_visitors_thousand,19357.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Pahang,2017,total_receipts_rm_million,6435.9351,DTS 2023 state XLSX (Table 1),exact
+Pahang,2018,total_receipts_rm_million,7404.8329,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2019,total_receipts_rm_million,7600.7463,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2020,total_receipts_rm_million,2748.0499,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2021,total_receipts_rm_million,914.3782,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2022,total_receipts_rm_million,5316.7891,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2023,total_receipts_rm_million,6733.3436,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2024,total_receipts_rm_million,8710.0,DTS 2024 state PDF (Table 1),as printed
+Pahang,2017,domestic_visitors_thousand,16491.3391,DTS 2023 state XLSX (Table 1),exact
+Pahang,2018,domestic_visitors_thousand,18111.3566,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2019,domestic_visitors_thousand,18497.5784,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2020,domestic_visitors_thousand,9905.002,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2021,domestic_visitors_thousand,3404.772,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2022,domestic_visitors_thousand,13188.959,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2023,domestic_visitors_thousand,16455.567,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2024,domestic_visitors_thousand,20174.0,DTS 2024 state PDF (Table 1),as printed
+Pahang,2017,domestic_trips_thousand,22316.2585,DTS 2023 state XLSX (Table 1),exact
+Pahang,2018,domestic_trips_thousand,21896.0911,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2019,domestic_trips_thousand,22744.9498,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2020,domestic_trips_thousand,10380.441,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2021,domestic_trips_thousand,3504.979,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2022,domestic_trips_thousand,14993.999,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2023,domestic_trips_thousand,17632.756,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2024,domestic_trips_thousand,22665.0,DTS 2024 state PDF (Table 1),as printed
+Pahang,2017,avg_receipts_per_capita_rm,390.2615,DTS 2023 state XLSX (Table 1),exact
+Pahang,2018,avg_receipts_per_capita_rm,408.8503,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2019,avg_receipts_per_capita_rm,410.9049,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2020,avg_receipts_per_capita_rm,277.4406,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2021,avg_receipts_per_capita_rm,268.5578,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2022,avg_receipts_per_capita_rm,403.1242,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2023,avg_receipts_per_capita_rm,409.1833,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2024,avg_receipts_per_capita_rm,432.0,DTS 2024 state PDF (Table 1),as printed
+Pahang,2017,avg_receipts_per_trip_rm,288.3967,DTS 2023 state XLSX (Table 1),exact
+Pahang,2018,avg_receipts_per_trip_rm,338.1806,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2019,avg_receipts_per_trip_rm,334.1729,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2020,avg_receipts_per_trip_rm,264.7334,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2021,avg_receipts_per_trip_rm,260.8798,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2022,avg_receipts_per_trip_rm,354.5945,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2023,avg_receipts_per_trip_rm,381.8656,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2024,avg_receipts_per_trip_rm,384.0,DTS 2024 state PDF (Table 1),as printed
+Pahang,2017,avg_length_of_stay_nights,1.6955,DTS 2023 state XLSX (Table 1),exact
+Pahang,2018,avg_length_of_stay_nights,2.4558,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2019,avg_length_of_stay_nights,2.4853,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2020,avg_length_of_stay_nights,1.9273,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2021,avg_length_of_stay_nights,1.9217,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2022,avg_length_of_stay_nights,2.1056,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2023,avg_length_of_stay_nights,2.1272,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pahang,2024,avg_length_of_stay_nights,2.17,DTS 2024 state PDF (Table 1),as printed
+Pahang,2025,domestic_visitors_thousand,23161.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Perak,2017,total_receipts_rm_million,6742.1046,DTS 2023 state XLSX (Table 1),exact
+Perak,2018,total_receipts_rm_million,6468.503,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2019,total_receipts_rm_million,7824.0551,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2020,total_receipts_rm_million,3317.0693,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2021,total_receipts_rm_million,1159.5327,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2022,total_receipts_rm_million,4541.331,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2023,total_receipts_rm_million,5641.0236,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2024,total_receipts_rm_million,7224.0,DTS 2024 state PDF (Table 1),as printed
+Perak,2017,domestic_visitors_thousand,20109.7101,DTS 2023 state XLSX (Table 1),exact
+Perak,2018,domestic_visitors_thousand,17553.1612,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2019,domestic_visitors_thousand,21070.7209,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2020,domestic_visitors_thousand,13173.306,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2021,domestic_visitors_thousand,4489.273,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2022,domestic_visitors_thousand,14566.727,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2023,domestic_visitors_thousand,17107.518,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2024,domestic_visitors_thousand,21776.0,DTS 2024 state PDF (Table 1),as printed
+Perak,2017,domestic_trips_thousand,25039.1774,DTS 2023 state XLSX (Table 1),exact
+Perak,2018,domestic_trips_thousand,23651.0536,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2019,domestic_trips_thousand,28471.2874,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2020,domestic_trips_thousand,14045.532,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2021,domestic_trips_thousand,4674.011,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2022,domestic_trips_thousand,17679.702,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2023,domestic_trips_thousand,18831.264,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2024,domestic_trips_thousand,23904.0,DTS 2024 state PDF (Table 1),as printed
+Perak,2017,avg_receipts_per_capita_rm,335.2661,DTS 2023 state XLSX (Table 1),exact
+Perak,2018,avg_receipts_per_capita_rm,368.5093,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2019,avg_receipts_per_capita_rm,371.3236,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2020,avg_receipts_per_capita_rm,251.8023,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2021,avg_receipts_per_capita_rm,258.2896,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2022,avg_receipts_per_capita_rm,311.7606,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2023,avg_receipts_per_capita_rm,329.7395,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2024,avg_receipts_per_capita_rm,332.0,DTS 2024 state PDF (Table 1),as printed
+Perak,2017,avg_receipts_per_trip_rm,269.2622,DTS 2023 state XLSX (Table 1),exact
+Perak,2018,avg_receipts_per_trip_rm,273.4975,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2019,avg_receipts_per_trip_rm,274.8051,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2020,avg_receipts_per_trip_rm,236.1654,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2021,avg_receipts_per_trip_rm,248.0809,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2022,avg_receipts_per_trip_rm,256.8669,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2023,avg_receipts_per_trip_rm,299.5563,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2024,avg_receipts_per_trip_rm,302.0,DTS 2024 state PDF (Table 1),as printed
+Perak,2017,avg_length_of_stay_nights,2.3336,DTS 2023 state XLSX (Table 1),exact
+Perak,2018,avg_length_of_stay_nights,1.85,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2019,avg_length_of_stay_nights,2.2088,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2020,avg_length_of_stay_nights,1.8485,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2021,avg_length_of_stay_nights,2.2935,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2022,avg_length_of_stay_nights,2.4285,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2023,avg_length_of_stay_nights,2.3458,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perak,2024,avg_length_of_stay_nights,2.35,DTS 2024 state PDF (Table 1),as printed
+Perak,2025,domestic_visitors_thousand,23642.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Perlis,2017,total_receipts_rm_million,474.456,DTS 2023 state XLSX (Table 1),exact
+Perlis,2018,total_receipts_rm_million,616.7499,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2019,total_receipts_rm_million,578.8055,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2020,total_receipts_rm_million,224.0663,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2021,total_receipts_rm_million,78.0133,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2022,total_receipts_rm_million,455.6188,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2023,total_receipts_rm_million,583.8701,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2024,total_receipts_rm_million,1003.0,DTS 2024 state PDF (Table 1),as printed
+Perlis,2017,domestic_visitors_thousand,1413.6105,DTS 2023 state XLSX (Table 1),exact
+Perlis,2018,domestic_visitors_thousand,2155.5079,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2019,domestic_visitors_thousand,2087.3724,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2020,domestic_visitors_thousand,1193.108,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2021,domestic_visitors_thousand,406.796,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2022,domestic_visitors_thousand,1669.175,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2023,domestic_visitors_thousand,1950.771,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2024,domestic_visitors_thousand,3225.0,DTS 2024 state PDF (Table 1),as printed
+Perlis,2017,domestic_trips_thousand,1755.7972,DTS 2023 state XLSX (Table 1),exact
+Perlis,2018,domestic_trips_thousand,2816.3983,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2019,domestic_trips_thousand,2695.001,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2020,domestic_trips_thousand,1246.963,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2021,domestic_trips_thousand,426.818,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2022,domestic_trips_thousand,1799.569,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2023,domestic_trips_thousand,2139.229,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2024,domestic_trips_thousand,3660.0,DTS 2024 state PDF (Table 1),as printed
+Perlis,2017,avg_receipts_per_capita_rm,335.6342,DTS 2023 state XLSX (Table 1),exact
+Perlis,2018,avg_receipts_per_capita_rm,286.1274,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2019,avg_receipts_per_capita_rm,277.2891,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2020,avg_receipts_per_capita_rm,187.8005,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2021,avg_receipts_per_capita_rm,191.775,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2022,avg_receipts_per_capita_rm,272.9605,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2023,avg_receipts_per_capita_rm,299.3022,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2024,avg_receipts_per_capita_rm,311.0,DTS 2024 state PDF (Table 1),as printed
+Perlis,2017,avg_receipts_per_trip_rm,270.2226,DTS 2023 state XLSX (Table 1),exact
+Perlis,2018,avg_receipts_per_trip_rm,218.9853,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2019,avg_receipts_per_trip_rm,214.7701,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2020,avg_receipts_per_trip_rm,179.6896,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2021,avg_receipts_per_trip_rm,182.7788,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2022,avg_receipts_per_trip_rm,253.1822,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2023,avg_receipts_per_trip_rm,272.9348,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2024,avg_receipts_per_trip_rm,274.0,DTS 2024 state PDF (Table 1),as printed
+Perlis,2017,avg_length_of_stay_nights,2.0033,DTS 2023 state XLSX (Table 1),exact
+Perlis,2018,avg_length_of_stay_nights,2.3202,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2019,avg_length_of_stay_nights,2.5534,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2020,avg_length_of_stay_nights,2.4462,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2021,avg_length_of_stay_nights,2.2091,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2022,avg_length_of_stay_nights,2.3467,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2023,avg_length_of_stay_nights,2.2064,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Perlis,2024,avg_length_of_stay_nights,2.49,DTS 2024 state PDF (Table 1),as printed
+Perlis,2025,domestic_visitors_thousand,3756.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Pulau Pinang,2017,total_receipts_rm_million,4864.1566,DTS 2023 state XLSX (Table 1),exact
+Pulau Pinang,2018,total_receipts_rm_million,6164.5745,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2019,total_receipts_rm_million,6653.656,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2020,total_receipts_rm_million,2427.1589,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2021,total_receipts_rm_million,1158.8101,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2022,total_receipts_rm_million,3648.3993,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2023,total_receipts_rm_million,5814.7354,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2024,total_receipts_rm_million,7424.0,DTS 2024 state PDF (Table 1),as printed
+Pulau Pinang,2017,domestic_visitors_thousand,12642.6433,DTS 2023 state XLSX (Table 1),exact
+Pulau Pinang,2018,domestic_visitors_thousand,14450.4912,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2019,domestic_visitors_thousand,15410.6252,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2020,domestic_visitors_thousand,8929.515,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2021,domestic_visitors_thousand,5060.864,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2022,domestic_visitors_thousand,10002.735,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2023,domestic_visitors_thousand,13127.587,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2024,domestic_visitors_thousand,16605.0,DTS 2024 state PDF (Table 1),as printed
+Pulau Pinang,2017,domestic_trips_thousand,15362.4143,DTS 2023 state XLSX (Table 1),exact
+Pulau Pinang,2018,domestic_trips_thousand,19369.6396,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2019,domestic_trips_thousand,21073.6211,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2020,domestic_trips_thousand,9231.124,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2021,domestic_trips_thousand,5160.445,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2022,domestic_trips_thousand,11705.595,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2023,domestic_trips_thousand,15350.976,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2024,domestic_trips_thousand,19160.0,DTS 2024 state PDF (Table 1),as printed
+Pulau Pinang,2017,avg_receipts_per_capita_rm,384.7421,DTS 2023 state XLSX (Table 1),exact
+Pulau Pinang,2018,avg_receipts_per_capita_rm,426.5997,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2019,avg_receipts_per_capita_rm,431.7577,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2020,avg_receipts_per_capita_rm,271.8131,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2021,avg_receipts_per_capita_rm,228.9748,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2022,avg_receipts_per_capita_rm,364.7402,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2023,avg_receipts_per_capita_rm,442.9401,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2024,avg_receipts_per_capita_rm,447.0,DTS 2024 state PDF (Table 1),as printed
+Pulau Pinang,2017,avg_receipts_per_trip_rm,316.6271,DTS 2023 state XLSX (Table 1),exact
+Pulau Pinang,2018,avg_receipts_per_trip_rm,318.2596,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2019,avg_receipts_per_trip_rm,315.7339,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2020,avg_receipts_per_trip_rm,262.9321,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2021,avg_receipts_per_trip_rm,224.5562,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2022,avg_receipts_per_trip_rm,311.68,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2023,avg_receipts_per_trip_rm,378.786,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2024,avg_receipts_per_trip_rm,387.0,DTS 2024 state PDF (Table 1),as printed
+Pulau Pinang,2017,avg_length_of_stay_nights,2.2282,DTS 2023 state XLSX (Table 1),exact
+Pulau Pinang,2018,avg_length_of_stay_nights,2.5095,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2019,avg_length_of_stay_nights,2.5045,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2020,avg_length_of_stay_nights,2.0341,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2021,avg_length_of_stay_nights,2.1404,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2022,avg_length_of_stay_nights,2.5906,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2023,avg_length_of_stay_nights,2.4003,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Pulau Pinang,2024,avg_length_of_stay_nights,2.58,DTS 2024 state PDF (Table 1),as printed
+Pulau Pinang,2025,domestic_visitors_thousand,17718.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Sabah,2017,total_receipts_rm_million,6851.6409,DTS 2023 state XLSX (Table 1),exact
+Sabah,2018,total_receipts_rm_million,7507.5734,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2019,total_receipts_rm_million,8080.6667,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2020,total_receipts_rm_million,2676.7717,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2021,total_receipts_rm_million,1052.0221,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2022,total_receipts_rm_million,4825.8696,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2023,total_receipts_rm_million,6712.5146,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2024,total_receipts_rm_million,8634.0,DTS 2024 state PDF (Table 1),as printed
+Sabah,2017,domestic_visitors_thousand,17791.7126,DTS 2023 state XLSX (Table 1),exact
+Sabah,2018,domestic_visitors_thousand,20359.8811,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2019,domestic_visitors_thousand,22035.0675,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2020,domestic_visitors_thousand,10336.897,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2021,domestic_visitors_thousand,3815.016,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2022,domestic_visitors_thousand,12589.005,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2023,domestic_visitors_thousand,16080.074,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2024,domestic_visitors_thousand,20592.0,DTS 2024 state PDF (Table 1),as printed
+Sabah,2017,domestic_trips_thousand,22449.8315,DTS 2023 state XLSX (Table 1),exact
+Sabah,2018,domestic_trips_thousand,28298.9496,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2019,domestic_trips_thousand,31437.73,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2020,domestic_trips_thousand,10861.33,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2021,domestic_trips_thousand,4006.255,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2022,domestic_trips_thousand,17254.974,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2023,domestic_trips_thousand,19900.312,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2024,domestic_trips_thousand,24106.0,DTS 2024 state PDF (Table 1),as printed
+Sabah,2017,avg_receipts_per_capita_rm,385.1029,DTS 2023 state XLSX (Table 1),exact
+Sabah,2018,avg_receipts_per_capita_rm,368.7435,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2019,avg_receipts_per_capita_rm,366.7185,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2020,avg_receipts_per_capita_rm,258.9531,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2021,avg_receipts_per_capita_rm,275.7582,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2022,avg_receipts_per_capita_rm,383.34,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2023,avg_receipts_per_capita_rm,417.443,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2024,avg_receipts_per_capita_rm,419.0,DTS 2024 state PDF (Table 1),as printed
+Sabah,2017,avg_receipts_per_trip_rm,305.1979,DTS 2023 state XLSX (Table 1),exact
+Sabah,2018,avg_receipts_per_trip_rm,265.2951,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2019,avg_receipts_per_trip_rm,257.0372,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2020,avg_receipts_per_trip_rm,246.4497,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2021,avg_receipts_per_trip_rm,262.5949,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2022,avg_receipts_per_trip_rm,279.6799,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2023,avg_receipts_per_trip_rm,337.307,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2024,avg_receipts_per_trip_rm,358.0,DTS 2024 state PDF (Table 1),as printed
+Sabah,2017,avg_length_of_stay_nights,3.1218,DTS 2023 state XLSX (Table 1),exact
+Sabah,2018,avg_length_of_stay_nights,2.6775,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2019,avg_length_of_stay_nights,2.7887,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2020,avg_length_of_stay_nights,1.9621,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2021,avg_length_of_stay_nights,2.3129,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2022,avg_length_of_stay_nights,3.0576,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2023,avg_length_of_stay_nights,2.6714,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sabah,2024,avg_length_of_stay_nights,3.01,DTS 2024 state PDF (Table 1),as printed
+Sabah,2025,domestic_visitors_thousand,22361.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Sarawak,2017,total_receipts_rm_million,7346.9278,DTS 2023 state XLSX (Table 1),exact
+Sarawak,2018,total_receipts_rm_million,8144.8083,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2019,total_receipts_rm_million,8670.7433,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2020,total_receipts_rm_million,3384.6706,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2021,total_receipts_rm_million,1935.2587,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2022,total_receipts_rm_million,5430.7723,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2023,total_receipts_rm_million,6942.6732,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2024,total_receipts_rm_million,7957.0,DTS 2024 state PDF (Table 1),as printed
+Sarawak,2017,domestic_visitors_thousand,17670.3474,DTS 2023 state XLSX (Table 1),exact
+Sarawak,2018,domestic_visitors_thousand,19380.2302,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2019,domestic_visitors_thousand,19793.3757,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2020,domestic_visitors_thousand,9393.255,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2021,domestic_visitors_thousand,6510.9,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2022,domestic_visitors_thousand,15464.621,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2023,domestic_visitors_thousand,17901.19,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2024,domestic_visitors_thousand,19626.0,DTS 2024 state PDF (Table 1),as printed
+Sarawak,2017,domestic_trips_thousand,24153.7165,DTS 2023 state XLSX (Table 1),exact
+Sarawak,2018,domestic_trips_thousand,23616.9149,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2019,domestic_trips_thousand,24880.0074,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2020,domestic_trips_thousand,11077.444,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2021,domestic_trips_thousand,7137.26,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2022,domestic_trips_thousand,19290.587,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2023,domestic_trips_thousand,21076.631,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2024,domestic_trips_thousand,23362.0,DTS 2024 state PDF (Table 1),as printed
+Sarawak,2017,avg_receipts_per_capita_rm,415.7772,DTS 2023 state XLSX (Table 1),exact
+Sarawak,2018,avg_receipts_per_capita_rm,420.2638,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2019,avg_receipts_per_capita_rm,438.0629,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2020,avg_receipts_per_capita_rm,360.3299,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2021,avg_receipts_per_capita_rm,297.2337,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2022,avg_receipts_per_capita_rm,351.174,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2023,avg_receipts_per_capita_rm,387.8331,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2024,avg_receipts_per_capita_rm,405.0,DTS 2024 state PDF (Table 1),as printed
+Sarawak,2017,avg_receipts_per_trip_rm,304.1738,DTS 2023 state XLSX (Table 1),exact
+Sarawak,2018,avg_receipts_per_trip_rm,344.8718,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2019,avg_receipts_per_trip_rm,348.5024,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2020,avg_receipts_per_trip_rm,305.5462,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2021,avg_receipts_per_trip_rm,271.1487,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2022,avg_receipts_per_trip_rm,281.5245,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2023,avg_receipts_per_trip_rm,329.4015,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2024,avg_receipts_per_trip_rm,341.0,DTS 2024 state PDF (Table 1),as printed
+Sarawak,2017,avg_length_of_stay_nights,3.209,DTS 2023 state XLSX (Table 1),exact
+Sarawak,2018,avg_length_of_stay_nights,3.3949,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2019,avg_length_of_stay_nights,3.4269,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2020,avg_length_of_stay_nights,2.5518,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2021,avg_length_of_stay_nights,3.0323,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2022,avg_length_of_stay_nights,3.5164,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2023,avg_length_of_stay_nights,3.4815,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Sarawak,2024,avg_length_of_stay_nights,3.09,DTS 2024 state PDF (Table 1),as printed
+Sarawak,2025,domestic_visitors_thousand,22722.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Selangor,2017,total_receipts_rm_million,11763.6963,DTS 2023 state XLSX (Table 1),exact
+Selangor,2018,total_receipts_rm_million,13189.3369,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2019,total_receipts_rm_million,15544.4085,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2020,total_receipts_rm_million,7051.4635,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2021,total_receipts_rm_million,3158.5634,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2022,total_receipts_rm_million,8734.8081,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2023,total_receipts_rm_million,11102.7132,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2024,total_receipts_rm_million,14226.0,DTS 2024 state PDF (Table 1),as printed
+Selangor,2017,domestic_visitors_thousand,25491.161,DTS 2023 state XLSX (Table 1),exact
+Selangor,2018,domestic_visitors_thousand,30179.0472,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2019,domestic_visitors_thousand,33588.527,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2020,domestic_visitors_thousand,19714.734,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2021,domestic_visitors_thousand,10211.58,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2022,domestic_visitors_thousand,21989.558,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2023,domestic_visitors_thousand,27579.478,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2024,domestic_visitors_thousand,34461.0,DTS 2024 state PDF (Table 1),as printed
+Selangor,2017,domestic_trips_thousand,35473.0001,DTS 2023 state XLSX (Table 1),exact
+Selangor,2018,domestic_trips_thousand,41388.1918,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2019,domestic_trips_thousand,45766.3687,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2020,domestic_trips_thousand,21897.63,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2021,domestic_trips_thousand,11319.209,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2022,domestic_trips_thousand,25987.93,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2023,domestic_trips_thousand,28949.304,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2024,domestic_trips_thousand,37023.0,DTS 2024 state PDF (Table 1),as printed
+Selangor,2017,avg_receipts_per_capita_rm,461.4814,DTS 2023 state XLSX (Table 1),exact
+Selangor,2018,avg_receipts_per_capita_rm,437.0362,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2019,avg_receipts_per_capita_rm,462.7892,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2020,avg_receipts_per_capita_rm,357.6748,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2021,avg_receipts_per_capita_rm,309.3119,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2022,avg_receipts_per_capita_rm,397.2253,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2023,avg_receipts_per_capita_rm,402.5715,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2024,avg_receipts_per_capita_rm,413.0,DTS 2024 state PDF (Table 1),as printed
+Selangor,2017,avg_receipts_per_trip_rm,331.6239,DTS 2023 state XLSX (Table 1),exact
+Selangor,2018,avg_receipts_per_trip_rm,318.6739,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2019,avg_receipts_per_trip_rm,339.647,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2020,avg_receipts_per_trip_rm,322.0195,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2021,avg_receipts_per_trip_rm,279.0445,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2022,avg_receipts_per_trip_rm,336.1102,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2023,avg_receipts_per_trip_rm,383.5226,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2024,avg_receipts_per_trip_rm,384.0,DTS 2024 state PDF (Table 1),as printed
+Selangor,2017,avg_length_of_stay_nights,2.0013,DTS 2023 state XLSX (Table 1),exact
+Selangor,2018,avg_length_of_stay_nights,1.8721,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2019,avg_length_of_stay_nights,2.2351,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2020,avg_length_of_stay_nights,1.6407,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2021,avg_length_of_stay_nights,1.8316,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2022,avg_length_of_stay_nights,2.3225,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2023,avg_length_of_stay_nights,2.2421,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Selangor,2024,avg_length_of_stay_nights,2.24,DTS 2024 state PDF (Table 1),as printed
+Selangor,2025,domestic_visitors_thousand,36376.0,DTS 2025 Malaysia PDF (Table 9),as printed
+Terengganu,2017,total_receipts_rm_million,4763.2601,DTS 2023 state XLSX (Table 1),exact
+Terengganu,2018,total_receipts_rm_million,5585.3393,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2019,total_receipts_rm_million,5990.0125,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2020,total_receipts_rm_million,2254.5058,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2021,total_receipts_rm_million,984.1115,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2022,total_receipts_rm_million,3363.2989,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2023,total_receipts_rm_million,4192.3173,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2024,total_receipts_rm_million,5170.0,DTS 2024 state PDF (Table 1),as printed
+Terengganu,2017,domestic_visitors_thousand,12979.3764,DTS 2023 state XLSX (Table 1),exact
+Terengganu,2018,domestic_visitors_thousand,13742.3664,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2019,domestic_visitors_thousand,14158.2836,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2020,domestic_visitors_thousand,7419.729,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2021,domestic_visitors_thousand,3719.052,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2022,domestic_visitors_thousand,10233.282,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2023,domestic_visitors_thousand,11760.516,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2024,domestic_visitors_thousand,14461.0,DTS 2024 state PDF (Table 1),as printed
+Terengganu,2017,domestic_trips_thousand,22517.5295,DTS 2023 state XLSX (Table 1),exact
+Terengganu,2018,domestic_trips_thousand,22651.4081,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2019,domestic_trips_thousand,24902.0225,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2020,domestic_trips_thousand,10084.391,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2021,domestic_trips_thousand,4128.968,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2022,domestic_trips_thousand,12791.324,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2023,domestic_trips_thousand,13868.81,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2024,domestic_trips_thousand,16499.0,DTS 2024 state PDF (Table 1),as printed
+Terengganu,2017,avg_receipts_per_capita_rm,366.9868,DTS 2023 state XLSX (Table 1),exact
+Terengganu,2018,avg_receipts_per_capita_rm,406.4321,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2019,avg_receipts_per_capita_rm,423.0748,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2020,avg_receipts_per_capita_rm,303.8529,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2021,avg_receipts_per_capita_rm,264.6135,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2022,avg_receipts_per_capita_rm,328.6628,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2023,avg_receipts_per_capita_rm,356.4739,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2024,avg_receipts_per_capita_rm,358.0,DTS 2024 state PDF (Table 1),as printed
+Terengganu,2017,avg_receipts_per_trip_rm,211.5356,DTS 2023 state XLSX (Table 1),exact
+Terengganu,2018,avg_receipts_per_trip_rm,246.578,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2019,avg_receipts_per_trip_rm,240.5432,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2020,avg_receipts_per_trip_rm,223.5639,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2021,avg_receipts_per_trip_rm,238.3432,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2022,avg_receipts_per_trip_rm,262.9359,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2023,avg_receipts_per_trip_rm,302.2838,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2024,avg_receipts_per_trip_rm,313.0,DTS 2024 state PDF (Table 1),as printed
+Terengganu,2017,avg_length_of_stay_nights,2.4498,DTS 2023 state XLSX (Table 1),exact
+Terengganu,2018,avg_length_of_stay_nights,2.5981,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2019,avg_length_of_stay_nights,2.5784,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2020,avg_length_of_stay_nights,2.06,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2021,avg_length_of_stay_nights,2.1997,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2022,avg_length_of_stay_nights,2.6854,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2023,avg_length_of_stay_nights,2.5941,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+Terengganu,2024,avg_length_of_stay_nights,2.5,DTS 2024 state PDF (Table 1),as printed
+Terengganu,2025,domestic_visitors_thousand,15462.0,DTS 2025 Malaysia PDF (Table 9),as printed
+W.P. Kuala Lumpur,2017,total_receipts_rm_million,9394.8685,DTS 2023 state XLSX (Table 1),exact
+W.P. Kuala Lumpur,2018,total_receipts_rm_million,10234.7046,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2019,total_receipts_rm_million,12141.2337,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2020,total_receipts_rm_million,5273.1884,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2021,total_receipts_rm_million,3083.5171,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2022,total_receipts_rm_million,7732.7958,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2023,total_receipts_rm_million,10995.3241,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2024,total_receipts_rm_million,14078.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Kuala Lumpur,2017,domestic_visitors_thousand,19049.4425,DTS 2023 state XLSX (Table 1),exact
+W.P. Kuala Lumpur,2018,domestic_visitors_thousand,19165.4972,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2019,domestic_visitors_thousand,22633.3677,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2020,domestic_visitors_thousand,12434.908,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2021,domestic_visitors_thousand,9116.005,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2022,domestic_visitors_thousand,16912.534,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2023,domestic_visitors_thousand,22232.643,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2024,domestic_visitors_thousand,26983.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Kuala Lumpur,2017,domestic_trips_thousand,20905.144,DTS 2023 state XLSX (Table 1),exact
+W.P. Kuala Lumpur,2018,domestic_trips_thousand,24682.2622,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2019,domestic_trips_thousand,28991.2076,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2020,domestic_trips_thousand,13223.382,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2021,domestic_trips_thousand,10823.812,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2022,domestic_trips_thousand,19877.593,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2023,domestic_trips_thousand,24012.311,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2024,domestic_trips_thousand,30640.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Kuala Lumpur,2017,avg_receipts_per_capita_rm,493.1834,DTS 2023 state XLSX (Table 1),exact
+W.P. Kuala Lumpur,2018,avg_receipts_per_capita_rm,534.0172,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2019,avg_receipts_per_capita_rm,536.4307,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2020,avg_receipts_per_capita_rm,424.0633,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2021,avg_receipts_per_capita_rm,338.2531,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2022,avg_receipts_per_capita_rm,457.2228,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2023,avg_receipts_per_capita_rm,494.5577,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2024,avg_receipts_per_capita_rm,522.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Kuala Lumpur,2017,avg_receipts_per_trip_rm,449.4046,DTS 2023 state XLSX (Table 1),exact
+W.P. Kuala Lumpur,2018,avg_receipts_per_trip_rm,414.6583,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2019,avg_receipts_per_trip_rm,418.7902,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2020,avg_receipts_per_trip_rm,398.7776,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2021,avg_receipts_per_trip_rm,284.8827,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2022,avg_receipts_per_trip_rm,389.0207,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2023,avg_receipts_per_trip_rm,457.9036,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2024,avg_receipts_per_trip_rm,459.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Kuala Lumpur,2017,avg_length_of_stay_nights,2.7503,DTS 2023 state XLSX (Table 1),exact
+W.P. Kuala Lumpur,2018,avg_length_of_stay_nights,2.5745,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2019,avg_length_of_stay_nights,2.388,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2020,avg_length_of_stay_nights,1.8311,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2021,avg_length_of_stay_nights,2.1822,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2022,avg_length_of_stay_nights,3.0866,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2023,avg_length_of_stay_nights,2.6963,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Kuala Lumpur,2024,avg_length_of_stay_nights,2.23,DTS 2024 state PDF (Table 1),as printed
+W.P. Kuala Lumpur,2025,domestic_visitors_thousand,35060.0,DTS 2025 Malaysia PDF (Table 9),as printed
+W.P. Labuan,2017,total_receipts_rm_million,271.8673,DTS 2023 state XLSX (Table 1),exact
+W.P. Labuan,2018,total_receipts_rm_million,391.1236,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2019,total_receipts_rm_million,392.0418,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2020,total_receipts_rm_million,60.4403,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2021,total_receipts_rm_million,29.3567,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2022,total_receipts_rm_million,136.2936,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2023,total_receipts_rm_million,194.0642,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2024,total_receipts_rm_million,265.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Labuan,2017,domestic_visitors_thousand,381.0048,DTS 2023 state XLSX (Table 1),exact
+W.P. Labuan,2018,domestic_visitors_thousand,544.932,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2019,domestic_visitors_thousand,523.8703,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2020,domestic_visitors_thousand,107.53,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2021,domestic_visitors_thousand,53.899,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2022,domestic_visitors_thousand,243.695,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2023,domestic_visitors_thousand,331.36,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2024,domestic_visitors_thousand,450.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Labuan,2017,domestic_trips_thousand,705.7124,DTS 2023 state XLSX (Table 1),exact
+W.P. Labuan,2018,domestic_trips_thousand,725.1605,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2019,domestic_trips_thousand,774.3229,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2020,domestic_trips_thousand,109.343,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2021,domestic_trips_thousand,53.9,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2022,domestic_trips_thousand,263.15,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2023,domestic_trips_thousand,372.829,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2024,domestic_trips_thousand,482.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Labuan,2017,avg_receipts_per_capita_rm,713.5535,DTS 2023 state XLSX (Table 1),exact
+W.P. Labuan,2018,avg_receipts_per_capita_rm,717.7475,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2019,avg_receipts_per_capita_rm,748.3567,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2020,avg_receipts_per_capita_rm,562.0788,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2021,avg_receipts_per_capita_rm,544.6614,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2022,avg_receipts_per_capita_rm,559.2792,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2023,avg_receipts_per_capita_rm,585.6596,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2024,avg_receipts_per_capita_rm,588.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Labuan,2017,avg_receipts_per_trip_rm,385.2381,DTS 2023 state XLSX (Table 1),exact
+W.P. Labuan,2018,avg_receipts_per_trip_rm,539.3615,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2019,avg_receipts_per_trip_rm,506.3027,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2020,avg_receipts_per_trip_rm,552.7591,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2021,avg_receipts_per_trip_rm,544.6513,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2022,avg_receipts_per_trip_rm,517.931,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2023,avg_receipts_per_trip_rm,520.5179,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2024,avg_receipts_per_trip_rm,549.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Labuan,2017,avg_length_of_stay_nights,2.4621,DTS 2023 state XLSX (Table 1),exact
+W.P. Labuan,2018,avg_length_of_stay_nights,3.2807,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2019,avg_length_of_stay_nights,3.0461,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2020,avg_length_of_stay_nights,1.5728,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2021,avg_length_of_stay_nights,2.523,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2022,avg_length_of_stay_nights,3.6702,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2023,avg_length_of_stay_nights,2.8863,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Labuan,2024,avg_length_of_stay_nights,2.84,DTS 2024 state PDF (Table 1),as printed
+W.P. Labuan,2025,domestic_visitors_thousand,604.0,DTS 2025 Malaysia PDF (Table 9),as printed
+W.P. Putrajaya,2017,total_receipts_rm_million,700.6895,DTS 2023 state XLSX (Table 1),exact
+W.P. Putrajaya,2018,total_receipts_rm_million,1007.943,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2019,total_receipts_rm_million,848.6142,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2020,total_receipts_rm_million,141.9098,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2021,total_receipts_rm_million,67.8552,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2022,total_receipts_rm_million,455.9907,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2023,total_receipts_rm_million,669.729,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2024,total_receipts_rm_million,937.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Putrajaya,2017,domestic_visitors_thousand,1871.8577,DTS 2023 state XLSX (Table 1),exact
+W.P. Putrajaya,2018,domestic_visitors_thousand,1891.907,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2019,domestic_visitors_thousand,1948.8892,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2020,domestic_visitors_thousand,451.113,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2021,domestic_visitors_thousand,223.006,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2022,domestic_visitors_thousand,1305.808,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2023,domestic_visitors_thousand,1900.379,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2024,domestic_visitors_thousand,2557.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Putrajaya,2017,domestic_trips_thousand,2732.8065,DTS 2023 state XLSX (Table 1),exact
+W.P. Putrajaya,2018,domestic_trips_thousand,2592.0394,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2019,domestic_trips_thousand,2637.4891,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2020,domestic_trips_thousand,455.903,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2021,domestic_trips_thousand,234.199,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2022,domestic_trips_thousand,1551.058,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2023,domestic_trips_thousand,1964.587,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2024,domestic_trips_thousand,2711.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Putrajaya,2017,avg_receipts_per_capita_rm,374.3284,DTS 2023 state XLSX (Table 1),exact
+W.P. Putrajaya,2018,avg_receipts_per_capita_rm,532.7656,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2019,avg_receipts_per_capita_rm,435.4348,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2020,avg_receipts_per_capita_rm,314.577,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2021,avg_receipts_per_capita_rm,304.2753,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2022,avg_receipts_per_capita_rm,349.202,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2023,avg_receipts_per_capita_rm,352.4187,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2024,avg_receipts_per_capita_rm,366.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Putrajaya,2017,avg_receipts_per_trip_rm,256.3992,DTS 2023 state XLSX (Table 1),exact
+W.P. Putrajaya,2018,avg_receipts_per_trip_rm,388.861,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2019,avg_receipts_per_trip_rm,321.7508,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2020,avg_receipts_per_trip_rm,311.2718,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2021,avg_receipts_per_trip_rm,289.7332,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2022,avg_receipts_per_trip_rm,293.9869,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2023,avg_receipts_per_trip_rm,340.9007,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2024,avg_receipts_per_trip_rm,346.0,DTS 2024 state PDF (Table 1),as printed
+W.P. Putrajaya,2017,avg_length_of_stay_nights,2.2694,DTS 2023 state XLSX (Table 1),exact
+W.P. Putrajaya,2018,avg_length_of_stay_nights,2.6831,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2019,avg_length_of_stay_nights,3.0412,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2020,avg_length_of_stay_nights,1.9757,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2021,avg_length_of_stay_nights,2.2292,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2022,avg_length_of_stay_nights,2.682,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2023,avg_length_of_stay_nights,2.0797,DTS 2023 state XLSX (Table 1) [agrees with DTS 2024 PDF],exact
+W.P. Putrajaya,2024,avg_length_of_stay_nights,2.14,DTS 2024 state PDF (Table 1),as printed
+W.P. Putrajaya,2025,domestic_visitors_thousand,3146.0,DTS 2025 Malaysia PDF (Table 9),as printed

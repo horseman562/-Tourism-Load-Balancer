@@ -1,0 +1,781 @@
+state,area,year,category,stations
+Johor,coastal,2020,excellent,12.0
+Johor,coastal,2020,good,7.0
+Johor,coastal,2020,moderate,7.0
+Johor,coastal,2020,poor,3.0
+Johor,coastal,2021,excellent,17.0
+Johor,coastal,2021,good,5.0
+Johor,coastal,2021,moderate,7.0
+Johor,coastal,2021,poor,
+Johor,coastal,2022,excellent,14.0
+Johor,coastal,2022,good,8.0
+Johor,coastal,2022,moderate,7.0
+Johor,coastal,2022,poor,
+Johor,coastal,2023,excellent,19.0
+Johor,coastal,2023,good,3.0
+Johor,coastal,2023,moderate,7.0
+Johor,coastal,2023,poor,
+Johor,coastal,2024,excellent,20.0
+Johor,coastal,2024,good,3.0
+Johor,coastal,2024,moderate,6.0
+Johor,coastal,2024,poor,
+Kedah,coastal,2020,excellent,6.0
+Kedah,coastal,2020,good,2.0
+Kedah,coastal,2020,moderate,1.0
+Kedah,coastal,2020,poor,
+Kedah,coastal,2021,excellent,6.0
+Kedah,coastal,2021,good,3.0
+Kedah,coastal,2021,moderate,
+Kedah,coastal,2021,poor,
+Kedah,coastal,2022,excellent,6.0
+Kedah,coastal,2022,good,3.0
+Kedah,coastal,2022,moderate,
+Kedah,coastal,2022,poor,
+Kedah,coastal,2023,excellent,9.0
+Kedah,coastal,2023,good,
+Kedah,coastal,2023,moderate,
+Kedah,coastal,2023,poor,
+Kedah,coastal,2024,excellent,9.0
+Kedah,coastal,2024,good,
+Kedah,coastal,2024,moderate,
+Kedah,coastal,2024,poor,
+Kelantan,coastal,2020,excellent,1.0
+Kelantan,coastal,2020,good,4.0
+Kelantan,coastal,2020,moderate,1.0
+Kelantan,coastal,2020,poor,
+Kelantan,coastal,2021,excellent,6.0
+Kelantan,coastal,2021,good,
+Kelantan,coastal,2021,moderate,
+Kelantan,coastal,2021,poor,
+Kelantan,coastal,2022,excellent,6.0
+Kelantan,coastal,2022,good,
+Kelantan,coastal,2022,moderate,
+Kelantan,coastal,2022,poor,
+Kelantan,coastal,2023,excellent,6.0
+Kelantan,coastal,2023,good,
+Kelantan,coastal,2023,moderate,
+Kelantan,coastal,2023,poor,
+Kelantan,coastal,2024,excellent,6.0
+Kelantan,coastal,2024,good,
+Kelantan,coastal,2024,moderate,
+Kelantan,coastal,2024,poor,
+Melaka,coastal,2020,excellent,3.0
+Melaka,coastal,2020,good,2.0
+Melaka,coastal,2020,moderate,4.0
+Melaka,coastal,2020,poor,
+Melaka,coastal,2021,excellent,
+Melaka,coastal,2021,good,5.0
+Melaka,coastal,2021,moderate,4.0
+Melaka,coastal,2021,poor,
+Melaka,coastal,2022,excellent,1.0
+Melaka,coastal,2022,good,6.0
+Melaka,coastal,2022,moderate,2.0
+Melaka,coastal,2022,poor,
+Melaka,coastal,2023,excellent,4.0
+Melaka,coastal,2023,good,3.0
+Melaka,coastal,2023,moderate,2.0
+Melaka,coastal,2023,poor,
+Melaka,coastal,2024,excellent,4.0
+Melaka,coastal,2024,good,3.0
+Melaka,coastal,2024,moderate,2.0
+Melaka,coastal,2024,poor,
+Negeri Sembilan,coastal,2020,excellent,5.0
+Negeri Sembilan,coastal,2020,good,7.0
+Negeri Sembilan,coastal,2020,moderate,2.0
+Negeri Sembilan,coastal,2020,poor,
+Negeri Sembilan,coastal,2021,excellent,9.0
+Negeri Sembilan,coastal,2021,good,3.0
+Negeri Sembilan,coastal,2021,moderate,2.0
+Negeri Sembilan,coastal,2021,poor,
+Negeri Sembilan,coastal,2022,excellent,11.0
+Negeri Sembilan,coastal,2022,good,3.0
+Negeri Sembilan,coastal,2022,moderate,
+Negeri Sembilan,coastal,2022,poor,
+Negeri Sembilan,coastal,2023,excellent,12.0
+Negeri Sembilan,coastal,2023,good,2.0
+Negeri Sembilan,coastal,2023,moderate,
+Negeri Sembilan,coastal,2023,poor,
+Negeri Sembilan,coastal,2024,excellent,14.0
+Negeri Sembilan,coastal,2024,good,
+Negeri Sembilan,coastal,2024,moderate,
+Negeri Sembilan,coastal,2024,poor,
+Pahang,coastal,2020,excellent,9.0
+Pahang,coastal,2020,good,5.0
+Pahang,coastal,2020,moderate,8.0
+Pahang,coastal,2020,poor,
+Pahang,coastal,2021,excellent,18.0
+Pahang,coastal,2021,good,1.0
+Pahang,coastal,2021,moderate,3.0
+Pahang,coastal,2021,poor,
+Pahang,coastal,2022,excellent,17.0
+Pahang,coastal,2022,good,3.0
+Pahang,coastal,2022,moderate,2.0
+Pahang,coastal,2022,poor,
+Pahang,coastal,2023,excellent,22.0
+Pahang,coastal,2023,good,
+Pahang,coastal,2023,moderate,
+Pahang,coastal,2023,poor,
+Pahang,coastal,2024,excellent,20.0
+Pahang,coastal,2024,good,2.0
+Pahang,coastal,2024,moderate,
+Pahang,coastal,2024,poor,
+Perak,coastal,2020,excellent,5.0
+Perak,coastal,2020,good,3.0
+Perak,coastal,2020,moderate,
+Perak,coastal,2020,poor,
+Perak,coastal,2021,excellent,7.0
+Perak,coastal,2021,good,
+Perak,coastal,2021,moderate,1.0
+Perak,coastal,2021,poor,
+Perak,coastal,2022,excellent,6.0
+Perak,coastal,2022,good,2.0
+Perak,coastal,2022,moderate,
+Perak,coastal,2022,poor,
+Perak,coastal,2023,excellent,7.0
+Perak,coastal,2023,good,1.0
+Perak,coastal,2023,moderate,
+Perak,coastal,2023,poor,
+Perak,coastal,2024,excellent,8.0
+Perak,coastal,2024,good,
+Perak,coastal,2024,moderate,
+Perak,coastal,2024,poor,
+Pulau Pinang,coastal,2020,excellent,
+Pulau Pinang,coastal,2020,good,6.0
+Pulau Pinang,coastal,2020,moderate,11.0
+Pulau Pinang,coastal,2020,poor,
+Pulau Pinang,coastal,2021,excellent,3.0
+Pulau Pinang,coastal,2021,good,4.0
+Pulau Pinang,coastal,2021,moderate,10.0
+Pulau Pinang,coastal,2021,poor,
+Pulau Pinang,coastal,2022,excellent,4.0
+Pulau Pinang,coastal,2022,good,5.0
+Pulau Pinang,coastal,2022,moderate,8.0
+Pulau Pinang,coastal,2022,poor,
+Pulau Pinang,coastal,2023,excellent,9.0
+Pulau Pinang,coastal,2023,good,1.0
+Pulau Pinang,coastal,2023,moderate,7.0
+Pulau Pinang,coastal,2023,poor,
+Pulau Pinang,coastal,2024,excellent,6.0
+Pulau Pinang,coastal,2024,good,7.0
+Pulau Pinang,coastal,2024,moderate,4.0
+Pulau Pinang,coastal,2024,poor,
+Sabah,coastal,2020,excellent,
+Sabah,coastal,2020,good,
+Sabah,coastal,2020,moderate,24.0
+Sabah,coastal,2020,poor,
+Sabah,coastal,2021,excellent,
+Sabah,coastal,2021,good,3.0
+Sabah,coastal,2021,moderate,21.0
+Sabah,coastal,2021,poor,
+Sabah,coastal,2022,excellent,
+Sabah,coastal,2022,good,2.0
+Sabah,coastal,2022,moderate,22.0
+Sabah,coastal,2022,poor,
+Sabah,coastal,2023,excellent,
+Sabah,coastal,2023,good,
+Sabah,coastal,2023,moderate,24.0
+Sabah,coastal,2023,poor,
+Sabah,coastal,2024,excellent,
+Sabah,coastal,2024,good,3.0
+Sabah,coastal,2024,moderate,21.0
+Sabah,coastal,2024,poor,
+Sarawak,coastal,2020,excellent,
+Sarawak,coastal,2020,good,3.0
+Sarawak,coastal,2020,moderate,19.0
+Sarawak,coastal,2020,poor,1.0
+Sarawak,coastal,2021,excellent,4.0
+Sarawak,coastal,2021,good,12.0
+Sarawak,coastal,2021,moderate,7.0
+Sarawak,coastal,2021,poor,
+Sarawak,coastal,2022,excellent,6.0
+Sarawak,coastal,2022,good,5.0
+Sarawak,coastal,2022,moderate,12.0
+Sarawak,coastal,2022,poor,
+Sarawak,coastal,2023,excellent,
+Sarawak,coastal,2023,good,
+Sarawak,coastal,2023,moderate,23.0
+Sarawak,coastal,2023,poor,
+Sarawak,coastal,2024,excellent,
+Sarawak,coastal,2024,good,
+Sarawak,coastal,2024,moderate,23.0
+Sarawak,coastal,2024,poor,
+Selangor,coastal,2020,excellent,1.0
+Selangor,coastal,2020,good,
+Selangor,coastal,2020,moderate,5.0
+Selangor,coastal,2020,poor,
+Selangor,coastal,2021,excellent,
+Selangor,coastal,2021,good,3.0
+Selangor,coastal,2021,moderate,3.0
+Selangor,coastal,2021,poor,
+Selangor,coastal,2022,excellent,1.0
+Selangor,coastal,2022,good,2.0
+Selangor,coastal,2022,moderate,3.0
+Selangor,coastal,2022,poor,
+Selangor,coastal,2023,excellent,2.0
+Selangor,coastal,2023,good,3.0
+Selangor,coastal,2023,moderate,1.0
+Selangor,coastal,2023,poor,
+Selangor,coastal,2024,excellent,
+Selangor,coastal,2024,good,4.0
+Selangor,coastal,2024,moderate,2.0
+Selangor,coastal,2024,poor,
+Terengganu,coastal,2020,excellent,13.0
+Terengganu,coastal,2020,good,2.0
+Terengganu,coastal,2020,moderate,1.0
+Terengganu,coastal,2020,poor,
+Terengganu,coastal,2021,excellent,15.0
+Terengganu,coastal,2021,good,1.0
+Terengganu,coastal,2021,moderate,
+Terengganu,coastal,2021,poor,
+Terengganu,coastal,2022,excellent,16.0
+Terengganu,coastal,2022,good,
+Terengganu,coastal,2022,moderate,
+Terengganu,coastal,2022,poor,
+Terengganu,coastal,2023,excellent,16.0
+Terengganu,coastal,2023,good,
+Terengganu,coastal,2023,moderate,
+Terengganu,coastal,2023,poor,
+Terengganu,coastal,2024,excellent,16.0
+Terengganu,coastal,2024,good,
+Terengganu,coastal,2024,moderate,
+Terengganu,coastal,2024,poor,
+W.P. Labuan,coastal,2020,excellent,
+W.P. Labuan,coastal,2020,good,
+W.P. Labuan,coastal,2020,moderate,5.0
+W.P. Labuan,coastal,2020,poor,
+W.P. Labuan,coastal,2021,excellent,
+W.P. Labuan,coastal,2021,good,
+W.P. Labuan,coastal,2021,moderate,5.0
+W.P. Labuan,coastal,2021,poor,
+W.P. Labuan,coastal,2022,excellent,
+W.P. Labuan,coastal,2022,good,
+W.P. Labuan,coastal,2022,moderate,5.0
+W.P. Labuan,coastal,2022,poor,
+W.P. Labuan,coastal,2023,excellent,
+W.P. Labuan,coastal,2023,good,
+W.P. Labuan,coastal,2023,moderate,5.0
+W.P. Labuan,coastal,2023,poor,
+W.P. Labuan,coastal,2024,excellent,
+W.P. Labuan,coastal,2024,good,
+W.P. Labuan,coastal,2024,moderate,5.0
+W.P. Labuan,coastal,2024,poor,
+Johor,estuary,2020,excellent,
+Johor,estuary,2020,good,1.0
+Johor,estuary,2020,moderate,3.0
+Johor,estuary,2020,poor,2.0
+Johor,estuary,2021,excellent,1.0
+Johor,estuary,2021,good,
+Johor,estuary,2021,moderate,5.0
+Johor,estuary,2021,poor,
+Johor,estuary,2022,excellent,1.0
+Johor,estuary,2022,good,
+Johor,estuary,2022,moderate,4.0
+Johor,estuary,2022,poor,1.0
+Johor,estuary,2023,excellent,
+Johor,estuary,2023,good,1.0
+Johor,estuary,2023,moderate,5.0
+Johor,estuary,2023,poor,
+Johor,estuary,2024,excellent,
+Johor,estuary,2024,good,1.0
+Johor,estuary,2024,moderate,5.0
+Johor,estuary,2024,poor,
+Kedah,estuary,2020,excellent,
+Kedah,estuary,2020,good,
+Kedah,estuary,2020,moderate,4.0
+Kedah,estuary,2020,poor,
+Kedah,estuary,2021,excellent,
+Kedah,estuary,2021,good,
+Kedah,estuary,2021,moderate,4.0
+Kedah,estuary,2021,poor,
+Kedah,estuary,2022,excellent,
+Kedah,estuary,2022,good,
+Kedah,estuary,2022,moderate,4.0
+Kedah,estuary,2022,poor,
+Kedah,estuary,2023,excellent,
+Kedah,estuary,2023,good,
+Kedah,estuary,2023,moderate,4.0
+Kedah,estuary,2023,poor,
+Kedah,estuary,2024,excellent,
+Kedah,estuary,2024,good,
+Kedah,estuary,2024,moderate,4.0
+Kedah,estuary,2024,poor,
+Kelantan,estuary,2020,excellent,
+Kelantan,estuary,2020,good,
+Kelantan,estuary,2020,moderate,6.0
+Kelantan,estuary,2020,poor,
+Kelantan,estuary,2021,excellent,
+Kelantan,estuary,2021,good,1.0
+Kelantan,estuary,2021,moderate,5.0
+Kelantan,estuary,2021,poor,
+Kelantan,estuary,2022,excellent,
+Kelantan,estuary,2022,good,
+Kelantan,estuary,2022,moderate,6.0
+Kelantan,estuary,2022,poor,
+Kelantan,estuary,2023,excellent,
+Kelantan,estuary,2023,good,1.0
+Kelantan,estuary,2023,moderate,5.0
+Kelantan,estuary,2023,poor,
+Kelantan,estuary,2024,excellent,1.0
+Kelantan,estuary,2024,good,3.0
+Kelantan,estuary,2024,moderate,2.0
+Kelantan,estuary,2024,poor,
+Melaka,estuary,2020,excellent,
+Melaka,estuary,2020,good,1.0
+Melaka,estuary,2020,moderate,7.0
+Melaka,estuary,2020,poor,
+Melaka,estuary,2021,excellent,
+Melaka,estuary,2021,good,
+Melaka,estuary,2021,moderate,8.0
+Melaka,estuary,2021,poor,
+Melaka,estuary,2022,excellent,
+Melaka,estuary,2022,good,
+Melaka,estuary,2022,moderate,8.0
+Melaka,estuary,2022,poor,
+Melaka,estuary,2023,excellent,
+Melaka,estuary,2023,good,
+Melaka,estuary,2023,moderate,8.0
+Melaka,estuary,2023,poor,
+Melaka,estuary,2024,excellent,
+Melaka,estuary,2024,good,
+Melaka,estuary,2024,moderate,7.0
+Melaka,estuary,2024,poor,1.0
+Negeri Sembilan,estuary,2020,excellent,
+Negeri Sembilan,estuary,2020,good,
+Negeri Sembilan,estuary,2020,moderate,2.0
+Negeri Sembilan,estuary,2020,poor,
+Negeri Sembilan,estuary,2021,excellent,
+Negeri Sembilan,estuary,2021,good,
+Negeri Sembilan,estuary,2021,moderate,2.0
+Negeri Sembilan,estuary,2021,poor,
+Negeri Sembilan,estuary,2022,excellent,
+Negeri Sembilan,estuary,2022,good,
+Negeri Sembilan,estuary,2022,moderate,2.0
+Negeri Sembilan,estuary,2022,poor,
+Negeri Sembilan,estuary,2023,excellent,
+Negeri Sembilan,estuary,2023,good,
+Negeri Sembilan,estuary,2023,moderate,2.0
+Negeri Sembilan,estuary,2023,poor,
+Negeri Sembilan,estuary,2024,excellent,
+Negeri Sembilan,estuary,2024,good,
+Negeri Sembilan,estuary,2024,moderate,2.0
+Negeri Sembilan,estuary,2024,poor,
+Pahang,estuary,2020,excellent,1.0
+Pahang,estuary,2020,good,
+Pahang,estuary,2020,moderate,4.0
+Pahang,estuary,2020,poor,
+Pahang,estuary,2021,excellent,
+Pahang,estuary,2021,good,1.0
+Pahang,estuary,2021,moderate,4.0
+Pahang,estuary,2021,poor,
+Pahang,estuary,2022,excellent,1.0
+Pahang,estuary,2022,good,
+Pahang,estuary,2022,moderate,4.0
+Pahang,estuary,2022,poor,
+Pahang,estuary,2023,excellent,1.0
+Pahang,estuary,2023,good,2.0
+Pahang,estuary,2023,moderate,2.0
+Pahang,estuary,2023,poor,
+Pahang,estuary,2024,excellent,
+Pahang,estuary,2024,good,2.0
+Pahang,estuary,2024,moderate,2.0
+Pahang,estuary,2024,poor,1.0
+Perak,estuary,2020,excellent,
+Perak,estuary,2020,good,
+Perak,estuary,2020,moderate,4.0
+Perak,estuary,2020,poor,2.0
+Perak,estuary,2021,excellent,
+Perak,estuary,2021,good,
+Perak,estuary,2021,moderate,5.0
+Perak,estuary,2021,poor,1.0
+Perak,estuary,2022,excellent,
+Perak,estuary,2022,good,1.0
+Perak,estuary,2022,moderate,5.0
+Perak,estuary,2022,poor,
+Perak,estuary,2023,excellent,
+Perak,estuary,2023,good,1.0
+Perak,estuary,2023,moderate,5.0
+Perak,estuary,2023,poor,
+Perak,estuary,2024,excellent,1.0
+Perak,estuary,2024,good,1.0
+Perak,estuary,2024,moderate,4.0
+Perak,estuary,2024,poor,
+Perlis,estuary,2020,excellent,
+Perlis,estuary,2020,good,
+Perlis,estuary,2020,moderate,2.0
+Perlis,estuary,2020,poor,
+Perlis,estuary,2021,excellent,
+Perlis,estuary,2021,good,
+Perlis,estuary,2021,moderate,2.0
+Perlis,estuary,2021,poor,
+Perlis,estuary,2022,excellent,
+Perlis,estuary,2022,good,
+Perlis,estuary,2022,moderate,2.0
+Perlis,estuary,2022,poor,
+Perlis,estuary,2023,excellent,
+Perlis,estuary,2023,good,
+Perlis,estuary,2023,moderate,2.0
+Perlis,estuary,2023,poor,
+Perlis,estuary,2024,excellent,
+Perlis,estuary,2024,good,
+Perlis,estuary,2024,moderate,2.0
+Perlis,estuary,2024,poor,
+Pulau Pinang,estuary,2020,excellent,
+Pulau Pinang,estuary,2020,good,
+Pulau Pinang,estuary,2020,moderate,3.0
+Pulau Pinang,estuary,2020,poor,4.0
+Pulau Pinang,estuary,2021,excellent,
+Pulau Pinang,estuary,2021,good,
+Pulau Pinang,estuary,2021,moderate,5.0
+Pulau Pinang,estuary,2021,poor,2.0
+Pulau Pinang,estuary,2022,excellent,
+Pulau Pinang,estuary,2022,good,1.0
+Pulau Pinang,estuary,2022,moderate,6.0
+Pulau Pinang,estuary,2022,poor,
+Pulau Pinang,estuary,2023,excellent,
+Pulau Pinang,estuary,2023,good,1.0
+Pulau Pinang,estuary,2023,moderate,5.0
+Pulau Pinang,estuary,2023,poor,1.0
+Pulau Pinang,estuary,2024,excellent,
+Pulau Pinang,estuary,2024,good,
+Pulau Pinang,estuary,2024,moderate,5.0
+Pulau Pinang,estuary,2024,poor,2.0
+Sabah,estuary,2020,excellent,
+Sabah,estuary,2020,good,
+Sabah,estuary,2020,moderate,2.0
+Sabah,estuary,2020,poor,
+Sabah,estuary,2021,excellent,
+Sabah,estuary,2021,good,
+Sabah,estuary,2021,moderate,2.0
+Sabah,estuary,2021,poor,
+Sabah,estuary,2022,excellent,
+Sabah,estuary,2022,good,
+Sabah,estuary,2022,moderate,2.0
+Sabah,estuary,2022,poor,
+Sabah,estuary,2023,excellent,
+Sabah,estuary,2023,good,
+Sabah,estuary,2023,moderate,2.0
+Sabah,estuary,2023,poor,
+Sabah,estuary,2024,excellent,
+Sabah,estuary,2024,good,
+Sabah,estuary,2024,moderate,2.0
+Sabah,estuary,2024,poor,
+Sarawak,estuary,2020,excellent,
+Sarawak,estuary,2020,good,1.0
+Sarawak,estuary,2020,moderate,13.0
+Sarawak,estuary,2020,poor,
+Sarawak,estuary,2021,excellent,2.0
+Sarawak,estuary,2021,good,4.0
+Sarawak,estuary,2021,moderate,8.0
+Sarawak,estuary,2021,poor,
+Sarawak,estuary,2022,excellent,1.0
+Sarawak,estuary,2022,good,5.0
+Sarawak,estuary,2022,moderate,8.0
+Sarawak,estuary,2022,poor,
+Sarawak,estuary,2023,excellent,
+Sarawak,estuary,2023,good,
+Sarawak,estuary,2023,moderate,14.0
+Sarawak,estuary,2023,poor,
+Sarawak,estuary,2024,excellent,
+Sarawak,estuary,2024,good,1.0
+Sarawak,estuary,2024,moderate,13.0
+Sarawak,estuary,2024,poor,
+Selangor,estuary,2020,excellent,
+Selangor,estuary,2020,good,2.0
+Selangor,estuary,2020,moderate,3.0
+Selangor,estuary,2020,poor,5.0
+Selangor,estuary,2021,excellent,
+Selangor,estuary,2021,good,2.0
+Selangor,estuary,2021,moderate,6.0
+Selangor,estuary,2021,poor,2.0
+Selangor,estuary,2022,excellent,1.0
+Selangor,estuary,2022,good,
+Selangor,estuary,2022,moderate,7.0
+Selangor,estuary,2022,poor,2.0
+Selangor,estuary,2023,excellent,1.0
+Selangor,estuary,2023,good,2.0
+Selangor,estuary,2023,moderate,7.0
+Selangor,estuary,2023,poor,
+Selangor,estuary,2024,excellent,
+Selangor,estuary,2024,good,1.0
+Selangor,estuary,2024,moderate,8.0
+Selangor,estuary,2024,poor,1.0
+Terengganu,estuary,2020,excellent,2.0
+Terengganu,estuary,2020,good,1.0
+Terengganu,estuary,2020,moderate,10.0
+Terengganu,estuary,2020,poor,
+Terengganu,estuary,2021,excellent,4.0
+Terengganu,estuary,2021,good,2.0
+Terengganu,estuary,2021,moderate,7.0
+Terengganu,estuary,2021,poor,
+Terengganu,estuary,2022,excellent,3.0
+Terengganu,estuary,2022,good,3.0
+Terengganu,estuary,2022,moderate,7.0
+Terengganu,estuary,2022,poor,
+Terengganu,estuary,2023,excellent,4.0
+Terengganu,estuary,2023,good,2.0
+Terengganu,estuary,2023,moderate,7.0
+Terengganu,estuary,2023,poor,
+Terengganu,estuary,2024,excellent,5.0
+Terengganu,estuary,2024,good,5.0
+Terengganu,estuary,2024,moderate,3.0
+Terengganu,estuary,2024,poor,
+Johor,island,2020,excellent,5.0
+Johor,island,2020,good,1.0
+Johor,island,2020,moderate,2.0
+Johor,island,2020,poor,
+Johor,island,2021,excellent,5.0
+Johor,island,2021,good,1.0
+Johor,island,2021,moderate,2.0
+Johor,island,2021,poor,
+Johor,island,2022,excellent,7.0
+Johor,island,2022,good,1.0
+Johor,island,2022,moderate,
+Johor,island,2022,poor,
+Johor,island,2023,excellent,7.0
+Johor,island,2023,good,
+Johor,island,2023,moderate,1.0
+Johor,island,2023,poor,
+Johor,island,2024,excellent,7.0
+Johor,island,2024,good,1.0
+Johor,island,2024,moderate,
+Johor,island,2024,poor,
+Kedah,island,2020,excellent,12.0
+Kedah,island,2020,good,2.0
+Kedah,island,2020,moderate,
+Kedah,island,2020,poor,
+Kedah,island,2021,excellent,13.0
+Kedah,island,2021,good,1.0
+Kedah,island,2021,moderate,
+Kedah,island,2021,poor,
+Kedah,island,2022,excellent,13.0
+Kedah,island,2022,good,1.0
+Kedah,island,2022,moderate,
+Kedah,island,2022,poor,
+Kedah,island,2023,excellent,13.0
+Kedah,island,2023,good,1.0
+Kedah,island,2023,moderate,
+Kedah,island,2023,poor,
+Kedah,island,2024,excellent,14.0
+Kedah,island,2024,good,
+Kedah,island,2024,moderate,
+Kedah,island,2024,poor,
+Kelantan,island,2020,excellent,
+Kelantan,island,2020,good,1.0
+Kelantan,island,2020,moderate,1.0
+Kelantan,island,2020,poor,
+Kelantan,island,2021,excellent,2.0
+Kelantan,island,2021,good,
+Kelantan,island,2021,moderate,
+Kelantan,island,2021,poor,
+Kelantan,island,2022,excellent,2.0
+Kelantan,island,2022,good,
+Kelantan,island,2022,moderate,
+Kelantan,island,2022,poor,
+Kelantan,island,2023,excellent,2.0
+Kelantan,island,2023,good,
+Kelantan,island,2023,moderate,
+Kelantan,island,2023,poor,
+Kelantan,island,2024,excellent,2.0
+Kelantan,island,2024,good,
+Kelantan,island,2024,moderate,
+Kelantan,island,2024,poor,
+Melaka,island,2020,excellent,4.0
+Melaka,island,2020,good,2.0
+Melaka,island,2020,moderate,
+Melaka,island,2020,poor,
+Melaka,island,2021,excellent,4.0
+Melaka,island,2021,good,1.0
+Melaka,island,2021,moderate,1.0
+Melaka,island,2021,poor,
+Melaka,island,2022,excellent,4.0
+Melaka,island,2022,good,1.0
+Melaka,island,2022,moderate,1.0
+Melaka,island,2022,poor,
+Melaka,island,2023,excellent,6.0
+Melaka,island,2023,good,
+Melaka,island,2023,moderate,
+Melaka,island,2023,poor,
+Melaka,island,2024,excellent,6.0
+Melaka,island,2024,good,
+Melaka,island,2024,moderate,
+Melaka,island,2024,poor,
+Negeri Sembilan,island,2020,excellent,1.0
+Negeri Sembilan,island,2020,good,
+Negeri Sembilan,island,2020,moderate,
+Negeri Sembilan,island,2020,poor,
+Negeri Sembilan,island,2021,excellent,1.0
+Negeri Sembilan,island,2021,good,
+Negeri Sembilan,island,2021,moderate,
+Negeri Sembilan,island,2021,poor,
+Negeri Sembilan,island,2022,excellent,1.0
+Negeri Sembilan,island,2022,good,
+Negeri Sembilan,island,2022,moderate,
+Negeri Sembilan,island,2022,poor,
+Negeri Sembilan,island,2023,excellent,1.0
+Negeri Sembilan,island,2023,good,
+Negeri Sembilan,island,2023,moderate,
+Negeri Sembilan,island,2023,poor,
+Negeri Sembilan,island,2024,excellent,1.0
+Negeri Sembilan,island,2024,good,
+Negeri Sembilan,island,2024,moderate,
+Negeri Sembilan,island,2024,poor,
+Pahang,island,2020,excellent,7.0
+Pahang,island,2020,good,1.0
+Pahang,island,2020,moderate,1.0
+Pahang,island,2020,poor,
+Pahang,island,2021,excellent,9.0
+Pahang,island,2021,good,
+Pahang,island,2021,moderate,
+Pahang,island,2021,poor,
+Pahang,island,2022,excellent,9.0
+Pahang,island,2022,good,
+Pahang,island,2022,moderate,
+Pahang,island,2022,poor,
+Pahang,island,2023,excellent,9.0
+Pahang,island,2023,good,
+Pahang,island,2023,moderate,
+Pahang,island,2023,poor,
+Pahang,island,2024,excellent,9.0
+Pahang,island,2024,good,
+Pahang,island,2024,moderate,
+Pahang,island,2024,poor,
+Perak,island,2020,excellent,4.0
+Perak,island,2020,good,
+Perak,island,2020,moderate,1.0
+Perak,island,2020,poor,
+Perak,island,2021,excellent,4.0
+Perak,island,2021,good,1.0
+Perak,island,2021,moderate,
+Perak,island,2021,poor,
+Perak,island,2022,excellent,4.0
+Perak,island,2022,good,1.0
+Perak,island,2022,moderate,
+Perak,island,2022,poor,
+Perak,island,2023,excellent,5.0
+Perak,island,2023,good,
+Perak,island,2023,moderate,
+Perak,island,2023,poor,
+Perak,island,2024,excellent,5.0
+Perak,island,2024,good,
+Perak,island,2024,moderate,
+Perak,island,2024,poor,
+Pulau Pinang,island,2020,excellent,2.0
+Pulau Pinang,island,2020,good,2.0
+Pulau Pinang,island,2020,moderate,5.0
+Pulau Pinang,island,2020,poor,
+Pulau Pinang,island,2021,excellent,2.0
+Pulau Pinang,island,2021,good,2.0
+Pulau Pinang,island,2021,moderate,5.0
+Pulau Pinang,island,2021,poor,
+Pulau Pinang,island,2022,excellent,3.0
+Pulau Pinang,island,2022,good,4.0
+Pulau Pinang,island,2022,moderate,2.0
+Pulau Pinang,island,2022,poor,
+Pulau Pinang,island,2023,excellent,5.0
+Pulau Pinang,island,2023,good,1.0
+Pulau Pinang,island,2023,moderate,3.0
+Pulau Pinang,island,2023,poor,
+Pulau Pinang,island,2024,excellent,5.0
+Pulau Pinang,island,2024,good,1.0
+Pulau Pinang,island,2024,moderate,3.0
+Pulau Pinang,island,2024,poor,
+Sabah,island,2020,excellent,
+Sabah,island,2020,good,
+Sabah,island,2020,moderate,17.0
+Sabah,island,2020,poor,
+Sabah,island,2021,excellent,
+Sabah,island,2021,good,2.0
+Sabah,island,2021,moderate,15.0
+Sabah,island,2021,poor,
+Sabah,island,2022,excellent,
+Sabah,island,2022,good,7.0
+Sabah,island,2022,moderate,10.0
+Sabah,island,2022,poor,
+Sabah,island,2023,excellent,
+Sabah,island,2023,good,
+Sabah,island,2023,moderate,17.0
+Sabah,island,2023,poor,
+Sabah,island,2024,excellent,
+Sabah,island,2024,good,
+Sabah,island,2024,moderate,17.0
+Sabah,island,2024,poor,
+Sarawak,island,2020,excellent,
+Sarawak,island,2020,good,
+Sarawak,island,2020,moderate,3.0
+Sarawak,island,2020,poor,
+Sarawak,island,2021,excellent,2.0
+Sarawak,island,2021,good,1.0
+Sarawak,island,2021,moderate,
+Sarawak,island,2021,poor,
+Sarawak,island,2022,excellent,
+Sarawak,island,2022,good,3.0
+Sarawak,island,2022,moderate,
+Sarawak,island,2022,poor,
+Sarawak,island,2023,excellent,
+Sarawak,island,2023,good,2.0
+Sarawak,island,2023,moderate,1.0
+Sarawak,island,2023,poor,
+Sarawak,island,2024,excellent,
+Sarawak,island,2024,good,
+Sarawak,island,2024,moderate,3.0
+Sarawak,island,2024,poor,
+Selangor,island,2020,excellent,
+Selangor,island,2020,good,
+Selangor,island,2020,moderate,2.0
+Selangor,island,2020,poor,1.0
+Selangor,island,2021,excellent,
+Selangor,island,2021,good,1.0
+Selangor,island,2021,moderate,2.0
+Selangor,island,2021,poor,
+Selangor,island,2022,excellent,
+Selangor,island,2022,good,2.0
+Selangor,island,2022,moderate,
+Selangor,island,2022,poor,1.0
+Selangor,island,2023,excellent,2.0
+Selangor,island,2023,good,
+Selangor,island,2023,moderate,1.0
+Selangor,island,2023,poor,
+Selangor,island,2024,excellent,1.0
+Selangor,island,2024,good,1.0
+Selangor,island,2024,moderate,1.0
+Selangor,island,2024,poor,
+Terengganu,island,2020,excellent,11.0
+Terengganu,island,2020,good,
+Terengganu,island,2020,moderate,
+Terengganu,island,2020,poor,
+Terengganu,island,2021,excellent,11.0
+Terengganu,island,2021,good,
+Terengganu,island,2021,moderate,
+Terengganu,island,2021,poor,
+Terengganu,island,2022,excellent,11.0
+Terengganu,island,2022,good,
+Terengganu,island,2022,moderate,
+Terengganu,island,2022,poor,
+Terengganu,island,2023,excellent,11.0
+Terengganu,island,2023,good,
+Terengganu,island,2023,moderate,
+Terengganu,island,2023,poor,
+Terengganu,island,2024,excellent,11.0
+Terengganu,island,2024,good,
+Terengganu,island,2024,moderate,
+Terengganu,island,2024,poor,
+W.P. Labuan,island,2020,excellent,
+W.P. Labuan,island,2020,good,
+W.P. Labuan,island,2020,moderate,7.0
+W.P. Labuan,island,2020,poor,
+W.P. Labuan,island,2021,excellent,
+W.P. Labuan,island,2021,good,
+W.P. Labuan,island,2021,moderate,7.0
+W.P. Labuan,island,2021,poor,
+W.P. Labuan,island,2022,excellent,
+W.P. Labuan,island,2022,good,
+W.P. Labuan,island,2022,moderate,7.0
+W.P. Labuan,island,2022,poor,
+W.P. Labuan,island,2023,excellent,
+W.P. Labuan,island,2023,good,
+W.P. Labuan,island,2023,moderate,7.0
+W.P. Labuan,island,2023,poor,
+W.P. Labuan,island,2024,excellent,
+W.P. Labuan,island,2024,good,
+W.P. Labuan,island,2024,moderate,7.0
+W.P. Labuan,island,2024,poor,

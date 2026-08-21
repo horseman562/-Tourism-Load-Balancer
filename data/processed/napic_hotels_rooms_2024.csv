@@ -1,0 +1,241 @@
+state,breakdown,category,hotels,rooms
+Johor,star_rating,5_star,9,2506
+Johor,star_rating,4_star,23,7607
+Johor,star_rating,3_star,47,7007
+Johor,star_rating,2_star,35,2543
+Johor,star_rating,1_star,22,1362
+Johor,star_rating,3_orchid,25,1017
+Johor,star_rating,2_orchid,15,432
+Johor,star_rating,1_orchid,9,260
+Johor,star_rating,unrated,303,9237
+Johor,star_rating,total,488,31971
+Johor,location,city_town,394,25700
+Johor,location,beach,67,4452
+Johor,location,hill,3,179
+Johor,location,other_location,24,1640
+Johor,location,total,488,31971
+Kedah,star_rating,5_star,10,1814
+Kedah,star_rating,4_star,12,2169
+Kedah,star_rating,3_star,20,2882
+Kedah,star_rating,2_star,21,1733
+Kedah,star_rating,1_star,5,237
+Kedah,star_rating,3_orchid,2,41
+Kedah,star_rating,2_orchid,3,123
+Kedah,star_rating,1_orchid,3,101
+Kedah,star_rating,unrated,99,4054
+Kedah,star_rating,total,175,13154
+Kedah,location,city_town,91,7330
+Kedah,location,beach,69,5023
+Kedah,location,hill,5,264
+Kedah,location,other_location,10,537
+Kedah,location,total,175,13154
+Kelantan,star_rating,5_star,1,298
+Kelantan,star_rating,4_star,7,881
+Kelantan,star_rating,3_star,11,720
+Kelantan,star_rating,2_star,13,794
+Kelantan,star_rating,1_star,7,225
+Kelantan,star_rating,3_orchid,10,300
+Kelantan,star_rating,2_orchid,6,143
+Kelantan,star_rating,1_orchid,11,272
+Kelantan,star_rating,unrated,25,727
+Kelantan,star_rating,total,91,4360
+Kelantan,location,city_town,74,3661
+Kelantan,location,beach,16,679
+Kelantan,location,hill,0,0
+Kelantan,location,other_location,1,20
+Kelantan,location,total,91,4360
+Melaka,star_rating,5_star,11,3613
+Melaka,star_rating,4_star,13,3497
+Melaka,star_rating,3_star,36,4703
+Melaka,star_rating,2_star,22,932
+Melaka,star_rating,1_star,12,546
+Melaka,star_rating,3_orchid,15,478
+Melaka,star_rating,2_orchid,10,255
+Melaka,star_rating,1_orchid,11,259
+Melaka,star_rating,unrated,47,3985
+Melaka,star_rating,total,177,18268
+Melaka,location,city_town,145,15031
+Melaka,location,beach,19,1334
+Melaka,location,hill,0,0
+Melaka,location,other_location,13,1903
+Melaka,location,total,177,18268
+Negeri Sembilan,star_rating,5_star,5,1879
+Negeri Sembilan,star_rating,4_star,8,2217
+Negeri Sembilan,star_rating,3_star,12,984
+Negeri Sembilan,star_rating,2_star,14,900
+Negeri Sembilan,star_rating,1_star,11,606
+Negeri Sembilan,star_rating,3_orchid,10,350
+Negeri Sembilan,star_rating,2_orchid,3,68
+Negeri Sembilan,star_rating,1_orchid,8,211
+Negeri Sembilan,star_rating,unrated,74,2392
+Negeri Sembilan,star_rating,total,145,9607
+Negeri Sembilan,location,city_town,107,5506
+Negeri Sembilan,location,beach,27,3534
+Negeri Sembilan,location,hill,0,0
+Negeri Sembilan,location,other_location,11,567
+Negeri Sembilan,location,total,145,9607
+Pahang,star_rating,5_star,8,3014
+Pahang,star_rating,4_star,17,4003
+Pahang,star_rating,3_star,27,10137
+Pahang,star_rating,2_star,19,1153
+Pahang,star_rating,1_star,7,230
+Pahang,star_rating,3_orchid,15,639
+Pahang,star_rating,2_orchid,14,312
+Pahang,star_rating,1_orchid,17,377
+Pahang,star_rating,unrated,179,5759
+Pahang,star_rating,total,303,25624
+Pahang,location,city_town,136,6750
+Pahang,location,beach,85,4537
+Pahang,location,hill,63,13253
+Pahang,location,other_location,19,1084
+Pahang,location,total,303,25624
+Perak,star_rating,5_star,3,500
+Perak,star_rating,4_star,11,2336
+Perak,star_rating,3_star,23,2845
+Perak,star_rating,2_star,30,1847
+Perak,star_rating,1_star,15,747
+Perak,star_rating,3_orchid,13,427
+Perak,star_rating,2_orchid,31,951
+Perak,star_rating,1_orchid,18,438
+Perak,star_rating,unrated,186,6338
+Perak,star_rating,total,330,16429
+Perak,location,city_town,239,11484
+Perak,location,beach,51,3053
+Perak,location,hill,1,35
+Perak,location,other_location,39,1857
+Perak,location,total,330,16429
+Perlis,star_rating,5_star,0,0
+Perlis,star_rating,4_star,1,145
+Perlis,star_rating,3_star,2,193
+Perlis,star_rating,2_star,4,163
+Perlis,star_rating,1_star,5,215
+Perlis,star_rating,3_orchid,2,29
+Perlis,star_rating,2_orchid,5,130
+Perlis,star_rating,1_orchid,2,40
+Perlis,star_rating,unrated,11,370
+Perlis,star_rating,total,32,1285
+Perlis,location,city_town,25,967
+Perlis,location,beach,2,150
+Perlis,location,hill,0,0
+Perlis,location,other_location,5,168
+Perlis,location,total,32,1285
+Pulau Pinang,star_rating,5_star,21,5694
+Pulau Pinang,star_rating,4_star,29,7603
+Pulau Pinang,star_rating,3_star,29,3666
+Pulau Pinang,star_rating,2_star,21,1450
+Pulau Pinang,star_rating,1_star,13,443
+Pulau Pinang,star_rating,3_orchid,10,799
+Pulau Pinang,star_rating,2_orchid,10,363
+Pulau Pinang,star_rating,1_orchid,11,254
+Pulau Pinang,star_rating,unrated,106,5117
+Pulau Pinang,star_rating,total,250,25389
+Pulau Pinang,location,city_town,222,20514
+Pulau Pinang,location,beach,21,4424
+Pulau Pinang,location,hill,1,10
+Pulau Pinang,location,other_location,6,441
+Pulau Pinang,location,total,250,25389
+Sabah,star_rating,5_star,11,4041
+Sabah,star_rating,4_star,15,3064
+Sabah,star_rating,3_star,44,4298
+Sabah,star_rating,2_star,47,2868
+Sabah,star_rating,1_star,31,1349
+Sabah,star_rating,3_orchid,41,1098
+Sabah,star_rating,2_orchid,30,662
+Sabah,star_rating,1_orchid,60,1234
+Sabah,star_rating,unrated,145,5715
+Sabah,star_rating,total,424,24329
+Sabah,location,city_town,340,19522
+Sabah,location,beach,26,2852
+Sabah,location,hill,32,1006
+Sabah,location,other_location,26,949
+Sabah,location,total,424,24329
+Sarawak,star_rating,5_star,7,2078
+Sarawak,star_rating,4_star,16,3793
+Sarawak,star_rating,3_star,36,4254
+Sarawak,star_rating,2_star,21,1594
+Sarawak,star_rating,1_star,20,936
+Sarawak,star_rating,3_orchid,19,655
+Sarawak,star_rating,2_orchid,39,989
+Sarawak,star_rating,1_orchid,30,659
+Sarawak,star_rating,unrated,199,6236
+Sarawak,star_rating,total,387,21194
+Sarawak,location,city_town,374,19474
+Sarawak,location,beach,5,967
+Sarawak,location,hill,4,456
+Sarawak,location,other_location,4,297
+Sarawak,location,total,387,21194
+Selangor,star_rating,5_star,20,7762
+Selangor,star_rating,4_star,23,6155
+Selangor,star_rating,3_star,35,5009
+Selangor,star_rating,2_star,20,1053
+Selangor,star_rating,1_star,4,424
+Selangor,star_rating,3_orchid,9,425
+Selangor,star_rating,2_orchid,11,387
+Selangor,star_rating,1_orchid,6,167
+Selangor,star_rating,unrated,82,4707
+Selangor,star_rating,total,210,26089
+Selangor,location,city_town,197,24816
+Selangor,location,beach,9,803
+Selangor,location,hill,0,0
+Selangor,location,other_location,4,470
+Selangor,location,total,210,26089
+Terengganu,star_rating,5_star,5,947
+Terengganu,star_rating,4_star,9,1157
+Terengganu,star_rating,3_star,25,2473
+Terengganu,star_rating,2_star,18,1033
+Terengganu,star_rating,1_star,6,185
+Terengganu,star_rating,3_orchid,23,803
+Terengganu,star_rating,2_orchid,20,460
+Terengganu,star_rating,1_orchid,4,126
+Terengganu,star_rating,unrated,140,4303
+Terengganu,star_rating,total,250,11487
+Terengganu,location,city_town,89,4053
+Terengganu,location,beach,137,6422
+Terengganu,location,hill,4,195
+Terengganu,location,other_location,20,817
+Terengganu,location,total,250,11487
+W.P. Kuala Lumpur,star_rating,5_star,37,14636
+W.P. Kuala Lumpur,star_rating,4_star,42,12461
+W.P. Kuala Lumpur,star_rating,3_star,35,8092
+W.P. Kuala Lumpur,star_rating,2_star,21,1898
+W.P. Kuala Lumpur,star_rating,1_star,17,1247
+W.P. Kuala Lumpur,star_rating,3_orchid,2,72
+W.P. Kuala Lumpur,star_rating,2_orchid,5,202
+W.P. Kuala Lumpur,star_rating,1_orchid,8,285
+W.P. Kuala Lumpur,star_rating,unrated,87,8632
+W.P. Kuala Lumpur,star_rating,total,254,47525
+W.P. Kuala Lumpur,location,city_town,254,47525
+W.P. Kuala Lumpur,location,beach,0,0
+W.P. Kuala Lumpur,location,hill,0,0
+W.P. Kuala Lumpur,location,other_location,0,0
+W.P. Kuala Lumpur,location,total,254,47525
+W.P. Labuan,star_rating,5_star,1,136
+W.P. Labuan,star_rating,4_star,1,111
+W.P. Labuan,star_rating,3_star,4,421
+W.P. Labuan,star_rating,2_star,5,251
+W.P. Labuan,star_rating,1_star,7,193
+W.P. Labuan,star_rating,3_orchid,3,54
+W.P. Labuan,star_rating,2_orchid,1,10
+W.P. Labuan,star_rating,1_orchid,1,18
+W.P. Labuan,star_rating,unrated,18,503
+W.P. Labuan,star_rating,total,41,1697
+W.P. Labuan,location,city_town,38,1448
+W.P. Labuan,location,beach,2,215
+W.P. Labuan,location,hill,0,0
+W.P. Labuan,location,other_location,1,34
+W.P. Labuan,location,total,41,1697
+W.P. Putrajaya,star_rating,5_star,3,678
+W.P. Putrajaya,star_rating,4_star,3,1053
+W.P. Putrajaya,star_rating,3_star,0,0
+W.P. Putrajaya,star_rating,2_star,0,0
+W.P. Putrajaya,star_rating,1_star,0,0
+W.P. Putrajaya,star_rating,3_orchid,0,0
+W.P. Putrajaya,star_rating,2_orchid,0,0
+W.P. Putrajaya,star_rating,1_orchid,0,0
+W.P. Putrajaya,star_rating,unrated,1,38
+W.P. Putrajaya,star_rating,total,7,1769
+W.P. Putrajaya,location,city_town,5,1242
+W.P. Putrajaya,location,beach,0,0
+W.P. Putrajaya,location,hill,0,0
+W.P. Putrajaya,location,other_location,2,527
+W.P. Putrajaya,location,total,7,1769

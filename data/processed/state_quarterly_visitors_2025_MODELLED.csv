@@ -1,0 +1,65 @@
+state,year,quarter,quarter_start,visitors_millions,basis,method
+Johor,2025,Q1,2025-01-01,4.372,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Johor,2025,Q2,2025-04-01,4.6292,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Johor,2025,Q3,2025-07-01,4.554,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Johor,2025,Q4,2025-10-01,4.6418,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Kedah,2025,Q1,2025-01-01,3.75,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Kedah,2025,Q2,2025-04-01,3.9706,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Kedah,2025,Q3,2025-07-01,3.906,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Kedah,2025,Q4,2025-10-01,3.9814,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Kelantan,2025,Q1,2025-01-01,2.898,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Kelantan,2025,Q2,2025-04-01,3.0685,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Kelantan,2025,Q3,2025-07-01,3.0186,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Kelantan,2025,Q4,2025-10-01,3.0768,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Melaka,2025,Q1,2025-01-01,5.0051,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Melaka,2025,Q2,2025-04-01,5.2996,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Melaka,2025,Q3,2025-07-01,5.2134,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Melaka,2025,Q4,2025-10-01,5.3139,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Negeri Sembilan,2025,Q1,2025-01-01,4.6508,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Negeri Sembilan,2025,Q2,2025-04-01,4.9243,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Negeri Sembilan,2025,Q3,2025-07-01,4.8443,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Negeri Sembilan,2025,Q4,2025-10-01,4.9377,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Pahang,2025,Q1,2025-01-01,5.5647,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Pahang,2025,Q2,2025-04-01,5.892,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Pahang,2025,Q3,2025-07-01,5.7962,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Pahang,2025,Q4,2025-10-01,5.908,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Pulau Pinang,2025,Q1,2025-01-01,4.257,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Pulau Pinang,2025,Q2,2025-04-01,4.5074,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Pulau Pinang,2025,Q3,2025-07-01,4.4341,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Pulau Pinang,2025,Q4,2025-10-01,4.5196,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Perak,2025,Q1,2025-01-01,5.6803,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Perak,2025,Q2,2025-04-01,6.0144,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Perak,2025,Q3,2025-07-01,5.9166,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Perak,2025,Q4,2025-10-01,6.0307,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Perlis,2025,Q1,2025-01-01,0.9024,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Perlis,2025,Q2,2025-04-01,0.9555,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Perlis,2025,Q3,2025-07-01,0.94,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Perlis,2025,Q4,2025-10-01,0.9581,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Selangor,2025,Q1,2025-01-01,8.7398,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Selangor,2025,Q2,2025-04-01,9.2539,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Selangor,2025,Q3,2025-07-01,9.1034,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Selangor,2025,Q4,2025-10-01,9.279,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Terengganu,2025,Q1,2025-01-01,3.7149,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Terengganu,2025,Q2,2025-04-01,3.9335,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Terengganu,2025,Q3,2025-07-01,3.8695,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Terengganu,2025,Q4,2025-10-01,3.9441,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Sabah,2025,Q1,2025-01-01,5.3725,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Sabah,2025,Q2,2025-04-01,5.6885,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Sabah,2025,Q3,2025-07-01,5.596,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Sabah,2025,Q4,2025-10-01,5.7039,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Sarawak,2025,Q1,2025-01-01,5.4592,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Sarawak,2025,Q2,2025-04-01,5.7804,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Sarawak,2025,Q3,2025-07-01,5.6864,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+Sarawak,2025,Q4,2025-10-01,5.796,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Kuala Lumpur,2025,Q1,2025-01-01,8.4236,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Kuala Lumpur,2025,Q2,2025-04-01,8.9191,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Kuala Lumpur,2025,Q3,2025-07-01,8.7741,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Kuala Lumpur,2025,Q4,2025-10-01,8.9433,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Labuan,2025,Q1,2025-01-01,0.1451,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Labuan,2025,Q2,2025-04-01,0.1537,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Labuan,2025,Q3,2025-07-01,0.1512,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Labuan,2025,Q4,2025-10-01,0.1541,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Putrajaya,2025,Q1,2025-01-01,0.7559,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Putrajaya,2025,Q2,2025-04-01,0.8003,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Putrajaya,2025,Q3,2025-07-01,0.7873,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state
+W.P. Putrajaya,2025,Q4,2025-10-01,0.8025,MODELLED,state annual (DTS 2025 Table 9) x national quarterly share (DTS bulletins); assumes the national seasonal profile applies to every state

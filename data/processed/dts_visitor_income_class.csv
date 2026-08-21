@@ -1,0 +1,81 @@
+state,income_class,share_pct_2023,share_pct_2024
+Johor,"≤RM1,000",2.1,4.1
+Johor,"RM1,001-3,000",20.9,23.1
+Johor,"RM3,001-5,000",23.1,26.2
+Johor,"RM5,001-10,000",37.2,33.5
+Johor,"≥RM10,001",16.7,13.1
+Kedah,"≤RM1,000",5.5,6.1
+Kedah,"RM1,001-3,000",28.8,35.5
+Kedah,"RM3,001-5,000",28.5,27.9
+Kedah,"RM5,001-10,000",26.6,22.2
+Kedah,"≥RM10,001",10.6,8.3
+Kelantan,"≤RM1,000",3.7,8.5
+Kelantan,"RM1,001-3,000",36.5,32.2
+Kelantan,"RM3,001-5,000",28.8,28.5
+Kelantan,"RM5,001-10,000",24.4,22.9
+Kelantan,"≥RM10,001",6.6,7.9
+Melaka,"≤RM1,000",2.9,2.8
+Melaka,"RM1,001-3,000",26.1,21.0
+Melaka,"RM3,001-5,000",24.6,29.7
+Melaka,"RM5,001-10,000",33.4,36.1
+Melaka,"≥RM10,001",13.0,10.4
+Negeri Sembilan,"≤RM1,000",3.2,5.9
+Negeri Sembilan,"RM1,001-3,000",25.1,27.6
+Negeri Sembilan,"RM3,001-5,000",25.4,25.4
+Negeri Sembilan,"RM5,001-10,000",34.2,28.8
+Negeri Sembilan,"≥RM10,001",12.1,12.3
+Pahang,"≤RM1,000",3.5,3.4
+Pahang,"RM1,001-3,000",22.4,29.2
+Pahang,"RM3,001-5,000",27.5,22.7
+Pahang,"RM5,001-10,000",33.6,31.1
+Pahang,"≥RM10,001",13.0,13.6
+Perak,"≤RM1,000",4.9,6.6
+Perak,"RM1,001-3,000",32.5,28.0
+Perak,"RM3,001-5,000",26.0,26.4
+Perak,"RM5,001-10,000",29.5,28.5
+Perak,"≥RM10,001",7.1,10.5
+Perlis,"≤RM1,000",4.3,3.4
+Perlis,"RM1,001-3,000",31.0,32.4
+Perlis,"RM3,001-5,000",27.6,25.4
+Perlis,"RM5,001-10,000",28.5,29.4
+Perlis,"≥RM10,001",8.6,9.4
+Pulau Pinang,"≤RM1,000",4.6,4.2
+Pulau Pinang,"RM1,001-3,000",21.6,22.0
+Pulau Pinang,"RM3,001-5,000",24.6,29.5
+Pulau Pinang,"RM5,001-10,000",35.3,32.2
+Pulau Pinang,"≥RM10,001",13.9,12.1
+Sabah,"≤RM1,000",2.6,3.6
+Sabah,"RM1,001-3,000",38.6,30.9
+Sabah,"RM3,001-5,000",28.7,31.6
+Sabah,"RM5,001-10,000",22.3,24.7
+Sabah,"≥RM10,001",7.8,9.2
+Sarawak,"≤RM1,000",3.5,6.2
+Sarawak,"RM1,001-3,000",38.8,27.6
+Sarawak,"RM3,001-5,000",22.7,27.1
+Sarawak,"RM5,001-10,000",24.1,29.3
+Sarawak,"≥RM10,001",10.9,9.8
+Selangor,"≤RM1,000",3.2,2.3
+Selangor,"RM1,001-3,000",16.4,23.7
+Selangor,"RM3,001-5,000",27.3,23.6
+Selangor,"RM5,001-10,000",38.2,33.5
+Selangor,"≥RM10,001",14.9,16.9
+Terengganu,"≤RM1,000",5.8,2.2
+Terengganu,"RM1,001-3,000",38.7,39.6
+Terengganu,"RM3,001-5,000",26.3,27.6
+Terengganu,"RM5,001-10,000",22.1,22.0
+Terengganu,"≥RM10,001",7.1,8.6
+W.P. Kuala Lumpur,"≤RM1,000",4.6,2.0
+W.P. Kuala Lumpur,"RM1,001-3,000",15.0,12.1
+W.P. Kuala Lumpur,"RM3,001-5,000",25.0,18.7
+W.P. Kuala Lumpur,"RM5,001-10,000",36.8,40.1
+W.P. Kuala Lumpur,"≥RM10,001",18.6,27.1
+W.P. Labuan,"≤RM1,000",2.5,8.1
+W.P. Labuan,"RM1,001-3,000",10.9,21.4
+W.P. Labuan,"RM3,001-5,000",18.9,28.2
+W.P. Labuan,"RM5,001-10,000",52.3,37.5
+W.P. Labuan,"≥RM10,001",15.4,4.8
+W.P. Putrajaya,"≤RM1,000",4.0,1.6
+W.P. Putrajaya,"RM1,001-3,000",18.3,20.8
+W.P. Putrajaya,"RM3,001-5,000",18.7,13.6
+W.P. Putrajaya,"RM5,001-10,000",36.4,49.7
+W.P. Putrajaya,"≥RM10,001",22.6,14.3

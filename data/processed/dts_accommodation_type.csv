@@ -1,0 +1,97 @@
+state,accommodation_type,share_pct_2023,share_pct_2024
+Johor,relatives_friends_house,70.2,64.9
+Johor,hotel,16.8,22.3
+Johor,chalet,2.6,2.3
+Johor,apartment,2.4,2.9
+Johor,homestay_vacation_home,5.5,5.6
+Johor,rest_house,2.5,2.0
+Kedah,relatives_friends_house,70.1,68.5
+Kedah,hotel,15.2,14.2
+Kedah,chalet,1.7,1.8
+Kedah,apartment,2.2,2.0
+Kedah,homestay_vacation_home,8.4,11.4
+Kedah,rest_house,2.4,2.1
+Kelantan,relatives_friends_house,73.7,73.1
+Kelantan,hotel,9.9,10.7
+Kelantan,chalet,2.0,2.1
+Kelantan,apartment,1.8,1.1
+Kelantan,homestay_vacation_home,7.6,8.0
+Kelantan,rest_house,5.0,5.0
+Melaka,relatives_friends_house,43.7,45.5
+Melaka,hotel,29.2,28.4
+Melaka,chalet,4.4,4.5
+Melaka,apartment,8.1,7.7
+Melaka,homestay_vacation_home,12.7,12.2
+Melaka,rest_house,1.9,1.7
+Negeri Sembilan,relatives_friends_house,66.0,63.4
+Negeri Sembilan,hotel,22.9,23.2
+Negeri Sembilan,chalet,1.4,1.9
+Negeri Sembilan,apartment,4.5,4.6
+Negeri Sembilan,homestay_vacation_home,3.2,4.3
+Negeri Sembilan,rest_house,2.0,2.6
+Pahang,relatives_friends_house,54.8,51.2
+Pahang,hotel,27.3,32.1
+Pahang,chalet,2.6,4.8
+Pahang,apartment,7.3,3.7
+Pahang,homestay_vacation_home,6.7,6.7
+Pahang,rest_house,1.3,1.5
+Perak,relatives_friends_house,71.1,69.0
+Perak,hotel,16.5,16.2
+Perak,chalet,3.3,3.3
+Perak,apartment,2.2,2.4
+Perak,homestay_vacation_home,6.0,7.9
+Perak,rest_house,0.9,1.2
+Perlis,relatives_friends_house,67.2,58.4
+Perlis,hotel,12.8,16.9
+Perlis,chalet,0.9,0.0
+Perlis,apartment,0.4,2.7
+Perlis,homestay_vacation_home,15.0,19.7
+Perlis,rest_house,3.7,2.3
+Pulau Pinang,relatives_friends_house,41.7,50.7
+Pulau Pinang,hotel,43.7,31.7
+Pulau Pinang,chalet,0.4,0.7
+Pulau Pinang,apartment,8.0,5.7
+Pulau Pinang,homestay_vacation_home,4.4,10.1
+Pulau Pinang,rest_house,1.8,1.1
+Sabah,relatives_friends_house,55.9,54.6
+Sabah,hotel,20.3,19.1
+Sabah,chalet,7.7,1.1
+Sabah,apartment,3.6,2.3
+Sabah,homestay_vacation_home,7.6,17.2
+Sabah,rest_house,4.9,5.7
+Sarawak,relatives_friends_house,69.6,66.5
+Sarawak,hotel,18.2,20.2
+Sarawak,chalet,1.3,1.8
+Sarawak,apartment,3.8,3.7
+Sarawak,homestay_vacation_home,3.2,3.3
+Sarawak,rest_house,3.9,4.5
+Selangor,relatives_friends_house,59.1,68.7
+Selangor,hotel,26.2,13.8
+Selangor,chalet,2.4,0.3
+Selangor,apartment,2.7,4.9
+Selangor,homestay_vacation_home,6.4,8.6
+Selangor,rest_house,3.2,3.7
+Terengganu,relatives_friends_house,64.1,60.6
+Terengganu,hotel,19.8,20.4
+Terengganu,chalet,3.5,4.2
+Terengganu,apartment,1.3,1.2
+Terengganu,homestay_vacation_home,8.6,9.8
+Terengganu,rest_house,2.7,3.8
+W.P. Kuala Lumpur,relatives_friends_house,50.8,48.3
+W.P. Kuala Lumpur,hotel,31.0,29.1
+W.P. Kuala Lumpur,chalet,5.4,3.0
+W.P. Kuala Lumpur,apartment,3.9,9.2
+W.P. Kuala Lumpur,homestay_vacation_home,5.3,8.0
+W.P. Kuala Lumpur,rest_house,3.6,2.4
+W.P. Labuan,relatives_friends_house,39.4,38.9
+W.P. Labuan,hotel,45.3,45.2
+W.P. Labuan,chalet,3.9,4.0
+W.P. Labuan,apartment,3.7,2.3
+W.P. Labuan,homestay_vacation_home,3.2,6.1
+W.P. Labuan,rest_house,4.5,3.5
+W.P. Putrajaya,relatives_friends_house,50.8,46.1
+W.P. Putrajaya,hotel,37.9,26.0
+W.P. Putrajaya,chalet,0.2,0.0
+W.P. Putrajaya,apartment,2.1,8.1
+W.P. Putrajaya,homestay_vacation_home,3.3,12.6
+W.P. Putrajaya,rest_house,5.7,7.2

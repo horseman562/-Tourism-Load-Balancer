@@ -1,0 +1,161 @@
+state,component,receipts_rm_thousand_2023,receipts_rm_thousand_2024,share_pct_2023,share_pct_2024
+Johor,expenditure_by_visitors,6087464.0,7025477.0,90.9,89.9
+Johor,shopping,2112096.0,2530149.0,31.5,32.4
+Johor,automotive_fuel,976142.0,1107583.0,14.6,14.2
+Johor,transportation,532169.0,609000.0,7.9,7.8
+Johor,food_and_beverage,1017258.0,1184686.0,15.2,15.2
+Johor,accommodation,967492.0,1030010.0,14.4,13.2
+Johor,pre_trip_package_entrance_tickets,250643.0,260313.0,3.7,3.3
+Johor,other_activities,231663.0,303736.0,3.5,3.9
+Johor,expenditure_by_visited_households,611655.0,788939.0,9.1,10.1
+Johor,total_receipts,6699119.0,7814416.0,100.0,100.0
+Kedah,expenditure_by_visitors,3826890.0,4456188.0,91.0,89.8
+Kedah,shopping,1239688.0,1454556.0,29.5,29.3
+Kedah,automotive_fuel,590600.0,656463.0,14.0,13.2
+Kedah,transportation,414830.0,480051.0,9.9,9.7
+Kedah,food_and_beverage,793909.0,960765.0,18.9,19.4
+Kedah,accommodation,497519.0,531785.0,11.8,10.7
+Kedah,pre_trip_package_entrance_tickets,164249.0,184690.0,3.9,3.7
+Kedah,other_activities,126095.0,187877.0,3.0,3.8
+Kedah,expenditure_by_visited_households,379729.0,504962.0,9.0,10.2
+Kedah,total_receipts,4206619.0,4961150.0,100.0,100.0
+Kelantan,expenditure_by_visitors,2789747.0,3955723.0,86.4,87.1
+Kelantan,shopping,1003376.0,1392100.0,31.1,30.7
+Kelantan,automotive_fuel,604358.0,760737.0,18.7,16.8
+Kelantan,transportation,211088.0,322821.0,6.5,7.1
+Kelantan,food_and_beverage,531883.0,803351.0,16.5,17.7
+Kelantan,accommodation,316649.0,430561.0,9.8,9.5
+Kelantan,pre_trip_package_entrance_tickets,23127.0,84729.0,0.7,1.9
+Kelantan,other_activities,99266.0,161424.0,3.1,3.6
+Kelantan,expenditure_by_visited_households,438638.0,584889.0,13.6,12.9
+Kelantan,total_receipts,3228385.0,4540611.0,100.0,100.0
+Melaka,expenditure_by_visitors,5875763.0,7257752.0,91.3,91.5
+Melaka,shopping,2422343.0,2937453.0,37.6,37.0
+Melaka,automotive_fuel,880013.0,1019902.0,13.7,12.9
+Melaka,transportation,313382.0,410871.0,4.9,5.2
+Melaka,food_and_beverage,1043776.0,1310169.0,16.2,16.5
+Melaka,accommodation,691100.0,891618.0,10.7,11.2
+Melaka,pre_trip_package_entrance_tickets,252793.0,337869.0,3.9,4.3
+Melaka,other_activities,272357.0,349869.0,4.2,4.4
+Melaka,expenditure_by_visited_households,562648.0,675455.0,8.7,8.5
+Melaka,total_receipts,6438411.0,7933206.0,100.0,100.0
+Negeri Sembilan,expenditure_by_visitors,4415922.0,5251834.0,92.4,89.5
+Negeri Sembilan,shopping,1803079.0,1955548.0,37.7,33.3
+Negeri Sembilan,automotive_fuel,681417.0,778045.0,14.3,13.3
+Negeri Sembilan,transportation,248823.0,363511.0,5.2,6.2
+Negeri Sembilan,food_and_beverage,797144.0,1008167.0,16.7,17.2
+Negeri Sembilan,accommodation,521773.0,539424.0,10.9,9.2
+Negeri Sembilan,pre_trip_package_entrance_tickets,236613.0,398565.0,5.0,6.8
+Negeri Sembilan,other_activities,127073.0,208574.0,2.7,3.6
+Negeri Sembilan,expenditure_by_visited_households,361359.0,617628.0,7.6,10.5
+Negeri Sembilan,total_receipts,4777281.0,5869462.0,100.0,100.0
+Pahang,expenditure_by_visitors,6012923.0,7758681.0,89.3,89.1
+Pahang,shopping,1943890.0,2610346.0,28.9,30.0
+Pahang,automotive_fuel,949299.0,1214356.0,14.1,13.9
+Pahang,transportation,384026.0,523225.0,5.7,6.0
+Pahang,food_and_beverage,989218.0,1280688.0,14.7,14.7
+Pahang,accommodation,1000261.0,1202614.0,14.9,13.8
+Pahang,pre_trip_package_entrance_tickets,366394.0,432981.0,5.4,5.0
+Pahang,other_activities,379835.0,494471.0,5.6,5.7
+Pahang,expenditure_by_visited_households,720421.0,951079.0,10.7,10.9
+Pahang,total_receipts,6733344.0,8709759.0,100.0,100.0
+Perak,expenditure_by_visitors,5060248.0,6345000.0,89.7,87.8
+Perak,shopping,1660659.0,1993046.0,29.4,27.6
+Perak,automotive_fuel,936541.0,1180876.0,16.6,16.3
+Perak,transportation,349674.0,470561.0,6.2,6.5
+Perak,food_and_beverage,1089592.0,1498753.0,19.3,20.7
+Perak,accommodation,659307.0,757903.0,11.7,10.5
+Perak,pre_trip_package_entrance_tickets,174448.0,191682.0,3.1,2.7
+Perak,other_activities,190028.0,252178.0,3.4,3.5
+Perak,expenditure_by_visited_households,580776.0,878798.0,10.3,12.2
+Perak,total_receipts,5641024.0,7223798.0,100.0,100.0
+Perlis,expenditure_by_visitors,516473.0,880942.0,88.5,87.8
+Perlis,shopping,159277.0,288897.0,27.3,28.8
+Perlis,automotive_fuel,104736.0,162108.0,17.9,16.2
+Perlis,transportation,43644.0,76212.0,7.5,7.6
+Perlis,food_and_beverage,104970.0,192032.0,18.0,19.1
+Perlis,accommodation,72931.0,98789.0,12.5,9.9
+Perlis,pre_trip_package_entrance_tickets,8131.0,27211.0,1.4,2.7
+Perlis,other_activities,22783.0,35694.0,3.9,3.6
+Perlis,expenditure_by_visited_households,67397.0,121871.0,11.5,12.2
+Perlis,total_receipts,583870.0,1002814.0,100.0,100.0
+Pulau Pinang,expenditure_by_visitors,5576867.0,7101838.0,95.9,95.7
+Pulau Pinang,shopping,2431318.0,3025861.0,41.8,40.8
+Pulau Pinang,automotive_fuel,599680.0,821441.0,10.3,11.1
+Pulau Pinang,transportation,355326.0,431434.0,6.1,5.8
+Pulau Pinang,food_and_beverage,983682.0,1227183.0,16.9,16.5
+Pulau Pinang,accommodation,714831.0,961938.0,12.3,13.0
+Pulau Pinang,pre_trip_package_entrance_tickets,242333.0,327800.0,4.2,4.4
+Pulau Pinang,other_activities,249697.0,306181.0,4.3,4.1
+Pulau Pinang,expenditure_by_visited_households,237869.0,322454.0,4.1,4.3
+Pulau Pinang,total_receipts,5814735.0,7424291.0,100.0,100.0
+Sabah,expenditure_by_visitors,6362023.0,7964388.0,94.8,92.2
+Sabah,shopping,2461886.0,3176540.0,36.7,36.8
+Sabah,automotive_fuel,798981.0,986736.0,11.9,11.4
+Sabah,transportation,547792.0,729374.0,8.2,8.4
+Sabah,food_and_beverage,1093929.0,1287622.0,16.3,14.9
+Sabah,accommodation,1008654.0,1034404.0,15.0,12.0
+Sabah,pre_trip_package_entrance_tickets,274259.0,458795.0,4.1,5.3
+Sabah,other_activities,176522.0,290917.0,2.6,3.4
+Sabah,expenditure_by_visited_households,350492.0,669858.0,5.2,7.8
+Sabah,total_receipts,6712515.0,8634247.0,100.0,100.0
+Sarawak,expenditure_by_visitors,6440169.0,7425166.0,92.8,93.3
+Sarawak,shopping,2655605.0,3208490.0,38.3,40.3
+Sarawak,automotive_fuel,989487.0,1033752.0,14.3,13.0
+Sarawak,transportation,569398.0,700774.0,8.2,8.8
+Sarawak,food_and_beverage,981635.0,1124258.0,14.1,14.1
+Sarawak,accommodation,779551.0,823116.0,11.2,10.3
+Sarawak,pre_trip_package_entrance_tickets,225768.0,243995.0,3.3,3.1
+Sarawak,other_activities,238725.0,290781.0,3.4,3.7
+Sarawak,expenditure_by_visited_households,502504.0,531505.0,7.2,6.7
+Sarawak,total_receipts,6942673.0,7956671.0,100.0,100.0
+Selangor,expenditure_by_visitors,10382143.0,13498762.0,93.5,94.9
+Selangor,shopping,4144811.0,6091680.0,37.3,42.8
+Selangor,automotive_fuel,1562916.0,1816491.0,14.1,12.8
+Selangor,transportation,769174.0,911441.0,6.9,6.4
+Selangor,food_and_beverage,1847020.0,2224198.0,16.6,15.6
+Selangor,accommodation,1299080.0,1369214.0,11.7,9.6
+Selangor,pre_trip_package_entrance_tickets,351236.0,508593.0,3.2,3.6
+Selangor,other_activities,407906.0,577145.0,3.7,4.1
+Selangor,expenditure_by_visited_households,720570.0,727363.0,6.5,5.1
+Selangor,total_receipts,11102713.0,14226126.0,100.0,100.0
+Terengganu,expenditure_by_visitors,3897474.0,4753359.0,93.0,91.9
+Terengganu,shopping,1650481.0,2033824.0,39.4,39.3
+Terengganu,automotive_fuel,582975.0,663228.0,13.9,12.8
+Terengganu,transportation,248973.0,309689.0,5.9,6.0
+Terengganu,food_and_beverage,791250.0,947370.0,18.9,18.3
+Terengganu,accommodation,359323.0,437078.0,8.6,8.5
+Terengganu,pre_trip_package_entrance_tickets,98603.0,140166.0,2.4,2.7
+Terengganu,other_activities,165869.0,222002.0,4.0,4.3
+Terengganu,expenditure_by_visited_households,294844.0,417004.0,7.0,8.1
+Terengganu,total_receipts,4192317.0,5170363.0,100.0,100.0
+W.P. Kuala Lumpur,expenditure_by_visitors,10615475.0,13642400.0,96.5,96.9
+W.P. Kuala Lumpur,shopping,4850552.0,6778855.0,44.1,48.2
+W.P. Kuala Lumpur,automotive_fuel,851337.0,1149982.0,7.7,8.2
+W.P. Kuala Lumpur,transportation,615285.0,734185.0,5.6,5.2
+W.P. Kuala Lumpur,food_and_beverage,1594886.0,2070359.0,14.5,14.7
+W.P. Kuala Lumpur,accommodation,1673791.0,1702978.0,15.2,12.1
+W.P. Kuala Lumpur,pre_trip_package_entrance_tickets,419556.0,505596.0,3.8,3.6
+W.P. Kuala Lumpur,other_activities,610067.0,700445.0,5.5,5.0
+W.P. Kuala Lumpur,expenditure_by_visited_households,379849.0,435258.0,3.5,3.1
+W.P. Kuala Lumpur,total_receipts,10995324.0,14077658.0,100.0,100.0
+W.P. Labuan,expenditure_by_visitors,182509.0,246296.0,94.0,93.1
+W.P. Labuan,shopping,65358.0,93915.0,33.7,35.5
+W.P. Labuan,automotive_fuel,17533.0,25231.0,9.0,9.5
+W.P. Labuan,transportation,20017.0,24050.0,10.3,9.1
+W.P. Labuan,food_and_beverage,30999.0,43516.0,16.0,16.4
+W.P. Labuan,accommodation,37054.0,38390.0,19.1,14.5
+W.P. Labuan,pre_trip_package_entrance_tickets,7204.0,13134.0,3.7,5.0
+W.P. Labuan,other_activities,4344.0,8061.0,2.2,3.0
+W.P. Labuan,expenditure_by_visited_households,11555.0,18267.0,6.0,6.9
+W.P. Labuan,total_receipts,194064.0,264563.0,100.0,100.0
+W.P. Putrajaya,expenditure_by_visitors,634332.0,882423.0,94.7,94.2
+W.P. Putrajaya,shopping,238298.0,339217.0,35.6,36.2
+W.P. Putrajaya,automotive_fuel,100711.0,130960.0,15.0,14.0
+W.P. Putrajaya,transportation,67480.0,89987.0,10.1,9.6
+W.P. Putrajaya,food_and_beverage,111623.0,179380.0,16.7,19.1
+W.P. Putrajaya,accommodation,54150.0,64616.0,8.1,6.9
+W.P. Putrajaya,pre_trip_package_entrance_tickets,31076.0,31291.0,4.6,3.3
+W.P. Putrajaya,other_activities,30994.0,46971.0,4.6,5.0
+W.P. Putrajaya,expenditure_by_visited_households,35397.0,54553.0,5.3,5.8
+W.P. Putrajaya,total_receipts,669729.0,936976.0,100.0,100.0

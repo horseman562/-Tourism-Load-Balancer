@@ -28,3 +28,6 @@ geo_state.json.tmp
 Thumbs.db
 .DS_Store
 dosm-raw-data.zip
+
+# Session transfer bundle — conversation history, not project code
+claude-session-transfer.zip
